@@ -1,0 +1,12 @@
+[03-Oct-2024 17:41:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/mu-plugins/sso.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/mu-plugins/sso.php on line 59
+[15-Nov-2024 15:56:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/mu-plugins/sso.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/mu-plugins/sso.php on line 59
+[19-Nov-2024 15:28:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/mu-plugins/sso.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/mu-plugins/sso.php on line 59

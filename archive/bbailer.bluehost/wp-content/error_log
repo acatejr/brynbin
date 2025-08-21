@@ -1,0 +1,24 @@
+[18-Aug-2024 12:23:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/install.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/install.php on line 31
+[09-Oct-2024 02:48:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/install.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/install.php on line 31
+[12-Oct-2024 20:50:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/install.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/install.php on line 31
+[15-Oct-2024 04:26:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/install.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/install.php on line 31
+[15-Oct-2024 19:38:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/install.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/install.php on line 31
+[05-Mar-2025 08:39:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/brynbail/public_html/wp-content/install.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/install.php on line 31

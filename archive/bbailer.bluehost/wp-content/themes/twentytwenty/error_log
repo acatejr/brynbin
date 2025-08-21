@@ -1,0 +1,68 @@
+[15-Apr-2025 18:24:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[19-Apr-2025 09:45:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[23-Apr-2025 07:36:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[23-Apr-2025 19:49:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[24-Apr-2025 14:21:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[27-Apr-2025 19:16:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[28-Apr-2025 23:51:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[29-Apr-2025 19:13:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[01-May-2025 20:15:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[02-May-2025 15:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[05-May-2025 18:53:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[28-May-2025 05:58:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[29-May-2025 08:10:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[05-Jun-2025 00:22:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[03-Jul-2025 07:45:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[05-Jul-2025 14:16:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17
+[07-Jul-2025 03:20:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-content/themes/twentytwenty/index.php on line 17

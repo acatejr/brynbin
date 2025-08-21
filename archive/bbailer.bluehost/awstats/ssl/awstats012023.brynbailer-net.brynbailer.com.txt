@@ -1,0 +1,486 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202301 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer-net.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2703                
+POS_VISITOR 11128               
+POS_DAY 13352               
+POS_DOMAIN 3239                
+POS_LOGIN 3554                
+POS_ROBOT 3709                
+POS_WORMS 3967                
+POS_EMAILSENDER 4098                
+POS_EMAILRECEIVER 4241                
+POS_SESSION 13823               
+POS_SIDER 13980               
+POS_FILETYPES 4376                
+POS_DOWNLOADS 4454                
+POS_OS 4502                
+POS_BROWSER 4723                
+POS_SCREENSIZE 5190                
+POS_UNKNOWNREFERER 5264                
+POS_UNKNOWNREFERERBROWSER 5894                
+POS_ORIGIN 6332                
+POS_SEREFERRALS 6464                
+POS_PAGEREFS 6644                
+POS_SEARCHWORDS 6819                
+POS_KEYWORDS 6971                
+POS_MISC 2367                
+POS_ERRORS 7030                
+POS_CLUSTER 3410                
+POS_SIDER_404 7141                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230201093234 1 0 13648855037072
+FirstTime 20230101081448
+LastTime 20230131170917
+LastUpdate 20230202053307 1 0 0 0 0
+TotalVisits 65                  
+TotalUnique 61                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 61                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 4 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 1 2 0
+1 1 1 0 2 2 226
+2 5 5 0 14 14 2795
+3 3 3 0 13 14 2569
+4 4 4 0 17 18 2795
+5 1 1 0 3 5 0
+6 0 0 0 56 58 0
+7 2 2 0 0 0 0
+8 2 2 0 1 1 226
+9 2 2 0 28 33 5590
+10 4 4 0 0 0 0
+11 4 4 0 31 33 3391
+12 0 0 0 0 0 0
+13 1 1 0 3 4 0
+14 4 4 0 8 10 1644
+15 2 2 0 0 0 0
+16 6 6 0 55 55 4151
+17 2 2 0 30 32 5590
+18 6 6 0 57 59 9349
+19 1 1 0 0 1 0
+20 10 10 0 18 19 4521
+21 6 6 0 0 0 0
+22 4 4 0 7 7 0
+23 1 1 0 3 5 226
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+ca 29 29 0
+us 19 19 0
+cn 9 9 0
+fr 4 4 0
+jp 4 4 0
+be 2 2 0
+kr 1 1 0
+au 1 1 0
+iq 1 1 0
+gb 1 1 0
+ru 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Go\-http\-client/ 6 0 20230116172057 0
+no_user_agent 4 0 20230131014325 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 0 20230116165208 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 72 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win10 10 10
+win8.1 1 1
+macosx11 7 7
+android 2 2
+winxp 2 2
+linuxubuntu 4 4
+androidmarshmallow 2 2
+androidnougat 2 2
+win7 2 2
+androidfroyo 3 3
+Unknown 37 37
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+firefox58.0 4 4
+mozilla 8 8
+Unknown 29 29
+firefox75.0 1 1
+chrome35.0.2117.157 1 1
+firefox52.0 1 1
+msie7.0 1 1
+firefox47.0 7 7
+chrome72.0.3626.121 1 1
+chrome99.0.4859.172 1 1
+chrome60.0.3112.107 2 2
+chrome36.0.1985.67 1 1
+chrome84.0.4147.105 1 1
+chrome89.0.4389.114 1 1
+firefox50.0 1 1
+chrome103.0.5060.114 2 2
+chrome63.0.3239.132 2 2
+chrome74.0.3729.169 1 1
+android 3 3
+chrome52.0.1138.98 2 2
+chrome95.0.4638.69 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131170917
+Avant_Browser/1.2.789rel1_(http://www.avantbrowser.com) 20230117030804
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230123142801
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230127092041
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Avant_Browser/1.2.789rel1_(http://www.avantbrowser.com) 20230117030804
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131170917
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 61 61
+From1 0 0
+From2 3 3
+From3 5 5
+From4 3 3
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_bing_com 2 2
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://67.222.39.71:80 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+406 172 38872
+404 174 0
+409 11 913
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 122
+/adminer/adminer.php 1 -
+/about 2 -
+/server-status 2 -
+/adminer-4.6.3/ 1 -
+/adminer-4.7.3.php 1 -
+/.git/config 4 -
+/adminer-4.7.6-mysql.php 1 -
+/wp-content/themes/seotheme/db.php 6 www.google.com
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/alfacgiapi/perl.alfa 2 www.google.com
+/wp-content/ 1 -
+/adminer-4.6.3-mysql.php 1 -
+/.local 1 https://www.google.com/
+/adminer-4.7.0.php 1 -
+/plugins/kcfinder/upload.php 1 -
+/xrmkxpnk.php 1 www.google.com
+/adminer-mysql.php 1 -
+/adminer-4.7.4.php 1 -
+/info.php 2 -
+/adminer-4.8.0/ 1 -
+/kslbbmqd.php 1 www.google.com
+/adminer-4.6.2-en.php 1 -
+/adminer-4.7.8.php 1 -
+/adminer-4.8.0-mysql.php 1 -
+/assets/filemanager/dialog.php 1 -
+/wp-plain.php 4 www.google.com
+/wp-admin/style.php 1 -
+/.vscode/sftp.json 2 -
+/adminer-4.6.2-mysql.php 1 -
+/debug/default/view 2 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/js/kcfinder/upload.php 1 -
+/adminer-4.8.0-en.php 1 -
+/manager/adminer.php 1 -
+/scripts/filemanager/dialog.php 1 -
+//wp-includes/ID3/license.txt 8 -
+/telescope/requests 2 -
+/adminer-4.7.7.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/tools/adminer.php 1 -
+/adminer-4.6.2/ 1 -
+/adminer-4.7.2.php 1 -
+/adminer/ 1 -
+/adminer-4.7.5.php 1 -
+/adminer-4.6.2-mysql-en.php 1 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/mysql.php 1 -
+/adminer-4.8.0-mysql-en.php 1 -
+/adminer-4.7.1.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/login.action 2 -
+/adm.php 1 -
+/admin/.env 1 https://www.google.com/
+/new 1 http://brynbailer-net.brynbailer.com/new
+/adminer-4.6.1.php 1 -
+/adminer-4.7.7-mysql-en.php 1 -
+/adminer-4.7.1/ 1 -
+/admin/adminer.php 1 -
+/home 1 http://brynbailer-net.brynbailer.com/home
+/adminer-4.7.5-mysql.php 1 -
+/.remote 1 https://www.google.com/
+/v2/_catalog 2 -
+/robots.txt 9 -
+/oakbskrd.php 1 www.google.com
+/Public/home/js/check.js 2 -
+/adminer-4.7.1-mysql.php 1 -
+/wp-commentin.php 1 -
+/assets/plugins/kcfinder/upload.php 1 -
+/backup 1 http://brynbailer-net.brynbailer.com/backup
+/api/search 2 -
+/bc 1 http://brynbailer-net.brynbailer.com/bc
+/adminer-4.7.8-en.php 1 -
+/static/admin/javascript/hetong.js 2 -
+/adminer-4.7.7/ 1 -
+/wp 1 http://brynbailer-net.brynbailer.com/wp
+/admin/filemanager/dialog.php 1 -
+/adminer-4.6.2.php 1 -
+/data/adminer.php 1 -
+/adminer-4.7.7-mysql.php 1 -
+/adminer.php 1 -
+/filemanager/dialog.php 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/adminer-4.6.3-mysql-en.php 1 -
+/adminer-4.7.7-en.php 1 -
+/adminer1.php 1 -
+/_ignition/health-check/ 1 http://brynbailer-net.brynbailer.com/_ignition/health-check/
+/old 1 http://brynbailer-net.brynbailer.com/old
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 -
+/adminer-4.7.8/ 1 -
+/adminer-4.7.8-mysql.php 1 -
+/adminer-4.7.1-mysql-en.php 1 -
+/adminer-4.8.0.php 1 -
+/sql.php 1 -
+/public/_ignition/health-check/ 1 http://brynbailer-net.brynbailer.com/public/_ignition/health-check/
+/s/1373e29333e2232323e27363/_/ 2 -
+/main 1 http://brynbailer-net.brynbailer.com/main
+/.production 1 https://www.google.com/
+/wp-admin/setup-config.php 1 -
+/phpmyadmin.php 1 -
+/style.php 1 -
+/bbpchlhr.php 1 www.google.com
+/.DS_Store 2 -
+/asset/kcfinder/upload.php 1 -
+/adm/adminer.php 1 -
+/adminer-4.7.6.php 1 -
+/assets/js/kcfinder/upload.php 1 -
+/assets/kcfinder/upload.php 1 -
+/bk 1 http://brynbailer-net.brynbailer.com/bk
+/adminer-4.7.3-mysql.php 1 -
+/adminer-4.7.4/ 1 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/adminer-4.7.4-mysql.php 1 -
+/kcfinder/upload.php 1 -
+/config.json 2 -
+/adminer-4.6.3.php 1 -
+/_adminer.php 1 -
+/adminer-4.7.0-mysql.php 1 -
+//feed/ 10 -
+/wordpress/wp-admin/setup-config.php 1 -
+/wordpress 1 http://brynbailer-net.brynbailer.com/wordpress
+/wp-cc.php 1 -
+/adminer-4.7.5-en.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+101.68.211.2 7 7 0 20230131155859
+167.248.133.120 2 2 0 20230116204615
+167.248.133.119 2 2 0 20230123142801
+134.209.214.99 2 2 0 20230130024806
+167.94.138.120 2 2 0 20230117111845
+183.136.225.46 2 2 0 20230123104549
+198.235.24.25 1 1 0 20230127144718
+205.210.31.5 1 1 0 20230115044206
+198.235.24.153 1 1 0 20230113214511
+205.210.31.31 1 1 0 20230127215841
+168.151.115.41 1 1 0 20230116204647
+170.64.149.202 1 1 0 20230128112227
+205.210.31.38 1 1 0 20230122204352
+205.210.31.182 1 1 0 20230110185923
+47.254.74.59 1 1 0 20230117090435
+39.110.218.101 1 1 0 20230116165157
+139.144.188.49 1 1 0 20230116165217
+185.150.191.61 1 1 0 20230120222222
+51.195.195.183 1 1 0 20230117030804
+198.235.24.54 1 1 0 20230121072736
+198.235.24.36 1 1 0 20230120080951
+205.210.31.10 1 1 0 20230122072450
+198.235.24.9 1 1 0 20230107000117
+205.210.31.2 1 1 0 20230128202312
+133.242.140.127 1 1 0 20230116185057
+198.235.24.3 1 1 0 20230129012804
+209.126.86.35 1 1 0 20230123181817
+205.210.31.11 1 1 0 20230125022808
+213.188.79.60 1 1 0 20230116205444
+87.236.176.36 1 1 0 20230127092041
+205.210.31.151 1 1 0 20230106110805
+104.243.33.125 1 1 0 20230119140915
+205.210.31.186 1 1 0 20230106205844
+198.235.24.183 1 1 0 20230131034817
+205.210.31.33 1 1 0 20230113174919
+198.235.24.161 1 1 0 20230121021424
+198.235.24.163 1 1 0 20230122034137
+205.210.31.6 1 1 0 20230102214144
+35.212.213.55 1 1 0 20230118134140
+205.210.31.20 1 1 0 20230131170917
+205.210.31.27 1 1 0 20230117225216
+205.210.31.51 1 1 0 20230109180503
+43.130.150.253 1 1 0 20230124162742
+23.97.205.210 1 1 0 20230129212449
+110.14.63.77 1 1 0 20230117100927
+133.242.174.119 1 1 0 20230116185058
+51.255.62.9 1 1 0 20230117020831
+205.210.31.53 1 1 0 20230124214821
+198.235.24.32 1 1 0 20230117040340
+205.210.31.45 1 1 0 20230115103246
+51.254.49.103 1 1 0 20230117044014
+51.255.62.12 1 1 0 20230117020831
+168.151.100.40 1 1 0 20230116204538
+170.187.164.177 1 1 0 20230116165217
+34.241.104.15 1 1 0 20230119183040
+205.210.31.167 1 1 0 20230126192607
+47.88.86.63 1 1 0 20230117051749
+205.210.31.57 1 1 0 20230129231315
+119.12.191.66 1 1 0 20230116205436
+87.236.176.33 1 1 0 20230101211046
+51.254.49.97 1 1 0 20230117043949
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20230101 2 2 0 2
+20230102 1 1 0 1
+20230106 2 2 0 2
+20230107 1 1 0 1
+20230109 1 1 0 1
+20230110 1 1 0 1
+20230113 2 2 0 2
+20230115 2 2 0 2
+20230116 11 11 0 10
+20230117 14 14 0 12
+20230118 3 3 0 2
+20230119 2 2 0 2
+20230120 2 2 0 2
+20230121 2 2 0 2
+20230122 3 3 0 3
+20230123 5 5 0 3
+20230124 2 2 0 2
+20230125 1 1 0 1
+20230126 1 1 0 1
+20230127 4 4 0 4
+20230128 2 2 0 2
+20230129 3 3 0 3
+20230130 1 1 0 1
+20230131 4 4 0 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 3
+0s-30s 62
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 72 0 65 65
+END_SIDER

@@ -1,0 +1,32 @@
+[15-Nov-2024 16:07:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[15-Nov-2024 16:07:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[15-Nov-2024 16:07:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[15-Nov-2024 16:08:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[19-Nov-2024 15:35:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[19-Nov-2024 15:35:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[19-Nov-2024 15:35:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[19-Nov-2024 15:35:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home3/brynbail/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-patterns/query-small-posts.php on line 9

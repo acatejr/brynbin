@@ -1,0 +1,548 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202203 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer-net.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2705                
+POS_VISITOR 11743               
+POS_DAY 14322               
+POS_DOMAIN 3318                
+POS_LOGIN 3662                
+POS_ROBOT 3817                
+POS_WORMS 3949                
+POS_EMAILSENDER 4080                
+POS_EMAILRECEIVER 4223                
+POS_SESSION 14860               
+POS_SIDER 15007               
+POS_FILETYPES 4358                
+POS_DOWNLOADS 4459                
+POS_OS 4507                
+POS_BROWSER 4711                
+POS_SCREENSIZE 5216                
+POS_UNKNOWNREFERER 5290                
+POS_UNKNOWNREFERERBROWSER 6027                
+POS_ORIGIN 6570                
+POS_SEREFERRALS 6704                
+POS_PAGEREFS 6848                
+POS_SEARCHWORDS 6996                
+POS_KEYWORDS 7148                
+POS_MISC 2369                
+POS_ERRORS 7207                
+POS_CLUSTER 3518                
+POS_SIDER_404 7320                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220401021119 21 5080 15418916386108
+FirstTime 20220301004946
+LastTime 20220331180635
+LastUpdate 20220401062510 21 0 20 0 0
+TotalVisits 93                  
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 71                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 702 116 116 1628
+1 6 6 0 23 23 535
+2 4 4 0 46 46 1296
+3 2 2 0 60 60 987
+4 7 7 0 47 47 1010
+5 6 6 0 37 37 844
+6 6 6 0 43 45 1379
+7 13 13 0 89 89 1319
+8 4 4 0 39 39 1522
+9 7 7 0 118 118 18970
+10 8 8 0 49 49 927
+11 3 3 0 36 36 701
+12 2 2 0 30 30 332
+13 15 15 351 117 117 1093
+14 3 3 0 34 34 1070
+15 5 5 0 54 54 5447
+16 15 15 824 19 21 618
+17 6 6 351 65 66 535
+18 6 6 0 52 54 927
+19 9 9 351 49 49 701
+20 4 4 0 37 37 618
+21 6 6 0 53 53 1379
+22 5 5 351 52 52 1153
+23 4 4 0 40 40 1010
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 130 130 1526
+gb 10 10 0
+pt 3 3 0
+cn 3 3 0
+il 3 3 702
+gr 2 2 0
+ca 2 2 0
+ua 1 1 351
+de 1 1 0
+hk 1 1 0
+fr 1 1 0
+in 1 1 0
+ru 1 1 351
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 149 2106 0 0
+Unknown 10 824 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+Unknown 22 22
+win10 118 118
+macosx10 1 1
+win8.1 9 9
+macosx9 1 1
+linux 1 1
+macosx 2 2
+ios_iphone 1 1
+linuxandroid 2 2
+macosx6 1 1
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome89.0.4389.114 15 15
+chrome85.0.4183.83 2 2
+safari15.1 1 1
+chrome78.0.3904.108 19 19
+firefox28.0 1 1
+chrome64.0.2523.3 1 1
+chrome39.0.2171.95 1 1
+Unknown 7 7
+chrome84.0.4147.105 1 1
+android 1 1
+chrome76.0.3809.132 14 14
+safari5.1 1 1
+chrome73.0.3683.86 9 9
+chrome95.0.4638.69 32 32
+firefox50.0 1 1
+chrome36.0.1985.125 1 1
+chrome88.0.4240.193 25 25
+chrome90.0.4430.85 6 6
+chrome65.0.3289.156 1 1
+firefox58.0 4 4
+chrome60.0.3112.107 1 1
+mozilla 15 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220330071157
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20220317165234
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220329015529
+Cpanel-HTTP-Client/1.0 20220317165226
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220328113046
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220329015529
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220328113046
+Cpanel-HTTP-Client/1.0 20220317165226
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 153 153
+From1 6 6
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+409 75 6225
+404 1061 0
+406 175 39550
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 167
+/cms/wp-admin/install.php 2 -
+/wp3 1 -
+/new-index.php 3 -
+/shx.php 1 -
+/site/wp-admin/install.php 3 -
+/404.php 1 -
+/Old 1 -
+/old_wp 1 -
+/WordPress/wp-admin/install.php 1 -
+/xlet.php 1 -
+/sh3llx.php 1 -
+/oldsite/wp-admin/install.php 2 -
+/fw.php 1 -
+/Backup/wp-admin/install.php 1 -
+/site/wp-admin/includes/ 2 www.google.com
+/2021/wp-admin/install.php 1 -
+/kindex.php 1 -
+/test/wp-admin/setup-config.php 1 -
+/site/wp-includes/wlwmanifest.xml 55 -
+/home 1 -
+/WP/wp-admin/setup-config.php 1 -
+/images/ 6 binance.com
+/home/wp-admin/setup-config.php 1 -
+/sito/wp-includes/wlwmanifest.xml 39 -
+/sym.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 55 -
+/sites/default/files/ 6 binance.com
+/2020/wp-admin/install.php 1 -
+/wp_wrong_datlib.php 1 -
+/blog 2 -
+/news/wp-includes/wlwmanifest.xml 39 -
+/wp-admin/install.php 3 -
+/old/wp-admin/install.php 3 -
+/wp-admin/setup-config.php 1 -
+/home/wp-admin/install.php 1 -
+/wikindex.php 4 -
+/BACKUP/wp-admin/install.php 1 -
+/0byte.php 1 -
+/files/ 6 binance.com
+/dup-installer/main.installer.php 1 -
+/wordpress/ 4 -
+/new 1 -
+/site/wp-admin/setup-config.php 1 -
+/xl.php 1 -
+/autoload_classmap.php 1 -
+/wp-admin/includes/class-wp-media-list-data.php 1 -
+/filemanager/dialog.php 1 -
+/wp_old 1 -
+/2018/wp-includes/wlwmanifest.xml 24 -
+/blog/wp-includes/wlwmanifest.xml 48 -
+/blog/robots.txt 2 -
+/wp/wp-admin/install.php 2 -
+/ups.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 39 -
+/takeout.php 1 -
+/2016/wp-includes/wlwmanifest.xml 6 -
+/website/wp-includes/wlwmanifest.xml 39 -
+/media/wp-includes/wlwmanifest.xml 24 -
+/xindex.php 1 -
+/test_404_page/ 1 -
+/2019/wp-includes/wlwmanifest.xml 49 -
+/stindex.php 1 -
+/backup/wp-admin/setup-config.php 1 -
+/2index.php 4 -
+/wordpress 2 -
+/test/wp-includes/wlwmanifest.xml 55 -
+/install 1 -
+/press 1 -
+/11index.php 1 -
+/WP/wp-admin/install.php 1 -
+/assets/filemanager/dialog.php 1 -
+/wp-admin/css/ 6 binance.com
+/c99.php 1 -
+/admin/controller/extension/extension/ 6 binance.com
+/beta 1 -
+/wp-admin/includes/ 2 www.google.com
+/xleet.php 2 -
+/wp2 1 -
+/jindex.php 1 -
+/Backup/wp-admin/setup-config.php 1 -
+/wp1/wp-includes/wlwmanifest.xml 55 -
+/wso.php 1 -
+/wp-content/ 2 -
+/WP 1 -
+/backup/wp-admin/install.php 3 -
+/qindex.php 1 -
+/2021/wp-includes/wlwmanifest.xml 16 -
+/WordPress/wp-admin/setup-config.php 1 -
+/www 1 -
+/site 1 -
+/wordpress/wp-admin/install.php 3 -
+/wordpress/wp-admin/setup-config.php 1 -
+/Old/wp-admin/install.php 1 -
+/wp/test 1 -
+/sindex.php 3 -
+/robots.txt 4 -
+/blog/wp-admin/install.php 3 -
+/Old/wp-admin/setup-config.php 1 -
+/1index.php 4 -
+/en 1 -
+/wp1 1 -
+/wp-content/fw.php 1 -
+/assets/admin/js/filemanager/dialog.php 1 -
+//wp-content/plugins/dzs-zoomsounds/savepng.php 1 -
+/WORDPRESS/wp-admin/setup-config.php 1 -
+/admin.php 2 -
+/administrator/index.php 5 -
+/wp 2 -
+/2017/wp-includes/wlwmanifest.xml 6 -
+/2021/wp-admin/setup-config.php 1 -
+/portal 1 -
+/test 1 -
+/uploads/ 6 binance.com
+/demo 1 -
+/sym403.php 1 -
+/demo/wp-admin/install.php 1 -
+/up.php 1 -
+/blogs 1 -
+/blog/wp-admin/includes/ 2 www.google.com
+/alwso.php 1 -
+/shop/wp-includes/wlwmanifest.xml 55 -
+/doc.php 1 -
+/old-index.php 3 -
+/v1 1 -
+/main 1 -
+/admin/index.php 1 -
+/alfa.php 1 -
+/WORDPRESS/wp-admin/install.php 1 -
+/DKIZ.php 1 -
+/news 1 -
+/2020/wp-includes/wlwmanifest.xml 31 -
+/class-wp-widget-archives.php 1 -
+/test/wp-admin/install.php 3 -
+/old/wp-admin/setup-config.php 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/mini.php 1 -
+/2015/wp-includes/wlwmanifest.xml 6 -
+/demo/wp-admin/setup-config.php 1 -
+/website 1 -
+/symlink.php 1 -
+/wp-login.php 2 -
+/v2 1 -
+/blog/ 2 -
+/new/wp-admin/setup-config.php 1 -
+/web/wp-includes/wlwmanifest.xml 55 -
+/wp/ 3 -
+/oldwp 1 -
+/wp/wp-includes/wlwmanifest.xml 55 -
+/xleet-shell.php 1 -
+/wordpress/wp-admin/includes/ 2 www.google.com
+/403.php 1 -
+/3index.php 2 -
+/baindex.php 3 -
+/new/wp-admin/install.php 3 -
+/BACKUP/wp-admin/setup-config.php 1 -
+/web/wp-admin/install.php 2 -
+/cms/wp-includes/wlwmanifest.xml 55 -
+/cms 1 -
+/2020/wp-admin/setup-config.php 1 -
+/shell.php 1 -
+/old 1 -
+/media-admin.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/radio.php 1 -
+/feed/ 16 -
+/wp.php 1 -
+/wp/wp-admin/includes/ 2 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 71
+52.255.158.78 8 8 0 20220309005929
+167.172.74.247 7 7 0 20220329020607
+20.51.176.83 7 7 0 20220326103633
+137.184.234.69 6 6 0 20220323135945
+159.223.89.130 6 6 0 20220323172435
+20.74.182.88 5 5 0 20220330095145
+68.183.224.183 5 5 0 20220320072516
+40.88.28.143 5 5 0 20220321040208
+40.84.7.39 4 4 0 20220327155558
+20.63.222.45 4 4 0 20220314081555
+20.25.127.69 4 4 0 20220325135416
+67.222.39.71 4 4 128 20220323100908
+13.90.207.179 4 4 0 20220309093752
+20.127.161.16 3 3 0 20220304055911
+20.230.138.236 3 3 0 20220322133603
+159.223.49.14 3 3 0 20220320044322
+40.88.130.55 3 3 0 20220302002412
+51.143.18.139 2 2 0 20220321071548
+40.77.95.12 2 2 0 20220301004946
+82.102.25.139 2 2 0 20220304203043
+40.121.128.178 2 2 0 20220314032905
+52.142.44.145 2 2 0 20220323161054
+20.111.21.82 2 2 0 20220320134126
+2.56.59.142 2 2 702 20220313190850
+142.93.199.104 2 2 0 20220331155636
+162.142.125.221 1 1 0 20220307060045
+172.245.153.179 1 1 0 20220326194731
+167.94.138.63 1 1 0 20220327091707
+208.109.36.200 1 1 351 20220318004744
+2.56.56.192 1 1 0 20220308052542
+92.118.160.13 1 1 0 20220328113046
+162.142.125.211 1 1 0 20220330071157
+13.90.231.207 1 1 0 20220310092930
+34.77.162.25 1 1 0 20220329015529
+136.243.176.240 1 1 0 20220329193717
+91.236.254.96 1 1 0 20220315173644
+82.102.25.137 1 1 0 20220301211012
+20.214.105.231 2 2 0 20220326135050
+51.81.167.146 1 1 0 20220317165304
+18.116.86.117 2 2 174 20220317165233
+35.215.64.144 1 1 0 20220309175413
+67.205.152.51 2 2 0 20220312021815
+20.127.89.112 2 2 0 20220303124154
+103.77.232.78 1 1 0 20220312135229
+64.78.149.164 2 2 174 20220317165233
+161.35.98.150 1 1 351 20220309131920
+34.86.35.17 1 1 0 20220321130917
+148.153.98.19 1 1 0 20220331180635
+116.206.228.179 1 1 0 20220327163937
+103.62.48.227 1 1 0 20220306004027
+13.82.61.7 2 2 0 20220304075255
+162.142.125.9 1 1 0 20220308060335
+167.248.133.119 1 1 0 20220315093853
+13.77.183.115 2 2 0 20220329083427
+20.22.202.85 2 2 0 20220310221728
+167.248.133.61 1 1 0 20220329071545
+92.118.160.37 1 1 0 20220326214011
+195.133.18.227 1 1 351 20220319005914
+20.185.192.72 2 2 0 20220312211735
+34.219.87.132 2 2 174 20220317165233
+20.121.202.44 2 2 0 20220319114700
+95.216.45.172 1 1 351 20220322220818
+34.77.162.26 1 1 0 20220325164204
+40.123.28.18 2 2 0 20220307204459
+20.231.102.235 2 2 0 20220330184114
+167.248.133.44 1 1 0 20220326070234
+172.245.6.156 1 1 0 20220329150003
+116.206.228.180 2 2 0 20220313211740
+18.192.36.99 2 2 174 20220317165234
+20.110.134.240 2 2 0 20220327235602
+52.234.248.74 1 1 0 20220301025155
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20220301 4 4 0 3
+20220302 5 5 0 2
+20220303 5 5 0 3
+20220304 8 8 351 4
+20220306 8 8 0 4
+20220307 5 5 0 3
+20220308 2 2 0 2
+20220309 6 6 351 4
+20220310 3 3 0 2
+20220312 5 5 0 3
+20220313 5 5 351 3
+20220314 4 4 0 2
+20220315 4 4 0 3
+20220317 13 13 824 7
+20220318 2 2 351 2
+20220319 3 3 351 2
+20220320 10 10 0 5
+20220321 10 10 0 5
+20220322 4 4 351 2
+20220323 15 15 0 6
+20220325 5 5 0 3
+20220326 6 6 0 5
+20220327 8 8 0 5
+20220328 1 1 0 1
+20220329 7 7 0 6
+20220330 8 8 0 4
+20220331 3 3 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 93
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 143 0 82 82
+/.well-known/ 6 2106 6 6
+/.well-known/acme-challenge/lArfJ575adrSxlW0N4uw1n6227S0pTmJZE973nIrBzA 4 348 4 0
+/.well-known/acme-challenge/Cl00Q9D6E6Kg36_iPLA5g7H6Hje_iztxxcAIDB1OcOc 4 348 0 4
+/.well-known/acme-challenge/INN_MM-08RF9_KRYWKGYRK55N5UY4TR2 1 64 1 0
+/.well-known/acme-challenge/F7MGMMM9TXP9GRV23TE3C-3CBRX8B29W 1 64 0 1
+END_SIDER

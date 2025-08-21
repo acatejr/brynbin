@@ -1,0 +1,566 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202110 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2696                
+POS_VISITOR 11421               
+POS_DAY 14912               
+POS_DOMAIN 3440                
+POS_LOGIN 3787                
+POS_ROBOT 3942                
+POS_WORMS 4180                
+POS_EMAILSENDER 4311                
+POS_EMAILRECEIVER 4454                
+POS_SESSION 15674               
+POS_SIDER 15871               
+POS_FILETYPES 4589                
+POS_DOWNLOADS 4860                
+POS_OS 4908                
+POS_BROWSER 5083                
+POS_SCREENSIZE 5613                
+POS_UNKNOWNREFERER 5687                
+POS_UNKNOWNREFERERBROWSER 6494                
+POS_ORIGIN 7209                
+POS_SEREFERRALS 7350                
+POS_PAGEREFS 7516                
+POS_SEARCHWORDS 7720                
+POS_KEYWORDS 7872                
+POS_MISC 2359                
+POS_ERRORS 7931                
+POS_CLUSTER 3643                
+POS_SIDER_404 8099                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211101012434 72 20432 14816683437821
+FirstTime 20211001023052
+LastTime 20211031234601
+LastUpdate 20211101062331 72 0 71 0 0
+TotalVisits 243                 
+TotalUnique 89                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 89                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 34 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 48445 6 9 37586
+1 4 4 64514 4 31 114814
+2 48 48 224418 37 69 24803
+3 76 76 90318 45 50 47700
+4 16 38 459491 58 83 174840
+5 2 2 21181 2 6 1182
+6 3 3 21181 6 8 1043
+7 8 8 36821 9 12 27384
+8 7 7 34813 14 17 18878
+9 6 6 27997 11 15 2365
+10 130 764 10366171 12 18 2666
+11 140 619 4619403 18 27 52494
+12 37 51 49862 2 4 37195
+13 5 5 34813 3 8 1391
+14 14 38 467542 33 36 66270
+15 22 22 133800 10 13 713
+16 10 10 43637 5 9 904
+17 11 11 129028 12 52 250510
+18 13 55 404220 11 22 30805
+19 14 14 75907 12 16 43215
+20 18 18 130110 17 44 151545
+21 16 16 73665 17 31 140173
+22 11 11 61344 4 7 748
+23 93 93 164854 24 27 52090
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+us 522 1713 16589320
+de 72 72 67421
+zz 69 69 46973
+ru 17 17 140484
+gr 14 14 341496
+cn 10 34 557047
+sc 4 4 27264
+gb 1 1 6714
+il 1 1 6816
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+unknown 9 130 20211028152443 9
+no_user_agent 7 212595 20211029141150 0
+Googlebot/ 1 6816 20211013195538 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 292 965420 0 0
+gif 8 94990 0 0
+php 346 4206235 0 0
+png 26 4524369 0 0
+woff2 6 162864 0 0
+woff 2 19880 0 0
+Unknown 61 14995 0 0
+svg 8 58320 0 0
+js 845 4636257 0 0
+html 295 1957891 0 0
+jpg 36 1142314 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 24 2
+win10 1564 413
+linux 34 34
+win8.1 13 13
+Unknown 229 229
+linuxandroid 7 7
+win7 4 4
+macosx 50 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome81.0.4044.138 2 2
+chrome84.0.4147.125 29 29
+safari11.0 24 2
+chrome59.0.3071.115 1 1
+chrome38.0.2125.111 12 12
+mozilla 6 6
+chrome85.0.4183.121 1 1
+firefox84.0 3 3
+chrome42.0.2311.90 4 4
+Unknown 223 223
+chrome95.0.4638.54 1 1
+chrome66.0.3359.117 5 5
+chrome78.0.3904.87 25 1
+chrome83.0.4103.97 31 31
+chrome86.0.4472.114 1 1
+chrome91.0.4472.114 50 8
+chrome87.0.4472.114 2 2
+chrome94.0.4606.61 1365 238
+chrome92.0.4515.159 1 1
+chrome88.0.4324.192 1 1
+chrome90.0.4430.85 138 138
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Go_http_package 20211031144052
+Go-http-client/1.1 20211020025646
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20211029141151
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211029043122
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211031204641
+WordPress/5.8.1;_https://www.brynbailer.com 20211031203525
+WordPress/5.6.5;_http://www.brynbailer.com 20211004105426
+WordPress/5.6.5;_https://www.brynbailer.com 20211004105043
+WordPress/5.8.1;_http://www.brynbailer.com 20211031234601
+Jetpack_by_WordPress.com 20211027120004
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+WordPress/5.8.1;_http://www.brynbailer.com 20211031234601
+WordPress/5.6.5;_https://www.brynbailer.com 20211004105043
+WordPress/5.6.5;_http://www.brynbailer.com 20211004105426
+WordPress/5.8.1;_https://www.brynbailer.com 20211031203525
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211031204641
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211029043122
+Go-http-client/1.1 20211020025646
+Go_http_package 20211031144052
+Jetpack_by_WordPress.com 20211027120004
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 99 99
+From1 138 138
+From2 4 4
+From3 2 2
+From4 467 1682
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://lab.onsec.ru 1 1
+https://mail.brynbailer.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+301 178 0
+400 52 2704
+401 27 2494
+302 32 0
+409 17 1411
+406 151 34126
+500 6 0
+404 100 993090
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 44
+/adminer.sql.gz 1 -
+/v1/management/tenant/getSpeedDomain 1 -
+/wp-content/plugins/wp-automatic/process_form.php 2 -
+//wp-content/plugins/wp-automatic/process_form.php 2 -
+/wp-content/uploads/2015/04/3.png 2 https://www.brynbailer.com/wp-admin/customize.php
+/wp-content/plugins/pie-register/assets/js/phpjs.js 1 -
+/adminer.php 1 -
+/.git/config 3 https://brynbailer.com/.git/config
+/wp-content/plugins/pie-register/js/piereg_validation.js 4 https://www.brynbailer.com//wp-content/plugins/pie-register/js/piereg_validation.js
+/shop 1 -
+//my-account 1 -
+//account 1 -
+/auth/oauth/token 1 -
+/account 1 -
+/wp-content/plugins/wp-user-manager/assets/css/wpum.min.css 6 https://www.brynbailer.com//wp-content/plugins/wp-user-manager/assets/css/wpum.min.css
+/wp-content/plugins/wp-jobsearch/modules/job-alerts/js/job-alerts.js 6 https://www.brynbailer.com//wp-content/plugins/wp-jobsearch/modules/job-alerts/js/job-alerts.js
+/kkrps/im_group/show_members 1 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 -
+/api/stock/getSingleStock.do 1 -
+/hello-world/ 1 -
+/wp-content/uploads/upload_index.php 2 -
+/wp-content/plugins/age-gate/public/js/age-gate-public.js 4 https://www.brynbailer.com//wp-content/plugins/age-gate/public/js/age-gate-public.js
+/wp-content/plugins/automatorwp/assets/css/automatorwp-admin-bar.min.css 6 https://www.brynbailer.com//wp-content/plugins/automatorwp/assets/css/automatorwp-admin-bar.min.css
+/static/home/static/js/login.js 1 -
+/static/index/css/iindex.css 1 -
+/my-account 1 -
+/wp-content/plugins/mstore-api/assets/js/mstore-inspireui.js 6 https://www.brynbailer.com//wp-content/plugins/mstore-api/assets/js/mstore-inspireui.js
+/wp-content/plugins/wp-pinterest-automatic/js/main.js 1 -
+//shop 1 -
+/wp-content/plugins/shapepress-dsgvo/public/js/sp-dsgvo-public.js 4 https://www.brynbailer.com//wp-content/plugins/shapepress-dsgvo/public/js/sp-dsgvo-public.js
+/api/uploads/apimap 1 -
+/wp-content/languages/ 2 binance.com
+/wp-content/plugins/rich-reviews/js/rich-reviews.min.js 4 https://www.brynbailer.com//wp-content/plugins/rich-reviews/js/rich-reviews.min.js
+/common/template/lottery/lecai/css/style.css 1 -
+/wp-content/plugins/responsive-menu/public/js/admin/base.js 4 https://www.brynbailer.com//wp-content/plugins/responsive-menu/public/js/admin/base.js
+/Public/uploads/web/step1.png 1 -
+/wp-content/plugins/pie-register/assets/js/piereg_validation.js 4 https://www.brynbailer.com//wp-content/plugins/pie-register/assets/js/piereg_validation.js
+/wp-content/plugins/access-demo-importer/inc/assets/js/demos.js 6 https://www.brynbailer.com//wp-content/plugins/access-demo-importer/inc/assets/js/demos.js
+/wp-content/uploads/2015/04/2.png 2 https://www.brynbailer.com/wp-admin/customize.php
+/.well-known/security.txt 1 -
+/.vscode/sftp.json 1 -
+/api/config-init 1 -
+/wp-content/plugins/wp-property/static/scripts/wpp.global.js 6 https://www.brynbailer.com//wp-content/plugins/wp-property/static/scripts/wpp.global.js
+/wp-admin/admin-ajax.php 1 https://www.brynbailer.com/wp-admin/customize.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 89
+70.172.29.117 236 1363 14741285 20211004124236
+67.222.39.71 194 194 408920 20211031234601
+176.9.18.84 69 69 46973 20211006231833
+23.172.112.119 69 69 46973 20211017032004
+3.15.166.26 9 9 45671 20211028202418
+46.161.14.84 9 9 79417 20211029073305
+207.180.207.228 9 9 45668 20211029214737
+3.145.7.248 6 48 390588 20211031185117
+45.200.120.124 4 4 27264 20211030192550
+144.91.111.6 4 4 27264 20211031203539
+137.226.113.44 3 3 20448 20211027083801
+92.118.160.13 3 3 78356 20211031204641
+46.161.14.104 3 3 26987 20211016165057
+92.118.160.9 3 3 63543 20211030133937
+69.30.231.158 3 3 20448 20211021232557
+92.118.160.45 3 3 78879 20211024002202
+92.118.160.41 2 2 42362 20211015123450
+42.193.8.97 2 2 13632 20211010090005
+35.86.175.207 2 2 13632 20211028021927
+92.118.160.17 2 2 57710 20211016173913
+165.22.148.144 2 2 94 20211004111721
+3.233.212.58 2 24 377943 20211003043329
+54.202.43.181 2 2 13632 20211006025719
+185.180.143.147 2 2 13632 20211023071529
+34.96.130.13 2 2 42362 20211022211925
+61.135.15.159 1 1 21181 20211010075428
+34.86.35.27 1 1 21181 20211029043122
+192.0.87.132 1 1 645 20211010112847
+52.42.87.28 1 1 6816 20211030025552
+167.94.138.57 1 1 6816 20211015040611
+192.0.86.188 1 1 643 20211027120004
+54.201.68.111 1 1 6714 20211001023052
+54.190.35.160 1 1 6816 20211026022723
+50.112.19.133 1 1 6816 20211009021208
+34.68.200.229 1 1 6816 20211027041617
+34.222.215.46 1 1 6714 20211003022146
+167.248.133.43 1 1 11767 20211029141151
+54.202.93.228 1 1 6714 20211004022645
+162.142.125.44 1 1 6816 20211015040613
+54.186.238.18 1 1 6816 20211019020112
+171.13.14.76 1 25 390442 20211029143432
+34.86.35.31 1 1 36517 20211001173007
+34.77.162.5 1 1 21181 20211012193809
+52.42.223.64 1 1 6816 20211024025027
+34.222.82.163 1 1 6816 20211013023327
+34.215.43.108 1 1 6816 20211007022122
+35.85.34.158 1 1 6816 20211030024855
+23.90.160.138 1 1 6816 20211006154155
+162.142.125.195 1 1 11763 20211015040609
+54.185.75.163 1 1 6816 20211016020703
+74.208.169.92 1 1 6816 20211008013518
+52.88.122.90 1 1 6816 20211005023146
+124.126.78.172 1 1 21181 20211013093826
+34.216.148.235 1 1 6816 20211010021519
+52.27.51.75 1 1 6816 20211012021504
+34.217.65.74 1 1 6816 20211022023310
+35.162.245.156 1 1 6714 20211002022854
+162.142.125.41 1 1 11760 20211015040619
+123.58.210.104 1 1 9580 20211011045706
+109.191.198.125 1 1 6816 20211026165313
+192.0.87.122 1 1 644 20211004113342
+192.0.87.39 1 1 130 20211004120818
+52.42.25.21 1 1 6816 20211014025309
+124.126.78.168 1 1 21181 20211030063651
+193.118.53.130 1 1 6714 20211003155039
+34.217.26.133 1 1 6816 20211029023307
+18.237.47.57 1 1 6816 20211015021201
+18.236.117.101 1 1 6816 20211018035235
+185.180.143.143 1 1 6816 20211029141446
+124.126.78.199 1 1 36517 20211031174157
+192.0.87.31 1 1 644 20211026113932
+18.117.125.185 1 1 6816 20211020025646
+109.248.37.60 1 1 6816 20211006171333
+79.179.27.125 1 1 6816 20211016230333
+35.165.151.172 1 1 6816 20211027020846
+54.202.239.59 1 1 6816 20211011021011
+18.237.67.3 1 1 6714 20211003022021
+92.118.160.37 1 1 20646 20211003192506
+54.189.80.186 1 1 6816 20211027021342
+34.222.11.178 1 1 6816 20211023023818
+66.42.58.162 1 1 6816 20211007173419
+34.219.74.142 1 1 6816 20211008022659
+34.86.35.7 1 1 21181 20211015054314
+167.248.133.113 1 1 6816 20211015040612
+34.86.35.10 1 1 21181 20211005114501
+218.56.69.8 1 1 6816 20211005164222
+204.12.198.242 1 1 6816 20211019182055
+124.126.78.152 1 1 36517 20211002102456
+34.96.130.0 2 2 57710 20211029035535
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20211001 6 6 63877 6
+20211002 2 2 43231 2
+20211003 14 36 464599 10
+20211004 267 1394 14820157 8
+20211005 10 10 48445 8
+20211006 81 81 101501 11
+20211007 9 9 36088 8
+20211008 11 11 76442 9
+20211009 4 4 34813 4
+20211010 17 17 78362 13
+20211011 8 8 30028 6
+20211012 8 8 41629 7
+20211013 9 9 48445 9
+20211014 6 6 20448 6
+20211015 18 18 113597 15
+20211016 11 11 66094 9
+20211017 72 72 60605 4
+20211018 7 7 41629 5
+20211019 8 8 34080 7
+20211020 6 6 20448 4
+20211021 11 11 27264 8
+20211022 13 13 69626 10
+20211023 5 5 20448 5
+20211024 4 4 34813 4
+20211025 3 3 20448 3
+20211026 15 15 63204 9
+20211027 14 14 59187 12
+20211028 15 15 72935 6
+20211029 23 47 541675 15
+20211030 16 16 103706 11
+20211031 17 59 525711 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 6
+5mn-15mn 6
+0s-30s 211
+15mn-30mn 7
+2mn-5mn 7
+1h+ 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 97
+/ 175 1744553 146 136
+/wp-cron.php 133 0 80 84
+/wp-admin/admin-ajax.php 88 15210 1 4
+/wp-json/jetpack/v4/jitm 36 72 0 0
+/wp-login.php 28 151379 9 11
+/wp-admin/admin.php 14 344708 0 0
+/wp-admin/load-styles.php 11 1477625 0 0
+/wp-admin/themes.php 8 446878 0 0
+/wp-admin/load-scripts.php 8 350285 0 0
+/wp-admin/plugins.php 7 355946 0 0
+/wp-json/jetpack/v4/plugins 6 9700 0 0
+/xmlrpc.php 5 2706 5 5
+/wp-json/jetpack/v4/module/akismet/key/check 5 68 0 0
+/wp-admin/includes/ 4 8656 0 0
+/wp-includes/Text/ 4 1536 0 0
+/wp-includes/pomo/ 4 1884 0 0
+/wp-admin/maint/ 4 1424 0 0
+/wp-includes/widgets/ 4 2716 0 0
+/wp-includes/ 4 17768 0 0
+/wp-admin/css/ 4 6480 2 0
+/wp-admin/upload.php 4 207241 0 0
+/wp-includes/PHPMailer/ 4 1644 0 0
+/wp-includes/IXR/ 4 2316 0 0
+/wp-includes/ID3/ 4 2764 0 0
+/wp-includes/sitemaps/providers/ 4 1740 0 0
+/wp-json/jetpack/v4/module/akismet/data 1 279 0 0
+/wp-includes/images/wlw/ 2 842 0 0
+/wp-admin/upgrade.php 1 1 0 0
+/wp-includes/https-migration.php 2 0 0 0
+/wp-admin/css/colors/blue/ 2 888 0 0
+/wp-content/uploads/ 2 1154 0 0
+/wp-json/jetpack/v4/site 1 2436 0 0
+/wp-includes/class-wp-block-template.php 2 0 0 0
+/.well-known/ 2 702 0 2
+/wp-includes/images/ 2 2054 0 0
+/wp-admin/images/ 2 3520 0 0
+/wp-admin/css/colors/modern/ 2 884 0 0
+/wp-includes/fonts/ 2 892 0 0
+/wp-includes/https-detection.php 2 0 0 0
+/wp-json/jetpack/v4/plans 1 0 0 0
+/wp-admin/about.php 1 39975 0 0
+/wp-admin/css/colors/light/ 2 862 0 0
+/wp-json/jetpack/v4/scan 3 444 0 0
+/wp-admin/ 2 106496 0 0
+/wp-content/upgrade/ 2 630 0 0
+/wp-json/jetpack/v4/rewind 1 180 0 0
+/wp-admin/customize.php 2 246253 0 0
+/wp-includes/css/ 2 1874 0 0
+/wp-content/plugins/easy-social-icons/css/font-awesome/webfonts/fa-regular-400.woff2 2 13592 0 0
+/wp-admin/css/colors/sunrise/ 2 892 0 0
+/wp-admin/async-upload.php 1 659 0 0
+// 1 6816 0 1
+/wp-json/wp/v2/widget-types 1 1067 0 0
+/contact-2/ 1 6080 0 0
+/wp-includes/theme-templates.php 2 0 0 0
+/wp-includes/js/ 2 4558 0 0
+/wp-json/jetpack/v4/module/stats/data 1 0 0 0
+/wp-admin/edit.php 1 54877 0 0
+/wp-includes/block-template-utils.php 2 0 0 0
+/wp-includes/js/codemirror/ 2 1026 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18824 0 0
+/wp-content/uploads/2021/09/ 2 650 0 0
+/wp-json/jetpack/v4/connection/data 1 0 0 0
+/wp-json/jetpack/v4/site/purchases 1 90 0 0
+/wp-includes/images/smilies/ 2 1594 0 0
+/wp-admin/css/colors/ectoplasm/ 2 892 0 0
+/wp-admin/update-core.php 4 153698 0 0
+/wp-includes/css/dist/ 2 1132 0 0
+/wp-admin/js/widgets/ 2 1218 0 0
+/wp-includes/images/media/ 2 1040 0 0
+/wp-admin/index.php 3 158844 0 0
+/wp-admin/js/ 2 3744 0 0
+/wp-content/plugins/gallery-by-supsystic/app/assets/css/libraries/fontawesome/fonts/fontawesome-webfont.woff2 2 77160 0 0
+/wp-admin/tools.php 1 36130 0 0
+/wp-includes/class-wp-theme-json-resolver.php 2 0 0 0
+/wp-includes/class-wp-theme-json.php 2 0 0 0
+/wp-includes/class-wp-block-editor-context.php 2 0 0 0
+/wp-includes/Text/Diff/Renderer/ 4 1472 0 0
+/wp-admin/css/colors/ 2 1108 0 0
+/wp-includes/robots-template.php 2 0 0 0
+/wp-json/jetpack/v4/module/protect/data 2 5 0 0
+/wp-admin/css/colors/coffee/ 2 884 0 0
+/wp-includes/block-editor.php 2 0 0 0
+/wp-json/jetpack/v4/site/features 1 654 0 0
+/wp-includes/sitemaps/ 4 2032 0 0
+/wp-includes/js/plupload/ 2 1094 0 0
+/wp-includes/block-template.php 2 0 0 0
+/wp-admin/profile.php 3 131488 0 0
+/wp-content/uploads/2021/10/ 2 942 0 0
+/wp-admin/css/colors/ocean/ 2 884 0 0
+/wp-includes/Text/Diff/Engine/ 4 1884 0 0
+/wp-content/plugins/easy-social-icons/css/font-awesome/webfonts/fa-brands-400.woff2 2 72112 0 0
+/wp-admin/css/colors/midnight/ 2 894 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 1 1056 0 0
+/wp-includes/images/crystal/ 2 1156 0 0
+/wp-includes/Text/Diff/ 4 1620 0 0
+/wp-admin/update.php 1 32332 0 0
+END_SIDER

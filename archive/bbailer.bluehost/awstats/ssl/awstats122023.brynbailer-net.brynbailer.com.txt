@@ -1,0 +1,770 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer-net.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2705                
+POS_VISITOR 36623               
+POS_DAY 38642               
+POS_DOMAIN 3253                
+POS_LOGIN 3545                
+POS_ROBOT 3700                
+POS_WORMS 3933                
+POS_EMAILSENDER 4064                
+POS_EMAILRECEIVER 4207                
+POS_SESSION 39164               
+POS_SIDER 39342               
+POS_FILETYPES 4342                
+POS_DOWNLOADS 4423                
+POS_OS 4471                
+POS_BROWSER 4682                
+POS_SCREENSIZE 5213                
+POS_UNKNOWNREFERER 5287                
+POS_UNKNOWNREFERERBROWSER 5782                
+POS_ORIGIN 6149                
+POS_SEREFERRALS 6283                
+POS_PAGEREFS 6427                
+POS_SEARCHWORDS 6575                
+POS_KEYWORDS 6727                
+POS_MISC 2368                
+POS_ERRORS 6786                
+POS_CLUSTER 3401                
+POS_SIDER_404 6896                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101015308 3 531 6834242868976
+FirstTime 20231201012956
+LastTime 20231231060807
+LastUpdate 20240101053200 3 0 2 0 0
+TotalVisits 60                  
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 5 8 822
+1 2 2 351 8 8 0
+2 3 3 351 41 43 226
+3 3 3 0 4 4 309
+4 1 1 0 6 7 0
+5 4 4 0 19 19 3925
+6 2 2 0 13 14 0
+7 4 4 0 10 11 0
+8 0 0 0 3 4 0
+9 0 0 0 1 2 226
+10 1 1 0 5 5 0
+11 2 2 0 240 241 0
+12 2 2 0 3 5 0
+13 2 2 0 148 150 0
+14 2 2 351 8 10 822
+15 5 5 351 6 7 0
+16 5 5 0 19 22 5343
+17 3 3 0 8 8 0
+18 5 5 351 248 250 1644
+19 3 3 0 14 20 4213
+20 2 2 0 2 4 1644
+21 4 4 0 21 22 226
+22 5 5 0 288 298 2096
+23 2 2 0 8 8 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 36 36 1404
+ca 14 14 0
+cn 4 4 0
+nl 3 3 0
+jp 2 2 0
+sa 2 2 0
+es 1 1 351
+fr 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 21 0 20231230225001 0
+Go\-http\-client/ 9 0 20231229120642 0
+curl 1 0 20231229222012 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 63 1755 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx15 1 1
+win10 21 21
+win7 3 3
+androidmarshmallow 2 2
+macosx7 2 2
+android10 1 1
+androidoreo 1 1
+macosx14 1 1
+linux 6 6
+win8 2 2
+Unknown 23 23
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome13.0.782.20 1 1
+chrome108.0.0.0 4 4
+mozilla 10 10
+netscape5.0 1 1
+opera19.0.1326.56 1 1
+chrome89.0.4389.114 3 3
+chrome101.0.4951.64 1 1
+chrome81.0.4044.138 2 2
+chrome101.0.4951.54 2 2
+chrome120.0.0.0 1 1
+chrome17.0.963.56 2 2
+edge12 1 1
+chrome71.0.2623.112 2 2
+chrome99.0.4859.172 2 2
+chrome74.0.3729.169 5 5
+Unknown 12 12
+chrome90.0.4430.85 5 5
+chrome117.0.5938.132 2 2
+chrome61.0.3163.128 1 1
+chrome95.0.4638.74 1 1
+chrome100.0.4896.75 1 1
+msie9.0 1 1
+chrome119.0.0.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_zgrab/0.x 20231214054129
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231227165239
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231230150301
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231230150301
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 48 48
+From1 5 5
+From2 0 0
+From3 0 0
+From4 10 10
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+409 4 332
+406 50 11300
+404 1073 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 412
+/marijuana.php 4 http://brynbailer-net.brynbailer.com//marijuana.php
+/Deadcode1975.php 3 http://www.brynbailer-net.brynbailer.com//Deadcode1975.php
+/gecko.php 3 http://www.brynbailer-net.brynbailer.com//gecko.php
+/wp-content/plugins/wordpresss3cll/up.php 6 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/wordpresss3cll/up.php
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 6 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/hellopress/wp_filemanager.php
+/wso.php 4 http://brynbailer-net.brynbailer.com//wso.php
+/uploads/xleet.php 1 http://brynbailer-net.brynbailer.com//uploads/xleet.php
+/wp-content/themes/finley/min.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/themes/finley/min.php
+/wp-includes/v22.php 1 http://brynbailer-net.brynbailer.com//wp-includes//v22.php
+/ton.php 3 http://www.brynbailer-net.brynbailer.com//ton.php
+/z.php 3 http://www.brynbailer-net.brynbailer.com//z.php
+/xlettt.php 3 http://www.brynbailer-net.brynbailer.com//xlettt.php
+/root.php 3 http://www.brynbailer-net.brynbailer.com//root.php
+/wp-includes/ms-pie.php 1 http://brynbailer-net.brynbailer.com//wp-includes//ms-pie.php
+/wp-includes/fw.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/fw.php
+/admin/controller/extension/wpm.php 1 http://brynbailer-net.brynbailer.com//admin/controller/extension/wpm.php
+/4price.php 1 http://brynbailer-net.brynbailer.com//4price.php
+//wp-includes/ID3/license.txt 1 -
+/IndoXploit.php 3 http://www.brynbailer-net.brynbailer.com//IndoXploit.php
+/wp-2021.php 1 http://brynbailer-net.brynbailer.com//wp-2021.php
+/utchiha_uploader.php 3 http://www.brynbailer-net.brynbailer.com//utchiha_uploader.php
+/zz.php 3 http://www.brynbailer-net.brynbailer.com//zz.php
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/xl.php 1 http://brynbailer-net.brynbailer.com//xl.php
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 1 http://brynbailer-net.brynbailer.com//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/wp-content/themes/wp-pridmag/init.php 1 http://brynbailer-net.brynbailer.com//wp-content/themes/wp-pridmag/init.php
+/old-index.php 1 http://brynbailer-net.brynbailer.com//old-index.php
+/wp-includes/js/a.php 1 http://brynbailer-net.brynbailer.com//wp-includes/js/a.php
+/indexs.php 3 http://www.brynbailer-net.brynbailer.com//indexs.php
+/user.php 3 http://www.brynbailer-net.brynbailer.com//user.php
+/wp_filemanager.php 3 http://www.brynbailer-net.brynbailer.com//wp_filemanager.php
+/baindex.php 1 http://brynbailer-net.brynbailer.com//baindex.php
+/wp-content/wp-conf.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/wp-conf.php
+/xx.php 4 http://brynbailer-net.brynbailer.com//xx.php
+/OLD/wp-admin/setup-config.php 2 www.google.com
+/wp-pano 1 -
+/wp-content/plugins/Cache/Cache.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/Cache/Cache.php
+/0x.php 3 http://www.brynbailer-net.brynbailer.com//0x.php
+/blog 1 -
+/plugins/jquery-file-upload/server/php/ 2 -
+/small.php 4 http://brynbailer-net.brynbailer.com//small.php
+/by.php 3 http://www.brynbailer-net.brynbailer.com//by.php
+/mad.php 4 http://brynbailer-net.brynbailer.com//mad.php
+/wp-content/themes/gaukingo/db.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/themes/gaukingo/db.php
+/vendor/laravel-filemanager/js/script.js 1 -
+/fx.php 3 http://www.brynbailer-net.brynbailer.com//fx.php
+/wp-includes/theme-templates-private.php 1 http://brynbailer-net.brynbailer.com//wp-includes//theme-templates-private.php
+/ws.php 3 http://www.brynbailer-net.brynbailer.com//ws.php
+/d7.php 3 http://www.brynbailer-net.brynbailer.com//d7.php
+/js/jquery-file-upload/server/php/ 2 -
+/wp-includes/wp-class.php 6 http://www.brynbailer-net.brynbailer.com//wp-includes/wp-class.php
+/demo 1 -
+/priv8.php 4 http://brynbailer-net.brynbailer.com//priv8.php
+/alf.php 3 http://www.brynbailer-net.brynbailer.com//alf.php
+/sh.php 3 http://www.brynbailer-net.brynbailer.com//sh.php
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/byp.php 3 http://www.brynbailer-net.brynbailer.com//byp.php
+/lufi.php 3 http://www.brynbailer-net.brynbailer.com//lufi.php
+/themes.php 3 http://www.brynbailer-net.brynbailer.com//themes.php
+/wp-login.php 1 http://www.brynbailer-net.brynbailer.com/wp-login.php
+/wp-includes/blocks/table/int/tmpl/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/blocks/table/int/tmpl/index.php
+/wp-content/up.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/up.php
+//feed/ 1 -
+/wp-easy.php 1 http://brynbailer-net.brynbailer.com//wp-easy.php
+/snd.php 3 http://www.brynbailer-net.brynbailer.com//snd.php
+/update.php 3 http://www.brynbailer-net.brynbailer.com//update.php
+/asset/kcfinder/upload.php 1 -
+/user-new.php 3 http://www.brynbailer-net.brynbailer.com//user-new.php
+/wp-admin/alfa.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/alfa.php
+/h4xor.php 3 http://www.brynbailer-net.brynbailer.com//h4xor.php
+/wp-admin/includes/media.php 1 http://brynbailer-net.brynbailer.com//wp-admin/includes/media.php
+/wp-includes/wp_filemanager.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/wp_filemanager.php
+/kcfinder/upload.php 1 -
+/fox.php 3 http://www.brynbailer-net.brynbailer.com//fox.php
+/css/4O4.php 1 http://brynbailer-net.brynbailer.com//css//4O4.php
+/main 5 http://brynbailer-net.brynbailer.com/main
+/wp-includes/css/ty.php 1 http://brynbailer-net.brynbailer.com//wp-includes/css/ty.php
+/0x55.php 3 http://www.brynbailer-net.brynbailer.com//0x55.php
+/wp-admin/rss.php 1 http://brynbailer-net.brynbailer.com//wp-admin/rss.php
+/wp-content/plugins/fix/up.php 2 -
+/uph.php 3 http://www.brynbailer-net.brynbailer.com//uph.php
+/resources/global/plugins/jquery-file-upload/server/php/ 2 -
+/good.php 1 http://brynbailer-net.brynbailer.com//good.php
+/crypted.php 1 http://brynbailer-net.brynbailer.com//crypted.php
+/wp-admin/wso.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/wso.php
+/hanna1337.php 3 http://www.brynbailer-net.brynbailer.com//hanna1337.php
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/wp-file-upload/ROOBOTS.php
+/xmlrpc2.php 3 http://www.brynbailer-net.brynbailer.com//xmlrpc2.php
+/assets/plugins/jquery-file-upload/server/php/ 2 -
+/mar.php 3 http://www.brynbailer-net.brynbailer.com//mar.php
+/xox.php 3 http://www.brynbailer-net.brynbailer.com//xox.php
+/fan.php 3 http://www.brynbailer-net.brynbailer.com//fan.php
+/utchiha.php 4 http://brynbailer-net.brynbailer.com//utchiha.php
+/files/ 5 binance.com
+/templates/beez3/error.php 3 http://www.brynbailer-net.brynbailer.com//templates/beez3/error.php
+/minishell.php 3 http://www.brynbailer-net.brynbailer.com//minishell.php
+/wp-content/uploads/elementor/about.php 1 http://brynbailer-net.brynbailer.com//wp-content/uploads/elementor/about.php
+/wp-admin/images/module.php 1 http://brynbailer-net.brynbailer.com//wp-admin/images/module.php
+/assets/plugins/kcfinder/upload.php 1 -
+/text.php 3 http://www.brynbailer-net.brynbailer.com//text.php
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/mini.php 4 http://brynbailer-net.brynbailer.com//mini.php
+/edit-comments.php 3 http://www.brynbailer-net.brynbailer.com//edit-comments.php
+/1index.php 2 http://brynbailer-net.brynbailer.com//1index.php
+/2index.php 2 http://brynbailer-net.brynbailer.com//2index.php
+/wsu.php 3 http://www.brynbailer-net.brynbailer.com//wsu.php
+/wp-content/plugins/w0rdpr3ssnew/about.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/w0rdpr3ssnew/about.php
+/lock0360.php 3 http://www.brynbailer-net.brynbailer.com//lock0360.php
+/406.php 3 http://www.brynbailer-net.brynbailer.com//406.php
+/lock360.php 4 http://brynbailer-net.brynbailer.com//lock360.php
+/DKIZ.php 4 http://brynbailer-net.brynbailer.com//DKIZ.php
+/wp-2022.php 1 http://brynbailer-net.brynbailer.com//wp-2022.php
+/wp-content/wp_filemanager.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/wp_filemanager.php
+/admin/controller/extension/extension/ 5 binance.com
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/wp-content/plugins/linkpreview/db.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/linkpreview/db.php
+/3index.php 1 http://brynbailer-net.brynbailer.com//3index.php
+/anon.php 3 http://www.brynbailer-net.brynbailer.com//anon.php
+/new 6 http://brynbailer-net.brynbailer.com/new
+/wp-includes/wp-site.php 1 http://brynbailer-net.brynbailer.com//wp-includes//wp-site.php
+/wp.php 4 http://brynbailer-net.brynbailer.com//wp.php
+/wp-content/uploads/404.php 1 http://brynbailer-net.brynbailer.com//wp-content/uploads/404.php
+/wp-admin/dropdown.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/dropdown.php
+/home.php 3 http://www.brynbailer-net.brynbailer.com//home.php
+/theme-install.php 3 http://www.brynbailer-net.brynbailer.com//theme-install.php
+/wp-22.php 4 http://brynbailer-net.brynbailer.com//wp-22.php
+/wp-content/shell20211028.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/shell20211028.php
+/xxl.php 3 http://www.brynbailer-net.brynbailer.com//xxl.php
+/adminer.php 1 -
+/wp-content/plugins/Cache/dropdown.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/Cache/dropdown.php
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 2 -
+/cp.php 3 http://www.brynbailer-net.brynbailer.com//cp.php
+/v3n0m.php 3 http://www.brynbailer-net.brynbailer.com//v3n0m.php
+/log.php 3 http://www.brynbailer-net.brynbailer.com//log.php
+/wp-admin/users.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/users.php
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/www.php 3 http://www.brynbailer-net.brynbailer.com//www.php
+/wp-content/uploads/external_feed.php 1 http://brynbailer-net.brynbailer.com//wp-content/uploads/external_feed.php
+/wp-content/plugins/anttt/simple.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/anttt/simple.php
+/plugins/kcfinder/upload.php 1 -
+/symlink.php 3 http://www.brynbailer-net.brynbailer.com//symlink.php
+/503.php 3 http://www.brynbailer-net.brynbailer.com//503.php
+/style.php 7 -
+/uploads/up.php 4 http://brynbailer-net.brynbailer.com//uploads/up.php
+/media/mediamgr/other/jq_fileupload/server/php/ 2 -
+/customize.php 3 http://www.brynbailer-net.brynbailer.com//customize.php
+/assets/elfinder/elfinder.html 1 -
+/wpx.php 4 http://brynbailer-net.brynbailer.com//wpx.php
+/xzourt.php 3 http://www.brynbailer-net.brynbailer.com//xzourt.php
+/wp-content/uploads/typehub/custom/.RxR.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/uploads/typehub/custom/.RxR.php
+/.git/config 2 -
+/wp-content/fw.php 4 http://brynbailer-net.brynbailer.com//wp-content/fw.php
+/wp-content/alfa.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/alfa.php
+/images/wp-2019.php 1 http://brynbailer-net.brynbailer.com//images/wp-2019.php
+/index2.php 3 http://www.brynbailer-net.brynbailer.com//index2.php
+/wp-admin/css/colors/blue/uploader.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/css/colors/blue/uploader.php
+/wp-content/uploads/indoex.php 1 http://brynbailer-net.brynbailer.com//wp-content/uploads/indoex.php
+/wp-content/wp-activate.php 1 http://brynbailer-net.brynbailer.com//wp-content//wp-activate.php
+/term.php 3 http://www.brynbailer-net.brynbailer.com//term.php
+/wp-stad.php 2 -
+/wp-content/plugins/dzs-zoomsounds/1877.php 3 http://www.brynbailer-net.brynbailer.com/wp-content/plugins/dzs-zoomsounds/1877.php
+/jquery.filer/php/readme.txt 1 -
+/formcraft/file-upload/server/php/ 2 -
+/wxo.php 1 http://brynbailer-net.brynbailer.com//wxo.php
+/mass.php 4 http://brynbailer-net.brynbailer.com//mass.php
+/shell.php 4 http://brynbailer-net.brynbailer.com//shell.php
+/wp-admin/includes/users.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/includes/users.php
+/wp/wp-admin/setup-config.php 1 -
+/wp-content/plugins/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/index.php
+/wp-admin/1975.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/1975.php
+/ups.php 4 http://brynbailer-net.brynbailer.com//ups.php
+/assets/libs/jquery-file-upload/server/php/ 2 -
+/mininew.php 1 http://brynbailer-net.brynbailer.com//mininew.php
+/font-editor.php 3 http://www.brynbailer-net.brynbailer.com//font-editor.php
+/C.php 1 http://brynbailer-net.brynbailer.com//C.php
+/evil.php 3 http://www.brynbailer-net.brynbailer.com//evil.php
+/shell20211028.php 3 http://www.brynbailer-net.brynbailer.com//shell20211028.php
+/Marvins.php 3 http://www.brynbailer-net.brynbailer.com//Marvins.php
+/xlt.php 1 http://brynbailer-net.brynbailer.com//xlt.php
+/wp-info.php 4 http://brynbailer-net.brynbailer.com//wp-info.php
+/gaza.php 3 http://www.brynbailer-net.brynbailer.com//gaza.php
+/.well-known/dze.php 1 http://brynbailer-net.brynbailer.com//.well-known/dze.php
+/wp-content/plugins/fighter/fk.php 1 http://brynbailer-net.brynbailer.com//wp-content/plugins/fighter/fk.php
+/radio.php 2 www.google.com
+/3x.php 1 http://brynbailer-net.brynbailer.com//3x.php
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 http://brynbailer-net.brynbailer.com//wp-includes/customize/class-wp-customize-nav-menu.php
+/init.php 3 http://www.brynbailer-net.brynbailer.com//init.php
+/thumb.php 1 -
+/shellx.php 3 http://www.brynbailer-net.brynbailer.com//shellx.php
+/public/javascript/jquery.upload/server/php/ 2 -
+/XxX.php 1 http://brynbailer-net.brynbailer.com//XxX.php
+/contents.php 3 http://www.brynbailer-net.brynbailer.com//contents.php
+/tron.php 3 http://www.brynbailer-net.brynbailer.com//tron.php
+/wp-admin/fw.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/fw.php
+/ini.php 4 http://brynbailer-net.brynbailer.com//ini.php
+/01.php 1 http://brynbailer-net.brynbailer.com//01.php
+/simple.php 4 -
+/wp-admin/fx.php 4 http://brynbailer-net.brynbailer.com//wp-admin/fx.php
+/alfacgiapi/perl.alfa 1 -
+/xleet.php 4 http://brynbailer-net.brynbailer.com//xleet.php
+/hehe.php 4 http://brynbailer-net.brynbailer.com//hehe.php
+/wp-includes/radio.php 1 http://brynbailer-net.brynbailer.com//wp-includes//radio.php
+/F0x.php 3 http://www.brynbailer-net.brynbailer.com//F0x.php
+/lalala.php 3 http://www.brynbailer-net.brynbailer.com//lalala.php
+/wp-admin/css/colors/coffee/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/css/colors/coffee/index.php
+/columns.php 3 http://www.brynbailer-net.brynbailer.com//columns.php
+/ALFA_DATA/alfacgiapi/ups.php 1 http://brynbailer-net.brynbailer.com//ALFA_DATA/alfacgiapi/ups.php
+/wp-admin/wp-trc.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/wp-trc.php
+/wp-includes/wp-2019.php 1 http://brynbailer-net.brynbailer.com//wp-includes//wp-2019.php
+/alfaindex.php 3 http://www.brynbailer-net.brynbailer.com//alfaindex.php
+/sites/all/libraries/elfinder/connectors/php/connector.php 3 http://www.brynbailer-net.brynbailer.com//sites/all/libraries/elfinder/connectors/php/connector.php
+/wso112233.php 3 http://www.brynbailer-net.brynbailer.com//wso112233.php
+/wp-admin/wp_filemanager.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/wp_filemanager.php
+/wp-content/plugins/elementor/includes/settings/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/elementor/includes/settings/index.php
+/moto.php 3 http://www.brynbailer-net.brynbailer.com//moto.php
+/wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php
+/tmpshell.php 3 http://www.brynbailer-net.brynbailer.com//tmpshell.php
+/wp-includes/admin-bar.php 1 http://brynbailer-net.brynbailer.com//wp-includes/admin-bar.php
+/exit.php 3 http://www.brynbailer-net.brynbailer.com//exit.php
+/0z.php 4 http://brynbailer-net.brynbailer.com//0z.php
+/fw.php 4 http://brynbailer-net.brynbailer.com//fw.php
+/wp-includes/class-json-ajax-session.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/class-json-ajax-session.php
+/access.php 3 http://www.brynbailer-net.brynbailer.com//access.php
+/wp-content/uploads/4O4.php 1 http://brynbailer-net.brynbailer.com//wp-content/uploads/4O4.php
+/wp-content/plugins/ioptimization/IOptimize.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/ioptimization/IOptimize.php
+/wp-includes/uplaod.php 1 http://brynbailer-net.brynbailer.com//wp-includes//uplaod.php
+/wp-includes/pomo/alfa.php 1 http://brynbailer-net.brynbailer.com//wp-includes/pomo/alfa.php
+/wp-admin/css/ 5 binance.com
+/index.php 3 http://www.brynbailer-net.brynbailer.com//index.php
+/wp_logx.php 1 http://brynbailer-net.brynbailer.com//wp_logx.php
+/xwxx.php 1 http://brynbailer-net.brynbailer.com//xwxx.php
+/wp-includes/ms-files.php 1 http://brynbailer-net.brynbailer.com//wp-includes/ms-files.php
+/wp-admin/maint/sidwso.php 1 http://brynbailer-net.brynbailer.com//wp-admin/maint/sidwso.php
+/ch.php 3 http://www.brynbailer-net.brynbailer.com//ch.php
+/assets/js/kcfinder/upload.php 1 -
+/uploads/ 5 binance.com
+/1337.php 4 http://brynbailer-net.brynbailer.com//1337.php
+/sites/default/files/ 5 binance.com
+/classwithtostring.php 3 http://www.brynbailer-net.brynbailer.com//classwithtostring.php
+/wp-content/plugins/sparky/akismet.css 2 -
+/tmp/vuln.php 3 http://www.brynbailer-net.brynbailer.com//tmp/vuln.php
+/tesla.php 3 http://www.brynbailer-net.brynbailer.com//tesla.php
+/wp-includes/xx.php 1 http://brynbailer-net.brynbailer.com//wp-includes//xx.php
+/sym.php 3 http://www.brynbailer-net.brynbailer.com//sym.php
+/bk 5 http://brynbailer-net.brynbailer.com/bk
+/wp-content/uploads/wp-content/uploads/code-execution.php 1 http://brynbailer-net.brynbailer.com//wp-content/uploads//wp-content/uploads/code-execution.php
+/wp-admin/wso112233.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/wso112233.php
+/assets/jquery-file-upload/server/php/ 2 -
+/alfa.php 4 http://brynbailer-net.brynbailer.com//alfa.php
+/doc.php 4 http://brynbailer-net.brynbailer.com//doc.php
+/xml.php 4 http://brynbailer-net.brynbailer.com//xml.php
+/wp-includes/block-supports/generated-classname-cron.php 1 http://brynbailer-net.brynbailer.com//wp-includes/block-supports/generated-classname-cron.php
+/backup/wp-admin/setup-config.php 2 www.google.com
+/plugins.php 3 http://www.brynbailer-net.brynbailer.com//plugins.php
+/wp-content/themes/welfare-charity/www.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/themes/welfare-charity/www.php
+/wp 6 http://brynbailer-net.brynbailer.com/wp
+/x.php 4 http://brynbailer-net.brynbailer.com//x.php
+/wp-includes/atom.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/atom.php
+/R00T.php 4 http://brynbailer-net.brynbailer.com//R00T.php
+/new-index.php 1 http://brynbailer-net.brynbailer.com//new-index.php
+/private.php 3 http://www.brynbailer-net.brynbailer.com//private.php
+/wp-content/themes/classic/inc/casper.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/themes/classic/inc/casper.php
+/assets/plugins/elfinder/elfinder.html 1 -
+/admin.php 4 http://brynbailer-net.brynbailer.com//admin.php
+/lyda.php 3 http://www.brynbailer-net.brynbailer.com//lyda.php
+/assets/backend/plugins/jquery-file-upload/server/php/ 2 -
+/tnt.php 3 http://www.brynbailer-net.brynbailer.com//tnt.php
+/wp-admin/css/colors/blue/CasperExV1.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/css/colors/blue/CasperExV1.php
+/wp-content/index.php 3 http://www.brynbailer-net.brynbailer.com/wp-content/index.php
+/wp-plugins.php 3 http://www.brynbailer-net.brynbailer.com//wp-plugins.php
+/wp-admin/html.php 2 -
+/wp-content/plugins/mw-wp-form/css/admin-common.css 2 -
+/leet.php 3 http://www.brynbailer-net.brynbailer.com//leet.php
+/up.php 4 http://brynbailer-net.brynbailer.com//up.php
+/Gecko.php 3 http://www.brynbailer-net.brynbailer.com//Gecko.php
+/wp-2018.php 1 http://brynbailer-net.brynbailer.com//wp-2018.php
+/robots.txt 11 -
+/repeater.php 3 http://www.brynbailer-net.brynbailer.com//repeater.php
+/assets/lib/jquery-file-upload/server/php/ 2 -
+/users.php 3 http://www.brynbailer-net.brynbailer.com//users.php
+/backup 5 http://brynbailer-net.brynbailer.com/backup
+/up-kon.php 1 http://brynbailer-net.brynbailer.com//up-kon.php
+/page/1/ 1 -
+/upload.php 5 http://brynbailer-net.brynbailer.com//upload.php
+/home 5 http://brynbailer-net.brynbailer.com/home
+/images/F0x.php 3 http://www.brynbailer-net.brynbailer.com//images/F0x.php
+/wordpress/wp-admin/setup-config.php 2 www.google.com
+/inbox.php 3 http://www.brynbailer-net.brynbailer.com//inbox.php
+/1975.php 3 http://www.brynbailer-net.brynbailer.com//1975.php
+/403.php 4 http://brynbailer-net.brynbailer.com//403.php
+/payout.php 1 http://brynbailer-net.brynbailer.com//payout.php
+/images/ 5 binance.com
+/wp-includes/js/jquery/jquery.js 2 -
+/timthumb.php 1 -
+/wp-x.php 1 http://brynbailer-net.brynbailer.com//wp-x.php
+/old/wp-admin/setup-config.php 2 www.google.com
+/wp-2019.php 1 http://brynbailer-net.brynbailer.com//wp-2019.php
+/js/kcfinder/upload.php 1 -
+/coaster/jquery/gallery-upload/server/php/ 2 -
+/wp-content/plugins/backup-backup/admin/css/bmi-plugin.min.css 1 -
+/wp-includes/shell20211028.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/shell20211028.php
+/sitemap.xml 2 http://www.brynbailer-net.brynbailer.com/sitemap.xml
+/images/vuln.php 4 http://brynbailer-net.brynbailer.com//images/vuln.php
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/assets/kcfinder/upload.php 1 -
+/wp-blog.php 4 http://brynbailer-net.brynbailer.com//wp-blog.php
+/wp-content/plugins/masterx/wpx.php 1 http://brynbailer-net.brynbailer.com//wp-content/plugins//masterx/wpx.php
+/wp-2020.php 1 http://brynbailer-net.brynbailer.com//wp-2020.php
+/wp-includes/24.php 1 http://brynbailer-net.brynbailer.com//wp-includes//24.php
+/ee.php 3 http://www.brynbailer-net.brynbailer.com//ee.php
+/wp-content/plugins/real/v.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/real/v.php
+/_ignition/execute-solution 1 -
+/xl2023.php 3 http://www.brynbailer-net.brynbailer.com//xl2023.php
+/payload.php 3 http://www.brynbailer-net.brynbailer.com//payload.php
+/kill.php 3 http://www.brynbailer-net.brynbailer.com//kill.php
+/wsoyanzorng.php 3 http://www.brynbailer-net.brynbailer.com//wsoyanzorng.php
+/wp-content/plugins/easybusy/wp-blog.php 1 http://brynbailer-net.brynbailer.com//wp-content/plugins/easybusy/wp-blog.php
+/wp-content/plugins/t_file_wp/t_file_wp.php 2 -
+/moon.php 3 http://www.brynbailer-net.brynbailer.com//moon.php
+/alfanew.php7 3 http://www.brynbailer-net.brynbailer.com//alfanew.php7
+/wp-admin/setup-config.php 3 www.google.com
+/.well-known/utchiha505.php 1 http://brynbailer-net.brynbailer.com//.well-known/utchiha505.php
+/wp-includes/xmrlpc.php 1 http://brynbailer-net.brynbailer.com//wp-includes//xmrlpc.php
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/instabuilder2/cache/plugins/moon.php
+/debug/default/index 1 -
+/xmlrqc.php 1 http://brynbailer-net.brynbailer.com//xmlrqc.php
+/wp-content/plugins/userpro/skins/elegant/style.css 1 -
+/wp-content/plugins/wp-dafte/miin.php 2 -
+/image/screenshot_1.php 1 http://brynbailer-net.brynbailer.com//image/screenshot_1.php
+/utchiha505.php 3 http://www.brynbailer-net.brynbailer.com//utchiha505.php
+/wp-content/plugins/ccx/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/ccx/index.php
+/wordpress 6 http://brynbailer-net.brynbailer.com/wordpress
+/pi.php 1 http://brynbailer-net.brynbailer.com//pi.php
+/css.php 3 http://www.brynbailer-net.brynbailer.com//css.php
+/emergency.php 3 http://www.brynbailer-net.brynbailer.com//emergency.php
+/default.php 3 http://www.brynbailer-net.brynbailer.com//default.php
+/inputs.php 9 www.google.com
+/wp-includes/indeh.php 1 http://brynbailer-net.brynbailer.com//wp-includes//indeh.php
+/wp-content/home.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/home.php
+/olux.php 3 http://www.brynbailer-net.brynbailer.com//olux.php
+/wp-content/plugins/core-stab/casper.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/core-stab/casper.php
+/wp-content/plugins/xsid/marijuana.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/xsid/marijuana.php
+/wp-content/upgrade/utchiha505.php 1 http://brynbailer-net.brynbailer.com//wp-content/upgrade/utchiha505.php
+/bala.php 3 http://www.brynbailer-net.brynbailer.com//bala.php
+/wikindex.php 1 http://brynbailer-net.brynbailer.com//wikindex.php
+/wp-content/cong.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/cong.php
+/wp-admin/wp-22.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/wp-22.php
+/1h6j5.php 1 http://brynbailer-net.brynbailer.com//1h6j5.php
+/1877.php 3 http://www.brynbailer-net.brynbailer.com//1877.php
+/b1a3k.php 3 http://www.brynbailer-net.brynbailer.com/b1a3k.php
+/demo.php 3 http://www.brynbailer-net.brynbailer.com//demo.php
+/end.php 3 http://www.brynbailer-net.brynbailer.com//end.php
+/wp_wrong_datlib.php 4 http://brynbailer-net.brynbailer.com//wp_wrong_datlib.php
+/02.php 1 http://brynbailer-net.brynbailer.com//02.php
+/lock.php 3 http://www.brynbailer-net.brynbailer.com//lock.php
+/reminder.php 1 http://brynbailer-net.brynbailer.com//reminder.php
+/wp-admin/shell20211028.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/shell20211028.php
+/wp-includes/wp-includes/admin-bar.php 1 http://brynbailer-net.brynbailer.com//wp-includes//wp-includes/admin-bar.php
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 2 -
+/fm.php 3 http://www.brynbailer-net.brynbailer.com//fm.php
+/srx.php 4 http://brynbailer-net.brynbailer.com//srx.php
+/wp-admin/priv8.php 1 http://brynbailer-net.brynbailer.com//wp-admin/priv8.php
+/wp-admin/network/subjects.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/network/subjects.php
+/wp-content/plugins/revslider/includes/page/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/revslider/includes/page/index.php
+/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/wp-includes/css/buttons.css 3 http://brynbailer-net.brynbailer.com/wp-includes/css/buttons.css
+/wp-includes/pomo/css_.php 1 http://brynbailer-net.brynbailer.com//wp-includes/pomo/css_.php
+/wp-admin/home.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/home.php
+/lufix.php 4 http://brynbailer-net.brynbailer.com//lufix.php
+/old 5 http://brynbailer-net.brynbailer.com/old
+/wp-content/plugins/TOPXOH/wDR.php 6 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/TOPXOH/wDR.php
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 2 -
+/upl.php 6 http://www.brynbailer-net.brynbailer.com//upl.php
+/wp-includes/assets/pi.php 1 http://brynbailer-net.brynbailer.com//wp-includes/assets/pi.php
+/plugins/jquery.filer/php/readme.txt 1 -
+/google.php 4 http://brynbailer-net.brynbailer.com//google.php
+/license.php 3 http://www.brynbailer-net.brynbailer.com//license.php
+/wp-content/plugins/revslider/includes/external/page/index.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/revslider/includes/external/page/index.php
+/1.php 4 http://brynbailer-net.brynbailer.com//1.php
+/wp-includes/random_compat/random_bytes_cyclone.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/random_compat/random_bytes_cyclone.php
+/about.php 4 http://brynbailer-net.brynbailer.com//about.php
+/autoload_classmap.php 1 http://brynbailer-net.brynbailer.com//autoload_classmap.php
+/wp-admin/xleet.php 1 http://brynbailer-net.brynbailer.com//wp-admin/xleet.php
+/wp-includes/home.php 3 http://www.brynbailer-net.brynbailer.com//wp-includes/home.php
+/tools.php 3 http://www.brynbailer-net.brynbailer.com//tools.php
+/bc 5 http://brynbailer-net.brynbailer.com/bc
+/credits.php 3 http://www.brynbailer-net.brynbailer.com//credits.php
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/wp-content/themes/pridmag/db.php 3 http://www.brynbailer-net.brynbailer.com//wp-content/themes/pridmag/db.php
+/me.php 3 http://www.brynbailer-net.brynbailer.com//me.php
+/__1975.php 3 http://www.brynbailer-net.brynbailer.com//__1975.php
+/wp-admin/maint/ms-db.php 1 http://brynbailer-net.brynbailer.com//wp-admin/maint/ms-db.php
+/wp-includes/1index.php 1 http://brynbailer-net.brynbailer.com//wp-includes/1index.php
+/404.php 4 http://brynbailer-net.brynbailer.com//404.php
+/plugin-install.php 3 http://www.brynbailer-net.brynbailer.com//plugin-install.php
+/wp-god.php 1 http://brynbailer-net.brynbailer.com//wp-god.php
+/lib/jquery-file-upload/server/php/ 2 -
+/c.php 1 http://brynbailer-net.brynbailer.com//c.php
+/an.php 3 http://www.brynbailer-net.brynbailer.com//an.php
+/m.php 3 http://www.brynbailer-net.brynbailer.com//m.php
+/shells.php 3 http://www.brynbailer-net.brynbailer.com//shells.php
+/wp-content/upload.php 1 http://brynbailer-net.brynbailer.com//wp-content/upload.php
+/update-core.php 3 http://www.brynbailer-net.brynbailer.com//update-core.php
+/rxr.php 6 http://www.brynbailer-net.brynbailer.com//rxr.php
+/wp-admin/network/db.php 3 http://www.brynbailer-net.brynbailer.com//wp-admin/network/db.php
+/media-admin.php 4 http://brynbailer-net.brynbailer.com//media-admin.php
+/haxor.php 1 http://brynbailer-net.brynbailer.com//haxor.php
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 2 -
+/screenshot_1.php 1 http://brynbailer-net.brynbailer.com//screenshot_1.php
+/wp-file.php 3 http://www.brynbailer-net.brynbailer.com//wp-file.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+154.38.168.152 2 2 0 20231227102438
+50.116.39.205 2 2 702 20231228154520
+43.142.179.19 2 2 0 20231227131606
+104.234.204.32 2 2 0 20231206121115
+188.166.228.173 2 2 0 20231229222030
+85.209.176.109 2 2 0 20231218055037
+199.45.155.17 2 2 0 20231227165239
+4.232.65.36 2 2 702 20231201020737
+163.5.64.44 1 1 0 20231226035800
+13.56.168.236 1 1 0 20231208123855
+35.180.114.69 1 1 0 20231231060807
+198.235.24.230 1 1 0 20231229233255
+205.210.31.206 1 1 0 20231209151517
+199.45.155.35 1 1 0 20231210191558
+75.101.228.212 1 1 0 20231211070356
+205.210.31.109 1 1 0 20231220034405
+198.235.24.40 1 1 0 20231223021716
+205.210.31.227 1 1 0 20231222235740
+199.45.154.49 1 1 0 20231203224936
+145.220.91.19 1 1 0 20231214054129
+199.45.154.16 1 1 0 20231214164944
+199.45.155.33 1 1 0 20231214203338
+183.136.225.46 1 1 0 20231219151349
+35.86.15.166 1 1 0 20231226184428
+198.235.24.176 1 1 0 20231206174131
+198.235.24.80 1 1 0 20231227074220
+134.122.36.186 1 1 0 20231227051408
+199.45.155.18 1 1 0 20231210184116
+199.45.154.50 1 1 0 20231211180610
+147.182.202.178 1 1 0 20231213115538
+199.45.154.18 1 1 0 20231227144357
+69.167.45.70 1 1 0 20231219061847
+198.235.24.120 1 1 0 20231214214107
+198.235.24.90 1 1 0 20231204170510
+198.235.24.47 1 1 0 20231201015024
+18.139.221.184 1 1 0 20231206041123
+31.220.97.52 1 1 351 20231202183620
+65.154.226.167 1 1 0 20231209162148
+65.154.226.169 1 1 0 20231209162541
+44.224.32.76 1 1 0 20231222221701
+118.193.69.67 1 1 0 20231213004929
+183.136.225.45 1 1 0 20231209215225
+118.193.59.151 1 1 0 20231212191731
+199.45.154.19 1 1 0 20231211204434
+167.99.33.197 1 1 0 20231208035207
+165.232.145.139 1 1 0 20231222052617
+208.91.67.202 1 1 0 20231230213901
+198.235.24.68 1 1 0 20231225181204
+13.52.97.18 1 1 0 20231214112638
+128.90.43.243 1 1 0 20231201020643
+205.210.31.143 1 1 0 20231230150301
+54.177.153.243 1 1 0 20231216174106
+128.90.90.248 1 1 0 20231206210243
+128.90.43.112 1 1 0 20231210071325
+54.153.65.195 1 1 0 20231205154452
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20231201 4 4 702 3
+20231202 1 1 351 1
+20231203 2 2 0 2
+20231204 1 1 0 1
+20231205 2 2 0 2
+20231206 4 4 0 4
+20231208 2 2 0 2
+20231209 4 4 0 4
+20231210 4 4 0 4
+20231211 3 3 0 3
+20231212 1 1 0 1
+20231213 2 2 0 2
+20231214 5 5 0 5
+20231216 1 1 0 1
+20231217 1 1 0 1
+20231218 1 1 0 1
+20231219 2 2 0 2
+20231220 1 1 0 1
+20231222 3 3 0 3
+20231223 1 1 0 1
+20231225 1 1 0 1
+20231226 2 2 0 2
+20231227 7 7 0 6
+20231228 2 2 702 2
+20231229 3 3 0 2
+20231230 2 2 0 2
+20231231 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 1
+2mn-5mn 1
+0s-30s 57
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 58 0 56 56
+/.well-known/ 5 1755 4 4
+END_SIDER

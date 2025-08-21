@@ -1,0 +1,571 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2696                
+POS_VISITOR 10847               
+POS_DAY 17205               
+POS_DOMAIN 3473                
+POS_LOGIN 4120                
+POS_ROBOT 4275                
+POS_WORMS 4558                
+POS_EMAILSENDER 4689                
+POS_EMAILRECEIVER 4832                
+POS_SESSION 17976               
+POS_SIDER 18185               
+POS_FILETYPES 4967                
+POS_DOWNLOADS 5174                
+POS_OS 5222                
+POS_BROWSER 5409                
+POS_SCREENSIZE 5817                
+POS_UNKNOWNREFERER 5891                
+POS_UNKNOWNREFERERBROWSER 7073                
+POS_ORIGIN 8164                
+POS_SEREFERRALS 8303                
+POS_PAGEREFS 8489                
+POS_SEARCHWORDS 8637                
+POS_KEYWORDS 8789                
+POS_MISC 2359                
+POS_ERRORS 8848                
+POS_CLUSTER 3976                
+POS_SIDER_404 9008                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201003419 92 22131 16320115590407
+FirstTime 20220101010136
+LastTime 20220131231643
+LastUpdate 20220201052459 92 0 91 0 0
+TotalVisits 347                 
+TotalUnique 164                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 164                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 17 38194 30 34 106120
+1 41 41 181614 35 53 50609
+2 17 17 29000 20 27 25504
+3 22 22 53763 34 91 1612057
+4 13 13 86936 27 34 21926
+5 17 17 73269 33 37 169129
+6 17 17 51015 21 26 19241
+7 14 14 46217 13 16 12807
+8 20 44 422316 12 19 24335
+9 23 23 97603 15 19 41511
+10 30 30 155866 8 12 13348
+11 19 19 118140 13 15 7814
+12 9 9 15217 12 16 6191
+13 21 21 121266 20 22 103048
+14 20 20 41504 17 47 229195
+15 13 13 36550 13 22 28626
+16 13 13 47846 14 23 58165
+17 26 26 109631 23 39 182256
+18 14 14 14136 15 38 111956
+19 13 13 11307 19 22 20372
+20 19 19 145213 18 23 41715
+21 22 22 87694 15 21 63400
+22 48 71 434891 16 20 17806
+23 38 49 239814 15 24 19203
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 384 431 1819316
+in 19 19 53728
+id 17 17 48064
+gr 14 14 339900
+br 7 7 19790
+ca 6 17 145534
+tr 6 6 16962
+vn 5 5 14139
+de 5 5 48585
+mx 4 4 11311
+th 4 4 11310
+eg 3 3 8482
+pe 3 3 8486
+ph 3 3 8485
+ve 2 2 5659
+pk 2 2 5656
+cl 2 2 5656
+ng 2 2 5654
+np 2 2 5656
+nl 2 2 37046
+cn 1 1 2827
+ru 1 1 2827
+my 1 1 2826
+lr 1 1 2828
+gb 1 1 2828
+ao 1 1 2827
+jo 1 1 2827
+ke 1 1 2828
+ir 1 1 2829
+lk 1 1 2825
+ec 1 1 2828
+dz 1 1 2828
+za 1 1 2827
+ae 1 1 2828
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bingbot/ 130 649536 20220131201211 46
+bingpreview 42 1330691 20220130032243 0
+unknown 22 1631 20220128163311 22
+no_user_agent 3 94271 20220121214533 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 349 294463 0 0
+css 11 91082 0 0
+env 2 23539 0 0
+gif 1 22244 0 0
+js 45 323845 0 0
+Unknown 2 23541 0 0
+html 153 1706177 0 0
+png 1 174111 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 7 7
+ios_iphone 42 7
+macosx10 1 1
+win7 2 2
+linux 16 16
+macosx11 30 7
+Unknown 352 352
+win10 110 110
+macosx 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome77.0.3865.90 1 1
+firefox52.0 30 7
+Unknown 349 349
+chrome91.0.4472.114 2 2
+android 4 4
+safari11.0 26 2
+chrome42.0.2311.90 2 2
+safari10.1.2 1 1
+chrome60.0.3112.107 2 2
+firefox84.0 4 4
+chrome86.0.4240.75 2 2
+chrome46.0.2490.80 1 1
+chrome76.0.3809.89 1 1
+mozilla 4 4
+chrome66.0.3359.181 4 4
+chrome83.0.4103.97 12 12
+chrome90.0.4430.72 103 103
+safari 16 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+WordPress/5.8.2;_http://www.brynbailer.com 20220106101038
+AHC/2.1 20220131133319
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220130054935
+ZaldomoSearchBot(www.zaldamo.com/search.html) 20220112082421
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220107041528
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220131203500
+WordPress/5.8.3;_https://www.brynbailer.com 20220131231645
+Go_http_package 20220122231643
+WordPress/5.8.2;_https://www.brynbailer.com 20220106053153
+Python/3.8_aiohttp/3.8.1 20220115221918
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220131135738
+WordPress/5.8.3;_http://www.brynbailer.com 20220131224906
+Jetpack_by_WordPress.com 20220131103828
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+WordPress/5.8.3;_https://www.brynbailer.com 20220131231645
+Go_http_package 20220122231643
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220107041528
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220131203500
+AHC/2.1 20220131133319
+ZaldomoSearchBot(www.zaldamo.com/search.html) 20220112082421
+WordPress/5.8.2;_http://www.brynbailer.com 20220106101038
+Jetpack_by_WordPress.com 20220131103828
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220131135738
+WordPress/5.8.3;_http://www.brynbailer.com 20220131224906
+Python/3.8_aiohttp/3.8.1 20220115221918
+WordPress/5.8.2;_https://www.brynbailer.com 20220106053153
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 183 206
+From1 3 3
+From2 7 18
+From3 0 0
+From4 313 337
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 2 2
+www_google_com 5 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+401 138 157455
+406 90 20340
+404 89 717770
+409 22 2943
+400 58 2655
+301 83 0
+302 11 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 30
+/.well-known/ALFA_DATA/alfacgiapi/py.alfa 1 www.google.com
+/wp-content/uploads/alfacgiapi/bash.alfa 3 www.google.com
+/wordpress/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/wp-content/plugins/vc-tabs/assets/backend/custom/admin-notice.js 1 -
+/3index.php 1 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/py.alfa 3 www.google.com
+/sitemaps.xml 8 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/bash.alfa 4 www.google.com
+/wp-content/uploads/ALFA_DATA/cgialfa/bash.alfa 3 www.google.com
+/wp-content/plugins/lidplay/db.php 1 www.google.com
+/.well-known/ALFA_DATA/alfacgiapi/bash.alfa 1 www.google.com
+/sitemap.txt 8 -
+/.well-known/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/uploads/ALFA_DATA/cgialfa/perl.alfa 3 www.google.com
+/wordpress/ALFA_DATA/alfacgiapi/py.alfa 1 www.google.com
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/wp-content/uploads/alfacgiapi/py.alfa 3 www.google.com
+/register/ 2 https://brynbailer.com/register/
+/wordpress/ALFA_DATA/alfacgiapi/bash.alfa 1 www.google.com
+/wp-content/uploads/alfacgiapi/perl.alfa 3 www.google.com
+/wp-content/uploads/ALFA_DATA/alfacgiapi/perl.alfa 4 www.google.com
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/sitemap_index.xml 8 -
+/.well-known/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/wordpress/alfacgiapi/perl.alfa 1 www.google.com
+/wp-includes/ALFA_DATA/alfacgiapi/bash.alfa 1 www.google.com
+/wp-content/uploads/ALFA_DATA/cgialfa/py.alfa 3 www.google.com
+/atom.xml 8 -
+/sitemap.xml.gz 8 -
+/wp-includes/ALFA_DATA/alfacgiapi/py.alfa 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 164
+67.222.39.71 306 306 451342 20220131231645
+34.79.119.26 10 33 210465 20220115221919
+192.99.18.136 6 17 145534 20220113235529
+92.118.160.61 4 4 100204 20220130175456
+137.226.113.44 4 4 27360 20220126081726
+34.86.35.13 3 3 78967 20220125223629
+35.166.68.246 3 3 19155 20220131113535
+92.118.160.17 3 3 63675 20220122003036
+92.118.160.1 2 2 42450 20220122231643
+52.87.203.136 2 2 23536 20220101010137
+3.135.206.235 2 2 13682 20220131175904
+54.69.168.72 2 2 13874 20220131133319
+15.188.147.33 2 2 23525 20220128040312
+13.38.38.175 2 2 23541 20220123235503
+3.233.212.58 2 26 390490 20220108081944
+170.83.37.95 2 2 5656 20220124210709
+104.237.5.111 2 2 13682 20220119114125
+62.197.136.223 2 2 37046 20220121061428
+204.12.198.243 2 2 28066 20220122030012
+113.199.248.20 1 1 2828 20220116074602
+107.150.57.36 1 1 11757 20220121012149
+156.216.88.177 1 1 2827 20220126214711
+52.39.167.122 1 1 6841 20220131011752
+35.85.44.170 1 1 6839 20220106012052
+36.88.112.109 1 1 2828 20220127000459
+34.86.35.8 1 1 36529 20220131203500
+106.193.246.33 1 1 2827 20220129010609
+185.189.128.210 1 1 2827 20220128105531
+54.189.233.153 1 1 6092 20220131125921
+102.184.215.20 1 1 2827 20220129132919
+58.11.25.197 1 1 2825 20220128204943
+14.244.159.73 1 1 2826 20220116013802
+14.161.11.39 1 1 2829 20220131054144
+103.35.168.38 1 1 2827 20220129202316
+154.247.191.246 1 1 2827 20220117152035
+103.152.158.163 1 1 2828 20220129005742
+49.36.209.107 1 1 2827 20220127231257
+37.98.69.3 1 1 2829 20220120074404
+189.182.53.42 1 1 2830 20220130144832
+188.133.51.252 1 1 2827 20220129122156
+35.87.47.115 1 1 6818 20220103012633
+157.37.137.60 1 1 2830 20220123232551
+103.150.209.32 1 1 2831 20220125165737
+103.131.18.78 1 1 2828 20220130032451
+181.65.18.55 1 1 2830 20220131154006
+192.0.89.53 1 1 644 20220118103510
+180.252.169.186 1 1 2829 20220129181454
+54.245.26.98 1 1 6839 20220115013620
+167.94.138.114 1 1 11762 20220112054738
+45.167.84.227 1 1 2826 20220126235410
+118.107.130.186 1 1 2828 20220126143801
+181.162.43.252 1 1 2829 20220124132824
+52.13.9.146 1 1 6818 20220101013448
+78.175.236.252 1 1 2825 20220129171556
+138.117.94.9 1 1 2828 20220120210105
+102.112.124.230 1 1 2825 20220129050830
+125.164.234.98 1 1 2824 20220130230119
+118.96.85.155 1 1 2828 20220122232103
+87.106.114.236 1 1 21225 20220120203108
+103.200.38.142 1 1 2828 20220128060854
+95.7.28.121 1 1 2827 20220128094710
+49.145.200.114 1 1 2827 20220126052718
+117.201.72.138 1 1 2829 20220121004417
+192.0.89.65 1 1 644 20220131103828
+217.55.244.80 1 1 2830 20220117171300
+34.96.130.8 1 1 36529 20220120164341
+85.153.236.246 1 1 2827 20220123003211
+103.98.63.46 1 1 2828 20220122224337
+78.188.198.31 1 1 2828 20220116015321
+92.118.160.13 1 1 36517 20220124053257
+14.173.74.141 1 1 2828 20220131231643
+34.96.130.9 1 1 21225 20220117130837
+103.51.234.203 1 1 2826 20220117190854
+197.248.39.150 1 1 2828 20220128112140
+168.253.109.144 1 1 2828 20220130014417
+95.10.238.21 1 1 2829 20220129142018
+192.0.87.173 1 1 643 20220126124158
+180.241.199.15 1 1 2828 20220124064936
+191.191.32.103 1 1 2827 20220124094107
+45.184.22.153 1 1 2828 20220125163919
+223.207.245.197 1 1 2829 20220131230936
+192.0.87.41 1 1 646 20220124104925
+125.161.162.237 1 1 2828 20220118033330
+116.105.23.114 1 1 2827 20220130051256
+124.158.189.37 1 1 2827 20220125023530
+103.199.214.132 1 1 2828 20220124202248
+92.118.160.5 1 1 36529 20220122041421
+181.226.181.238 1 1 2827 20220123192743
+34.212.82.206 1 1 6839 20220113011723
+201.17.210.132 1 1 2827 20220118081329
+34.222.230.167 1 1 6839 20220114012325
+187.127.31.70 1 1 2826 20220129235240
+103.117.151.113 1 1 2828 20220128065503
+34.96.130.31 1 1 36529 20220128214911
+120.72.20.10 1 1 2827 20220126224616
+201.209.185.138 1 1 2831 20220122173235
+192.0.86.157 1 1 642 20220129104538
+36.90.53.134 1 1 2828 20220120231224
+34.86.35.18 1 1 36517 20220121112044
+75.15.244.98 1 1 6839 20220112082421
+36.69.121.75 1 1 2830 20220119073401
+34.96.130.28 1 1 21225 20220104204331
+34.208.171.25 1 1 6839 20220105022817
+3.7.175.86 1 1 2827 20220125132919
+202.70.67.237 1 1 2828 20220119232707
+168.195.208.68 1 1 2828 20220117141652
+125.164.7.205 1 1 2827 20220124230300
+51.36.130.42 1 1 2828 20220126095921
+36.85.39.128 1 1 2830 20220126165819
+180.249.192.252 1 1 2827 20220129063655
+115.87.198.117 1 1 2829 20220130031410
+34.86.35.29 1 1 36529 20220124200344
+39.43.28.96 1 1 2828 20220123023005
+18.237.108.177 1 1 6841 20220130012430
+34.77.162.27 1 1 21225 20220107041528
+186.193.116.115 1 1 2826 20220122124146
+192.248.41.55 1 1 2825 20220128224131
+177.245.211.90 1 1 2826 20220131095241
+95.70.128.199 1 1 2826 20220130024201
+14.192.220.243 1 1 2826 20220117132538
+148.244.212.204 1 1 2827 20220129153038
+34.209.140.135 1 1 6839 20220104012111
+102.65.145.4 1 1 2826 20220125001459
+36.83.194.3 1 1 2827 20220124183339
+91.186.248.57 1 1 2827 20220129094330
+112.133.229.173 1 1 2828 20220122081132
+103.127.227.44 1 1 2828 20220129042128
+41.102.216.76 1 1 2828 20220124172826
+34.220.131.77 1 1 6839 20220106012609
+41.79.4.142 1 1 2828 20220125214119
+167.248.133.61 1 1 6841 20220130054935
+197.54.196.14 1 1 2825 20220129085359
+54.213.140.52 1 1 6839 20220104011756
+118.173.47.50 1 1 2827 20220131195144
+197.184.163.57 1 1 2827 20220125181435
+34.86.35.24 1 1 36517 20220129010500
+34.96.130.29 1 1 21225 20220111093846
+103.144.192.237 1 1 2829 20220124041516
+110.138.82.194 1 1 2825 20220117185959
+189.186.118.116 1 1 2828 20220126030435
+179.6.43.195 1 1 2828 20220124160801
+45.163.18.102 1 1 2828 20220126171036
+191.99.20.182 1 1 2828 20220128132414
+196.3.62.8 1 1 2826 20220121214214
+92.118.160.57 1 1 21181 20220101061959
+179.6.46.217 1 1 2828 20220128172547
+72.255.7.146 1 1 2827 20220126073845
+190.79.119.55 1 1 2828 20220127183823
+94.59.81.147 1 1 2828 20220125222047
+54.190.197.69 1 1 6839 20220106012746
+34.96.130.15 1 1 21225 20220120172729
+54.185.126.248 1 1 6839 20220105022930
+34.220.84.176 1 1 6818 20220102011808
+116.109.161.74 1 1 2829 20220123013531
+200.53.194.222 1 1 2827 20220129232122
+103.131.109.18 1 1 2827 20220116082808
+103.195.56.1 1 1 2826 20220130211421
+34.77.162.11 1 1 21225 20220129155536
+177.184.110.88 1 1 2829 20220118121500
+170.247.104.27 1 1 2828 20220126144933
+222.127.185.182 1 1 2831 20220128002713
+54.212.41.195 1 1 6818 20220102011609
+167.248.133.62 1 1 6841 20220129055221
+92.118.160.41 1 1 36517 20220131135738
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20220101 9 9 65171 7
+20220102 5 5 27272 5
+20220103 4 4 20475 4
+20220104 8 8 48581 8
+20220105 9 9 41034 8
+20220106 8 8 34196 8
+20220107 10 10 41745 8
+20220108 8 32 425395 6
+20220109 4 4 34904 4
+20220110 3 3 13678 3
+20220111 5 5 34903 3
+20220112 9 9 39118 8
+20220113 12 23 180437 7
+20220114 6 6 27356 6
+20220115 15 38 252207 5
+20220116 12 12 46214 10
+20220117 15 15 51869 12
+20220118 14 14 29651 11
+20220119 10 10 33022 9
+20220120 17 17 119669 14
+20220121 12 12 92975 10
+20220122 27 27 158920 20
+20220123 15 15 51364 12
+20220124 30 30 115654 22
+20220125 33 33 94046 18
+20220126 32 32 52270 21
+20220127 14 14 22165 9
+20220128 35 35 108852 20
+20220129 53 53 124138 28
+20220130 29 29 107736 19
+20220131 43 43 163985 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 1
+15mn-30mn 9
+2mn-5mn 4
+0s-30s 287
+1h+ 18
+5mn-15mn 6
+30mn-1h 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/wp-cron.php 240 0 113 120
+/ 137 1556355 116 109
+/wp-login.php 103 291244 103 103
+/xmlrpc.php 5 3219 5 5
+/contact-2/ 4 24366 2 1
+/test-page/ 2 26450 0 1
+/category/testimonials/ 2 14326 0 0
+/intro/ 2 13874 2 2
+/feed/atom/ 2 37046 2 2
+/.git/config 2 23541 2 2
+/category/writing-samples/ 2 16830 0 0
+/.env 2 23539 2 0
+/contact/ 1 6971 0 1
+/wp-admin/admin-ajax.php 1 0 0 1
+/brush-with-the-law-when-inmates-say-i-was-framed-theyre-talking-about-artwork/ 1 9959 0 0
+END_SIDER

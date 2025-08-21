@@ -1,0 +1,321 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2675                
+POS_VISITOR 7067                
+POS_DAY 7751                
+POS_DOMAIN 3264                
+POS_LOGIN 3551                
+POS_ROBOT 3706                
+POS_WORMS 4022                
+POS_EMAILSENDER 4153                
+POS_EMAILRECEIVER 4296                
+POS_SESSION 8284                
+POS_SIDER 8453                
+POS_FILETYPES 4431                
+POS_DOWNLOADS 4562                
+POS_OS 4610                
+POS_BROWSER 4753                
+POS_SCREENSIZE 5068                
+POS_UNKNOWNREFERER 5142                
+POS_UNKNOWNREFERERBROWSER 5511                
+POS_ORIGIN 5848                
+POS_SEREFERRALS 5982                
+POS_PAGEREFS 6126                
+POS_SEARCHWORDS 6274                
+POS_KEYWORDS 6426                
+POS_MISC 2339                
+POS_ERRORS 6485                
+POS_CLUSTER 3407                
+POS_SIDER_404 6624                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101151132 1 0 17674855071882
+FirstTime 0
+LastTime 20201031211437
+LastUpdate 20201102051452 1 0 0 0 0
+TotalVisits 75                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 18775 6 7 780
+1 4 4 0 4 8 807
+2 5 5 0 5 6 155
+3 7 7 11297 5 7 72658
+4 2 2 0 7 7 574
+5 1 1 0 1 3 328
+6 4 4 12296 6 9 740
+7 2 2 0 6 6 24346
+8 7 7 6149 6 7 571
+9 0 0 0 2 2 36231
+10 7 7 18775 12 14 24691
+11 3 3 6149 2 4 360
+12 2 2 0 2 4 18910
+13 5 5 0 4 5 36524
+14 2 2 6149 10 10 469
+15 4 4 18775 4 5 5360
+16 0 0 0 2 4 745
+17 1 1 0 0 2 134
+18 5 5 0 23 26 36056
+19 10 27 172559 3 7 1937
+20 1 1 0 0 1 67
+21 3 3 6148 2 2 0
+22 3 3 0 4 5 33994
+23 4 4 11703 6 9 586
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 74 91 203303
+de 5 5 0
+fr 3 3 56325
+ru 2 2 12296
+cn 1 1 11703
+ch 1 1 5148
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 35 240549 20201031205216 26
+unknown 4 268 20201029155706 4
+curl 2 12298 20201008222903 0
+Python\-urllib/ 1 67 20201031190746 1
+no_user_agent 1 67 20201003232525 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+php 63 5152 0 0
+css 6 38983 0 0
+js 11 91039 0 0
+html 23 153601 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win8.1 1 1
+winxp 1 1
+win10 8 8
+macosx12 1 1
+linux 24 7
+Unknown 62 62
+win7 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome78.0.3904.108 1 1
+chrome60.0.3112.113 1 1
+chrome85.0.4183.102 23 6
+chrome41.0.2224.3 1 1
+chrome46.0.2490.80 3 3
+chrome40.0.2214.85 5 5
+chrome66.0.3359.117 4 4
+chrome41.0.2225.0 1 1
+chrome54.0.2840.98 1 1
+chrome67.0.3396.775 1 1
+netscape5.0 1 1
+Unknown 61 61
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WordPress/4.9.16;_https://www.brynbailer.com 20201031211436
+WordPress/4.9.16;_http://www.brynbailer.com 20201030122238
+\ 20201001193422
+WordPress/4.9.15;_http://www.brynbailer.com 20201027132929
+Mozilla/5.0 20201001233930
+WordPress/4.9.15;_https://www.brynbailer.com 20201029121854
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.9.16;_http://www.brynbailer.com 20201030122238
+\ 20201001193422
+WordPress/4.9.15;_http://www.brynbailer.com 20201027132929
+WordPress/4.9.15;_https://www.brynbailer.com 20201029121854
+WordPress/4.9.16;_https://www.brynbailer.com 20201031211436
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 22
+From1 0 0
+From2 0 0
+From3 0 0
+From4 64 81
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 34 0
+400 33 1359
+404 5 33207
+302 2 0
+406 32 7232
+401 9 332
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/adminer-4.6.2.php 1 -
+/nette.micro 2 http://www.google.com.hk
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+67.222.39.71 60 60 0 20201031211436
+18.220.214.142 6 23 153784 20201031190747
+138.246.253.15 5 5 0 20201029025831
+188.165.211.206 2 2 37550 20201029155710
+91.144.130.24 2 2 12296 20201031062905
+184.154.47.2 1 1 6149 20201014141942
+198.20.103.242 1 1 6149 20201027034806
+165.227.46.43 1 1 0 20201023193143
+188.165.239.211 1 1 18775 20201029004632
+134.122.44.127 1 1 0 20201023193145
+42.157.195.85 1 1 11703 20201001233930
+209.127.97.157 1 1 6148 20201031211437
+69.175.97.170 1 1 6149 20201004114748
+108.178.61.58 1 1 6149 20201026085003
+193.27.229.26 1 1 5148 20201028035305
+3.81.245.94 1 1 18775 20201001193422
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20201001 4 4 30478 4
+20201002 5 5 0 5
+20201003 3 3 0 3
+20201004 1 1 6149 1
+20201005 3 3 0 3
+20201006 1 1 0 1
+20201007 1 1 0 1
+20201008 2 2 0 2
+20201010 3 3 0 3
+20201012 2 2 0 2
+20201014 2 2 6149 2
+20201016 3 3 0 3
+20201017 1 1 0 1
+20201019 1 1 0 1
+20201020 1 1 0 1
+20201021 1 1 0 1
+20201022 1 1 0 1
+20201023 7 7 0 5
+20201024 5 5 18775 5
+20201025 1 1 0 1
+20201026 5 5 6149 5
+20201027 5 5 6149 5
+20201028 3 3 5148 3
+20201029 7 7 37550 7
+20201030 3 3 0 3
+20201031 15 32 172228 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 70
+30mn-1h 2
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/wp-cron.php 60 0 55 55
+/ 22 148287 19 18
+/wp-admin/admin-ajax.php 2 4 0 1
+/index.php 1 5148 1 1
+/contact-2/ 1 5314 0 0
+END_SIDER

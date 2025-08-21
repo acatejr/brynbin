@@ -1,0 +1,1528 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202102 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 35819               
+POS_DAY 54247               
+POS_DOMAIN 3625                
+POS_LOGIN 4618                
+POS_ROBOT 4773                
+POS_WORMS 5620                
+POS_EMAILSENDER 5751                
+POS_EMAILRECEIVER 5894                
+POS_SESSION 55068               
+POS_SIDER 55281               
+POS_FILETYPES 6029                
+POS_DOWNLOADS 6306                
+POS_OS 6555                
+POS_BROWSER 6908                
+POS_SCREENSIZE 10256               
+POS_UNKNOWNREFERER 10330               
+POS_UNKNOWNREFERERBROWSER 11237               
+POS_ORIGIN 12021               
+POS_SEREFERRALS 12167               
+POS_PAGEREFS 12372               
+POS_SEARCHWORDS 12604               
+POS_KEYWORDS 12756               
+POS_MISC 2358                
+POS_ERRORS 12815               
+POS_CLUSTER 4474                
+POS_SIDER_404 13018               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210301000744 165 43710 18784010948230
+FirstTime 20210201005113
+LastTime 20210228232605
+LastUpdate 20210301051905 165 0 164 0 0
+TotalVisits 1230                
+TotalUnique 473                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 477                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 23 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 102 102 756868 163 181 354114
+1 120 120 556144 201 217 514697
+2 131 131 453825 438 440 1795846
+3 104 104 429827 330 340 1346273
+4 113 113 418210 331 357 782562
+5 109 132 776171 226 295 1668428
+6 131 185 23625855 419 425 350272
+7 605 1134 26661617 485 1124 84089018
+8 123 145 838848 225 271 37366529
+9 117 117 470445 221 225 418483
+10 105 105 360409 305 327 1444917
+11 218 560 7560592 484 504 992583
+12 121 185 1719689 234 255 594568
+13 120 249 3313824 261 290 706355
+14 240 639 9336455 201 212 1213562
+15 95 110 207297 296 298 557542
+16 82 82 190218 235 241 2247815
+17 154 217 1230030 425 436 600931
+18 117 202 2298135 437 445 297480
+19 110 110 244152 231 238 2355239
+20 83 83 216517 260 267 2078354
+21 108 150 1053263 257 327 968896
+22 106 168 2093101 189 210 712136
+23 109 109 323393 201 235 625386
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 62
+us 2564 4288 54019544
+gb 516 572 27287611
+fr 40 42 976204
+cn 32 79 947627
+ru 29 29 248825
+de 24 24 330733
+ua 21 21 320749
+br 16 16 3296
+in 12 12 64392
+sc 12 12 61494
+tr 10 10 2060
+ro 9 9 68510
+eg 8 8 1648
+id 8 8 20328
+gr 8 8 103412
+pl 7 7 21580
+ma 7 7 10703
+il 6 6 38000
+it 5 5 391296
+ve 5 5 1030
+mx 5 5 1030
+ee 4 4 19290
+ar 4 4 824
+co 4 4 824
+nl 4 4 20080
+es 1 1 2939
+lt 1 1 206
+kr 1 1 206
+lv 1 1 206
+cr 1 1 206
+bg 1 1 6151
+jo 2 2 412
+pk 1 1 206
+vn 3 3 618
+at 1 1 206
+na 1 1 206
+uz 2 2 13424
+eu 2 2 12685
+au 3 3 21595
+tn 1 1 206
+ir 2 2 412
+rs 1 1 206
+hu 2 2 6918
+th 2 2 6890
+cz 1 1 206
+sa 1 1 206
+pe 1 1 206
+ga 1 1 206
+ke 1 1 206
+cl 1 1 1517
+bd 2 2 412
+mw 1 1 206
+ge 1 1 206
+dz 3 3 618
+ca 4 4 53523
+se 3 3 19014
+kw 1 1 206
+ch 1 1 20580
+za 3 3 618
+ph 3 3 618
+my 2 2 412
+ba 4 4 824
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+spider 741 116787022 20210228073256 0
+Googlebot/ 189 1389784 20210228105126 8
+bingbot/ 166 11912913 20210228160614 21
+bingpreview 62 922923 20210223051502 0
+bot[\s_+:,\.\;\/\\-] 53 66406 20210228063618 49
+YandexBot/ 38 72928 20210227183942 16
+php 34 200342 20210218181135 0
+Mail\.RU_Bot/ 12 39672 20210220040552 6
+(firefox/)([0-9]\.|[0-1][0]\.) 12 67051 20210227112241 0
+unknown 10 966 20210226072750 10
+curl 5 6151 20210212055528 0
+Applebot/ 4 13378 20210227012731 2
+Apache\-HttpClient/ 3 19222 20210203090017 0
+2345Explorer/ 3 16305 20210218023731 0
+nutch 3 16308 20210217034231 0
+no_user_agent 2 39061 20210212190352 0
+Python\-urllib/ 1 20580 20210226174924 0
+DuckDuckGo\-Favicons\-Bot/ 1 6712 20210221122523 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+xml 44 45482 0 0
+jpg 84 27414623 0 0
+svg 3 4563 0 0
+png 65 9970573 0 0
+html 1384 21903010 0 0
+woff 2 2112 0 0
+Unknown 159 285210 0 0
+js 900 11723947 0 0
+gif 27 497906 0 0
+php 1834 4887614 0 0
+css 750 8399619 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+//wp-content/plugins/lightbox/readme.txt 24 0 386088
+//wp-content/plugins/easy-social-icons/readme.txt 24 0 167969
+//wp-content/plugins/gallery-by-supsystic/readme.txt 24 0 1170455
+/robots.txt 0 1 113
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+win8.1 33 11
+linux 528 124
+ios_iphone 97 11
+winnt 1 1
+macosx9 2 2
+macosx4 1 1
+macosx6 67 6
+win10 1504 1044
+winxp 30 30
+macosx10 18 18
+unix 168 19
+macosx 36 14
+Unknown 1482 1446
+linuxandroid 81 39
+winlong 24 5
+win8 3 3
+win7 1165 636
+linuxubuntu 1 1
+macosx8 6 6
+bsdnetbsd 1 1
+macosx12 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 155
+firefox66.0 1 1
+opera52.0.2871.64 1 1
+firefox48.0 68 7
+firefox45.0 4 4
+firefox28.0 2 0
+chrome60.0.3100.2 3 3
+chrome63.0.3239.132 8 8
+firefox47.0 2 2
+chrome46.0.2490.80 3 3
+chrome66.0.3359.117 5 5
+android 24 1
+chrome65.0.3315.3 3 3
+chrome56.0.2938.51 1 1
+chrome83.0.4103.97 2 2
+chrome51.0.2729.89 1 1
+chrome53.5.0289.5916 5 5
+firefox65.0 1 1
+firefox46.0 2 2
+firefox64.0 7 3
+chrome59.0.3071.109 126 126
+chrome56.0.2896.3 4 4
+firefox85.0 409 94
+firefox72.0 1 1
+chrome66.0.3359.130 2 2
+chrome84.0.4147.89 2 2
+safari14.0.3 71 9
+firefox50.0 1 1
+chrome50.0.2661.95 2 2
+chrome80.0.3987.149 8 8
+chrome67.0.3396.87 3 3
+firefox49.0 1 1
+chrome52.0.2749.39 1 1
+firefox29.0 1 1
+edge17 5 5
+bonecho 4 4
+chrome35.0.1916.153 1 1
+chrome81.0.4044.138 1 1
+msie6.0 13 13
+chrome83.0.4103.106 1 1
+chrome63.0.3239.26 5 5
+chrome67.0.3396.79 5 5
+chrome74.0.3729.169 2 2
+chrome62.0.3202.84 1 1
+chrome68.0.3423.2 6 6
+chrome66.0.3359.66 1 1
+edge2 1 1
+msie11.0 9 9
+chrome88.0.4324.150 607 218
+chrome29.0.1547.76 1 1
+chrome60.0.3112.107 23 23
+chrome62.0.3202.9 9 9
+safari3.0 26 2
+chrome75.0.3770.80 1 1
+chrome88.0.4324.153 168 19
+chrome85.0.4183.121 1 1
+opera53.0.2907.57 3 3
+firefox59.0 9 9
+opera52.0.2871.40 2 2
+chrome88.0.4324.152 20 1
+chrome55.0.2900.7 1 1
+firefox16.0 1 1
+opera54.0.2952.71 1 1
+chrome78.0.3904.97 6 6
+chrome64.0.3282.186 2 2
+chrome69.0.3452.0 1 1
+edge18 2 2
+chrome86.0.4240.193 486 486
+chrome53.6.0969.5697 2 2
+chrome78.0.3904.108 10 10
+chrome45.0.2454.101 2 2
+chrome88.0.4240.193 9 9
+chrome66.0.3359.181 10 10
+chrome71.0.3578.98 65 65
+firefox57.0 28 7
+chrome54.0.2850.97 1 1
+chrome50.0.2695.51 1 1
+firefox58.0 2 2
+chrome68.0.3440.25 3 3
+chrome80.0.3987.122 1 1
+firefox60.0 5 5
+chrome15.0.874.120 1 1
+chrome17.0.939.0 1 1
+chrome48.0.2564.116 3 3
+chrome76.0.3809.71 24 2
+chrome56.0.2938.9 1 1
+chrome79.0.3945.130 10 10
+chrome35.0.1916.47 1 1
+firefox52.9 2 2
+chrome56.0.2924.92 3 3
+firefox56.0 3 3
+firefox40.0 4 4
+chrome72.0.3626.121 1 1
+firefox38.0 3 3
+chrome83.0.4098.0 1 1
+chrome80.0.3987.132 2 2
+chrome58.0.1145.75 1 1
+chrome67.0.3396.62 1 1
+chrome80.0.3987.0 48 4
+chrome55.0.2918.88 1 1
+chrome49.0.2623.8 1 1
+chrome5.0.375.99 13 13
+chrome87.0.4280.141 2 2
+chrome83.0.3770.100 1 1
+chrome79.0.3945.88 1 1
+chrome53.0.2785.104 12 12
+chrome83.0.4103.14 1 1
+chrome39.0.2171.95 15 15
+msie9.0 1037 489
+chrome66.0.3359.106 4 4
+chrome55.0.2883.87 8 8
+chrome83.0.4100.3 1 1
+firefox51.0 2 2
+chrome83.0.4103.61 4 4
+chrome69.0.3451.0 4 4
+chrome51.0.2734.30 1 1
+chrome19.0.1084.9 1 1
+chrome53.0.2802.23 1 1
+chrome52.0.2776.39 1 1
+chrome67.0.3396.10 1 1
+chrome88.0.4324.182 73 6
+chrome49.0.2623.112 1 1
+chrome9.0.597.84 1 1
+opera53.0.2907.68 3 3
+chrome65.0.3325.183 4 4
+chrome52.0.2782.40 1 1
+opera53.0.2907.99 5 5
+chrome53.0.2808.0 1 1
+chrome84.0.4147.105 5 5
+firefox62.0 7 7
+Unknown 1401 1400
+firefox21.0 2 2
+opera52.0.2871.99 2 2
+firefox77.0 1 1
+chrome26.0.1410.65 1 1
+firefox75.0 1 1
+chrome65.0.3298.4 4 4
+chrome83.0.4103.34 2 2
+edge36 7 7
+mozilla 84 49
+chrome52.0.2750.71 1 1
+netscape4.72 1 1
+chrome83.0.4096.0 1 1
+chrome76.0.3809.132 2 2
+chrome45.0.2454.94 1 1
+chrome67.0.3371.0 4 4
+chrome46.0.2754.75 2 2
+chrome58.0.3029.110 3 3
+firefox73.0.1 1 1
+chrome88.0.4324.96 24 2
+chrome83.0.4086.0 1 1
+chrome81.0.4044.92 24 2
+chrome73.0.3683.90 12 12
+chrome55.0.2891.39 1 1
+chrome66.0.3359.170 5 5
+chrome66.0.3359.139 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210228141202
+Go-http-client/1.1 20210227061056
+WordPress/4.9.16;_http://www.brynbailer.com 20210211141004
+Cpanel-HTTP-Client/1.0 20210213163256
+Jetpack_by_WordPress.com 20210228102354
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210213171855
+WordPress/5.6.2;_http://www.brynbailer.com 20210228232603
+PageThing_http://pagething.com 20210227190907
+Mozilla/5.0_(compatible;_Dataprovider.com) 20210224065824
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210227221722
+Go_http_package 20210226213827
+WordPress/5.6.1;_http://www.brynbailer.com 20210222103236
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Cpanel-HTTP-Client/1.0 20210213163256
+Jetpack_by_WordPress.com 20210228102354
+Go_http_package 20210226213827
+WordPress/5.6.1;_http://www.brynbailer.com 20210222103236
+Go-http-client/1.1 20210227061056
+WordPress/4.9.16;_http://www.brynbailer.com 20210211141004
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210227221722
+NetSurf/1.2_(NetBSD;_amd64) 20210219195605
+PageThing_http://pagething.com 20210227190907
+WordPress/5.6.2;_http://www.brynbailer.com 20210228232603
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210228141202
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 939 958
+From1 25 25
+From2 497 998
+From3 6 6
+From4 1956 3266
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+r_search_yahoo_com 1 1
+google_com 1 1
+www_google_com 495 996
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://67.222.39.71:80 3 3
+http://simplesite.com 2 2
+http://mail.brynbailer.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+400 3 3
+405 47 1974
+403 139 18090
+409 592 69498
+406 3953 890440
+302 291 0
+401 4 1893
+404 843 11474987
+301 917 2410
+500 9 6061
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 412
+/wp-content/plugins/goo/w.php 2 http://brynbailer.com/wp-content/plugins/goo/w.php
+/wp-content/admin.php 3 http://brynbailer.com/wp-content/admin.php
+/wp/ 3 -
+/templates/beez3/ 1 http://brynbailer.com/templates/beez3/index.php
+/wp-includes/js/include.php 1 http://brynbailer.com/wp-includes/js/include.php
+/wp-connect.php 1 http://brynbailer.com/wp-connect.php
+/wp-content/plugins/wp-slimstat-ex/lib/ofc/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/wp-includes/wp-caches.php 1 http://brynbailer.com/wp-includes/wp-caches.php
+/wp-config.php__ 1 -
+/replace/ 1 www.brynbailer.com
+/wp/wp-content/plugins/ioptimization/IOptimizes.php 1 -
+/wp-config.phpbk 1 -
+/wp-admin/css/ie.css 1 http://www.google.com/
+/404.php 2 http://brynbailer.com/404.php
+/installation/ 1 -
+/archive/archive.zip 1 http://brynbailer.com/archive/archive.zip
+/wp 4 www.google.com
+/wp-content/themes/distance-lite/languages/pref.php 1 http://brynbailer.com/wp-content/themes/distance-lite/languages/pref.php
+/wp-includes/wp-info.php 2 http://brynbailer.com/wp-includes/wp-info.php
+/ 18 -
+/wp-content/themes/barebones-bootstrap/screenshot.png 1 -
+/components/com_jooomlas/codex.php 1 http://brynbailer.com/components/com_jooomlas/codex.php
+/demo 4 www.google.com
+/admin/.env 2 -
+/user/login 1 -
+/shell.php 1 http://brynbailer.com/shell.php
+/wp-content/plugins/background-image-cropper/content-post.php.suspected 1 http://brynbailer.com/wp-content/plugins/background-image-cropper/content-post.php.suspected
+/general.php 1 -
+/blog/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/wp-includes/widgets/class-wp-widget-header.php 1 http://brynbailer.com/wp-includes/widgets/class-wp-widget-header.php
+/hello.php 1 http://brynbailer.com/hello.php
+/brynbailer.zip 2 -
+/mini.php 3 http://brynbailer.com/mini.php
+/main/ 3 -
+/sftp-config.json 1 -
+/Old 3 www.google.com
+/blog/ 3 -
+/.info.php 2 http://brynbailer.com/.info.php
+/adminer.php 1 -
+/wp-content/uploads/chn.php 1 http://brynbailer.com/wp-content/uploads/chn.php
+/ads.txt 4 http://brynbailer.com/ads.txt
+/wp-content/themes/distance-lite/languages/longer.php 1 http://brynbailer.com/wp-content/themes/distance-lite/languages/longer.php
+/replacelive.php 1 www.brynbailer.com
+/wp-xmlrpc.php 1 http://brynbailer.com/wp-xmlrpc.php
+/1.php 1 http://brynbailer.com/1.php
+/wp-includes/css/wp-pointer.php 2 http://brynbailer.com/wp-includes/css/wp-pointer.php
+/gank.php.php 2 http://brynbailer.com/gank.php.php
+/assets/images/doc.php 7 http://brynbailer.com/assets/images/doc.php
+/dup-installer/main.installer.php 1 -
+/media/yusa.php 1 http://brynbailer.com/media/yusa.php
+/wp-config.php_org 1 -
+/wp-content/themes/sketch/404.php 1 -
+/wp-content/plugins/html404/xccc.php 1 http://brynbailer.com/wp-content/plugins/html404/xccc.php
+/wp-includes/class-wp-upgrade.php 1 http://brynbailer.com/wp-includes/class-wp-upgrade.php
+/wp-admin/ok.php 1 http://brynbailer.com/wp-admin/ok.php
+/filemanager/filemanager.php 2 -
+/wp-class.php 1 -
+/old/wp-admin/ 2 http://brynbailer.com/
+/site 4 www.google.com
+/wp/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/fr/ 2 -
+/wp-content/plugins/press/wp-class.php 1 -
+/pas.php 1 -
+/wso.php 2 http://brynbailer.com/wso.php
+/dev/ 3 -
+/.ftpconfig 1 -
+/wp-content/a.php 2 http://brynbailer.com/wp-content/a.php
+/wp-includes/Text/Diff/Engine/embed.php 1 http://brynbailer.com/wp-includes/Text/Diff/Engine/embed.php
+/temp/ 3 -
+/wp-content/uploads/2020/12/content-post.php 2 http://brynbailer.com/wp-content/uploads/2020/12/content-post.php
+/meta.php 2 http://brynbailer.com/meta.php
+/wp/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/css.php 1 http://brynbailer.com/css.php
+/docindex.php 2 http://brynbailer.com/docindex.php
+/home.php 1 http://brynbailer.com/home.php
+/wp-lgoin.php 1 http://brynbailer.com/wp-lgoin.php
+/backup.zip 3 -
+/wp-includes/js/jcrop/jquery.Jcrop.php 1 http://brynbailer.com/wp-includes/js/jcrop/jquery.Jcrop.php
+/wp-includes/SimplePie/Canonical.php 1 http://brynbailer.com/wp-includes/SimplePie/Canonical.php
+/1index.php 1 http://brynbailer.com/1index.php
+/emergenc.php 1 -
+/wp-content/themes/twentysixteen/404.php 2 http://brynbailer.com/wp-content/themes/twentysixteen/404.php
+/components/com_banners/models/images.php 1 http://brynbailer.com/components/com_banners/models/images.php
+/srpdb/ 2 -
+/wp-content/plugins/simple-file-list/ee-upload-engine.php 1 -
+/wp-content/plugins/open-flash-chart-core-wordpress-plugin/open-flash-chart-2/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/_.php 1 http://brynbailer.com/_.php
+/wp-content/plugins/woopra/inc/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/1/.wp-config.php 1 -
+/adminer-4.4.0.php 1 -
+/a.php 1 http://brynbailer.com/a.php
+/wp-content/uploads/2021/02/blackhat.php 1 http://brynbailer.com/wp-content/uploads/2021/02/blackhat.php
+/htaccess.php 1 http://brynbailer.com/htaccess.php
+/fmg.php 2 -
+/findreplacedb.php 1 www.brynbailer.com
+/wp-counts.php 1 www.brynbailer.com
+/wp-admin.zip 3 -
+/wp-config.php_backup 1 -
+/wp1/ 3 -
+/wp-content/file.php 2 -
+/2020 4 www.google.com
+/shx.php 2 http://brynbailer.com/shx.php
+/emergen.php 1 -
+/well-known.zip 1 -
+/replaceurl.php 1 www.brynbailer.com
+/cms/ 3 -
+/_profiler/empty/search/results 1 -
+/conf.ini.php 1 http://brynbailer.com/conf.ini.php
+/install/ 3 -
+/wp-config.php3 1 -
+/wp-admin/includes/class-wp-filesystem-import.php 1 http://brynbailer.com/wp-admin/includes/class-wp-filesystem-import.php
+/wp-admin/network/sitenet.php5.suspected 1 http://brynbailer.com/wp-admin/network/sitenet.php5.suspected
+/media/error.php 2 http://brynbailer.com/media/error.php
+/store/var/resource_config.json 1 -
+/wp-config.php2 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/test-page%5C/%5C%22 16 http://www.google.com/url
+/cron.php 1 http://brynbailer.com/cron.php
+/wp-content/uploads/2021/01/content-post.php 1 http://brynbailer.com/wp-content/uploads/2021/01/content-post.php
+/templates/beez3/error.php 1 http://brynbailer.com/templates/beez3/error.php
+/wp-content/themes/greensblog/template-parts/simple.php 1 http://brynbailer.com/wp-content/themes/greensblog/template-parts/simple.php
+/find-replace/ 1 www.brynbailer.com
+/simple.php5 1 http://brynbailer.com/simple.php5
+/wp-content/plugins/background-image-cropper/ups.php 1 http://brynbailer.com/wp-content/plugins/background-image-cropper/ups.php
+/wp-includes/indeh.php 1 http://brynbailer.com/wp-includes/indeh.php
+/2019/ 3 -
+/alfa.php 2 http://brynbailer.com/alfa.php
+/OLD/wp-admin/ 2 http://brynbailer.com/
+/js/data.php 2 http://brynbailer.com/js/data.php
+/wp-content/uploads/zupxxw.php 2 http://brynbailer.com/wp-content/uploads/zupxxw.php
+/th1s_1s_a_4o4.html 28 http://www.google.com/url
+/wp-content/uploads/2021/02/zgepd_oddsd.php 1 www.brynbailer.com
+/filemanager.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 3 -
+/wp-content/plugins/hello.php 1 http://brynbailer.com/wp-content/plugins/hello.php
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 1 -
+/assets/images/content-post.php 2 http://brynbailer.com/assets/images/content-post.php
+/language/lv-LV/lv-LV.localise2.php 1 http://brynbailer.com/language/lv-LV/lv-LV.localise2.php
+/wp-plugins.php 2 http://brynbailer.com/wp-plugins.php
+/conf.php 2 http://brynbailer.com/conf.php
+/wpa.php 1 http://brynbailer.com/wpa.php
+/seter.php 2 http://brynbailer.com/seter.php
+/wordpress.zip 4 -
+/w.php 1 http://brynbailer.com/w.php
+/wp-content/themes/dulcet/footer1.php 2 http://brynbailer.com/wp-content/themes/dulcet/footer1.php
+/WordPress 4 www.google.com
+/wp-content/themes/distance-lite/languages/namespaces.php 7 http://brynbailer.com/wp-content/themes/distance-lite/languages/namespaces.php
+/emergency.php 1 -
+/new-site/ 3 -
+/wp-content/uploads/wp-console.php 1 http://brynbailer.com/wp-content/uploads/wp-console.php
+/wp-config-php 1 -
+/templates/atomic/error.php 2 http://brynbailer.com/templates/atomic/error.php
+/images/404.php 1 http://brynbailer.com/images/404.php
+/wp-content/plugins/redirection/models/wp-contentt.php 2 http://brynbailer.com/wp-content/plugins/redirection/models/wp-contentt.php
+/license.php 2 http://brynbailer.com/license.php
+/wp-admin/css/colors/blue/theme.php 1 http://brynbailer.com/wp-admin/css/colors/blue/theme.php
+/db/ 2 -
+/wp-content/plugins/ubh/up.php 1 http://brynbailer.com/wp-content/plugins/ubh/up.php
+/ganks.php.PhP 2 http://brynbailer.com/ganks.php.PhP
+/media-admin.php 3 http://brynbailer.com/media-admin.php
+/wp-content/uploads/2020/11/wp-class.php 1 -
+/wp-includes/wps-cache.php 1 -
+/site.zip 1 -
+/Brynbailer 4 www.google.com
+/wp-content/uploads/2020/12/zgepd_oddsd.php 1 -
+/yusa.php 1 http://brynbailer.com/yusa.php
+/wp-content/plugins/wpwhatsmyrankvideoregular-unlimited/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/mail.brynbailer.com.zip 1 -
+/merge.php 1 -
+/searchreplacewp/ 1 www.brynbailer.com
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/tinyfilemanager.php 1 -
+/mn.php 2 -
+/newsleter.php 1 http://brynbailer.com/newsleter.php
+/wp-content/uploads/2021/02/w.php 1 http://brynbailer.com/wp-content/uploads/2021/02/w.php
+/frp.php 2 -
+/wp-content/wp-info.php 2 http://brynbailer.com/wp-content/wp-info.php
+/wp-content/uploads/2020/04/content-post.php 1 http://brynbailer.com/wp-content/uploads/2020/04/content-post.php
+/old-site/ 3 -
+/replaceliveurl.php 1 www.brynbailer.com
+/wp-content/plugins/css-ready-selectors/file.php 1 http://brynbailer.com/wp-content/plugins/css-ready-selectors/file.php
+/wikindex.php 8 www.brynbailer.com
+/wp1 2 www.google.com
+/frp/ 2 -
+/m.php 1 http://brynbailer.com/m.php
+/doc.php 6 http://brynbailer.com/doc.php
+/wp-content/plugins/wp-seo-spy-google/ofc/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/wp-config.php123 1 -
+/x.php 1 http://brynbailer.com/x.php
+/Backup 4 www.google.com
+/libraries/joomla/template/mark.php 1 http://brynbailer.com/libraries/joomla/template/mark.php
+/v2/ 3 -
+/wp-content/plugins/background-image-cropper/doc.php 4 http://brynbailer.com/wp-content/plugins/background-image-cropper/doc.php
+/-/~/code87/5.php 1 http://brynbailer.com/-/~/code87/5.php
+/wp-content/uploads/blackhat.php 1 http://brynbailer.com/wp-content/uploads/blackhat.php
+/rdb.php 2 -
+/wp-content/plugins/background-image-cropper/wp-console.php.suspected 1 http://brynbailer.com/wp-content/plugins/background-image-cropper/wp-console.php.suspected
+/wp-content/themes/twentyseventeen/404.php 2 http://brynbailer.com/wp-content/themes/twentyseventeen/404.php
+/dlhqs.php 1 http://brynbailer.com/dlhqs.php
+/administrator/conf.php 1 http://brynbailer.com/administrator/conf.php
+/mergency.php 1 -
+/wp-content/filemanager.php 2 -
+/baindex.php 8 www.brynbailer.com
+/blog/wp-content/plugins/ioptimization/IOptimizes.php 1 -
+/config.php 1 http://brynbailer.com/config.php
+/wp-content/plugins/404.php 1 http://brynbailer.com/wp-content/plugins/404.php
+/1/wp-config.php 1 -
+/wp-includes/simplepie/canonical.php 1 http://brynbailer.com/wp-includes/simplepie/canonical.php
+/wp-blogs.php 1 http://brynbailer.com/wp-blogs.php
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/s_eval.php 1 www.brynbailer.com
+/blog 4 www.google.com
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/wp-content/plugins/ioptimization/IOptimizes.php 1 -
+/Archive.zip 1 -
+/admin.php 1 http://brynbailer.com/admin.php
+/wp-config.phpbkp 1 -
+/man.php 2 -
+/wp-content/plugins/background-image-cropper/content-post.php 5 http://brynbailer.com/wp-content/plugins/background-image-cropper/content-post.php
+/wp-content/uploads/2021/01/zgepd_oddsd.php 1 www.brynbailer.com
+/cache/blackhat.php 1 http://brynbailer.com/cache/blackhat.php
+/doc.php.suspected 1 http://brynbailer.com/doc.php.suspected
+/.well-known.zip 2 -
+/wp-content/uploads/2021/02/wp-console.php 1 http://brynbailer.com/wp-content/uploads/2021/02/wp-console.php
+/bak/ 3 -
+/wp-content/uploads/zgepd_oddsd.php 1 www.brynbailer.com
+/demo/ 3 -
+/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/wp-content/themes/twentynineteen/style.php 1 http://brynbailer.com/wp-content/themes/twentynineteen/style.php
+/ups.php 3 http://brynbailer.com/ups.php
+/new/ 3 -
+/file.php 2 http://brynbailer.com/file.php
+/wp-content/uploads/2018/12/content-post.php.suspected 1 http://brynbailer.com/wp-content/uploads/2018/12/content-post.php.suspected
+/assets/images/doc.php.suspected 1 http://brynbailer.com/assets/images/doc.php.suspected
+/pressthis/popup-pomo.php 1 http://brynbailer.com/pressthis/popup-pomo.php
+/templates/atomic/ 2 http://brynbailer.com/templates/atomic/index.php
+/templates/beez/ 2 http://brynbailer.com/templates/beez/index.php
+/wp-content/uploads/2019/07/w.php 3 http://brynbailer.com/wp-content/uploads/2019/07/w.php
+/Search-Replace-master/ 2 -
+/inc.php 1 http://brynbailer.com/inc.php
+/wp-content/plugins/letme/weblinks.php 1 http://brynbailer.com/wp-content/plugins/letme/weblinks.php
+/wp-content/themes/twenty/twenty.php 1 -
+/wp-content/plugins/goo/r.php 1 http://brynbailer.com/wp-content/plugins/goo/r.php
+/cache/content-post.php 1 http://brynbailer.com/cache/content-post.php
+/modules/mod_simplefileuploadv1.4/Marvins.php 1 http://brynbailer.com/modules/mod_simplefileuploadv1.4/Marvins.php
+/media/info.php 2 http://brynbailer.com/media/info.php
+/qw.php 1 http://brynbailer.com/qw.php
+/templates/beez5/ 1 http://brynbailer.com/templates/beez5/index.php
+/backup/archive.zip 1 http://brynbailer.com/backup/archive.zip
+/cgi-bin.zip 1 -
+/wp-admin/links.php 5 http://brynbailer.com/wp-admin/links.php
+/new.php 1 -
+/wp-config.php_bk 1 -
+/replace-master/ 3 -
+/wp-includes/wp-class.php 1 -
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 1 http://www.google.com/
+/wp-content/uploads/doc.php 2 http://brynbailer.com/wp-content/uploads/doc.php
+/wp-content/uploads/2021/02/evex.php 1 http://brynbailer.com/wp-content/uploads/2021/02/evex.php
+/wp-admin/images/Mhbgf.php.suspected 1 http://brynbailer.com/wp-admin/images/Mhbgf.php.suspected
+/wp-content/plugins/ioptimization/IOptimize.php 3 -
+/wp-content/tiny.php 2 -
+/wp-content/wp-muen.php 2 http://brynbailer.com/wp-content/wp-muen.php
+/304/ 47 http://www.brynbailer.com/
+/wp-content/plugins/site-import/admin/page.php 1 -
+/wp-content/uploads/2020/10/wp-class.php 1 -
+/wp-json/%5C%22https:%5C/%5C/en.wikipedia.org%5C/wiki%5C/Exchangeable_image_file_format%5C%22 17 http://www.google.com/url
+/components/com_jnews/includes/openflashchart/tmp-upload-images/sittir.php 1 http://brynbailer.com/components/com_jnews/includes/openflashchart/tmp-upload-images/sittir.php
+/wp-cofigs.php 1 http://brynbailer.com/wp-cofigs.php
+/2020/ 3 -
+/wp-content/plugins/justified-image-grid/download.php 1 -
+/v1/ 3 -
+/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/installer-backup.php 3 -
+/wp-backup.php 2 http://brynbailer.com/wp-backup.php
+/tmp/ 3 -
+/wp-includes/theme-compat/images.php 3 http://brynbailer.com/wp-includes/theme-compat/images.php
+/searchreplacewp.php 1 www.brynbailer.com
+/libraries/joomla/template/mark.php.suspected 1 http://brynbailer.com/libraries/joomla/template/mark.php.suspected
+/mail.brynbailer.com.7z 1 -
+/wp-content/plugins/background-image-cropper/wp-plugins.php 1 http://brynbailer.com/wp-content/plugins/background-image-cropper/wp-plugins.php
+/modules/mod_random_image/media-views-rtl.php 1 http://brynbailer.com/modules/mod_random_image/media-views-rtl.php
+/wp-content/plugins/cronblocks/Marvins.php 1 http://brynbailer.com/wp-content/plugins/cronblocks/Marvins.php
+/templates/ja_purity/ 1 http://brynbailer.com/templates/ja_purity/index.php
+/wp-content/uploads/2021/01/wp-class.php 1 -
+/bk/ 3 -
+/wordpress/wp-admin/ 3 http://brynbailer.com/
+/installer.php 3 -
+/.git/HEAD 18 -
+/wp-content/plugins/secure-file-manager/vendor/elfinder/php/connector.minimal.php 1 http://www.google.com/
+/WP 4 www.google.com
+/srp/ 2 -
+/old-wp/ 3 -
+/Search-master/ 2 -
+/wp-content/themes/barebones-bootstrap/screenshot.jpg 1 -
+/old/ 3 -
+/gank.php.PhP 6 http://brynbailer.com/gank.php.PhP
+/wp-includes/SimplePie/Cache/images.php 1 http://brynbailer.com/wp-includes/SimplePie/Cache/images.php
+/wp-content/uploads/2021/02/doc.php 1 http://brynbailer.com/wp-content/uploads/2021/02/doc.php
+/wp-admin.php 2 http://brynbailer.com/wp-admin.php
+/post.php 2 http://brynbailer.com/post.php
+/wp-content/upgrade/theme-compat/popup-pomo.php 1 http://brynbailer.com/wp-content/upgrade/theme-compat/popup-pomo.php
+/footer.php 1 http://brynbailer.com/footer.php
+/wp-content/plugins/apikey/apikey.php 3 -
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 2 http://brynbailer.com/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php
+/components/com_wrapper/links.php 1 http://brynbailer.com/components/com_wrapper/links.php
+/js/info.php 2 http://brynbailer.com/js/info.php
+/wp-content/db-cache.php 2 www.brynbailer.com
+/wp-config.php12 1 -
+/db.php 2 -
+/wp-content/uploads/2021/01/doc.php 1 http://brynbailer.com/wp-content/uploads/2021/01/doc.php
+/wp-content/themes/404.php 3 http://brynbailer.com/wp-content/themes/404.php
+/wp-config.php1 1 -
+/system.php 1 http://brynbailer.com/system.php
+/site/ 3 -
+/weblinks.php 1 http://brynbailer.com/weblinks.php
+/wp-info.php 4 http://brynbailer.com/wp-info.php
+/brynbailer.com.zip 1 -
+/wp/wp-admin/ 2 http://brynbailer.com/
+/wp-content/doc.php 1 http://brynbailer.com/wp-content/doc.php
+/bitrix/admin/ups.php 2 http://brynbailer.com/bitrix/admin/ups.php
+/login.php 1 -
+/new 4 www.google.com
+/public_html.zip 2 -
+/backup 4 www.google.com
+/fm.php 2 -
+/cache/blackhat.php.suspected 1 http://brynbailer.com/cache/blackhat.php.suspected
+/wp-content/uploads/2020/12/evex.php 1 http://brynbailer.com/wp-content/uploads/2020/12/evex.php
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/wp-content/uploads/2021/01/wp-console.php 2 http://brynbailer.com/wp-content/uploads/2021/01/wp-console.php
+/simplet.php 1 http://brynbailer.com/simplet.php
+/replacelive/ 3 -
+/.git/config 3 -
+/wp-content/uploads/file-manager/log.txt 1 -
+/wp-includes/css/dist/block-editor/wp-blogss.php 1 http://brynbailer.com/wp-includes/css/dist/block-editor/wp-blogss.php
+/search-replace/ 1 www.brynbailer.com
+/default.php 1 http://brynbailer.com/default.php
+/skin/htaccess.php 1 http://brynbailer.com/skin/htaccess.php
+/wp-config.php11 1 -
+/find-replace.php 1 www.brynbailer.com
+/em.php 1 -
+/wp-content/plugins/t_file_wp/t_file_wp.php 1 www.brynbailer.com
+/wp-config 2 -
+/1.txt 2 -
+/2019 4 www.google.com
+/wp-config.php111 1 -
+/wp-content/plugins/poka-module/assets/jquery-file-upload/server/php/ 1 -
+/wp-content/plugins/faaad-admin2/public/assets/js/jQuery-File-Upload-master-bl/server/php/ 1 http://www.google.com/
+/wordpress/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/wp-content/themes/fincorp/about3.php 1 http://brynbailer.com/wp-content/themes/fincorp/about3.php
+/js/m.php 1 http://brynbailer.com/js/m.php
+/plugins/system/xtp.php 2 http://brynbailer.com/plugins/system/xtp.php
+/wp-content/themes/twentyfifteen/404.php 1 www.brynbailer.com
+/cache/doc.php 4 http://brynbailer.com/cache/doc.php
+/wp-content/plugins/listingpro-plugin/assets/css/listingpro-custom-fields.css 1 -
+/downloader 1 -
+/emerge.php 1 -
+/backup/wp-admin/ 2 http://brynbailer.com/
+/components/admin.php 2 http://brynbailer.com/components/admin.php
+/wp-content/themes/justread/footer1.php 2 http://brynbailer.com/wp-content/themes/justread/footer1.php
+/fm/fm.php 2 -
+/manager.php 1 -
+/wp-content/uploads/2020/12/404.php 1 http://brynbailer.com/wp-content/uploads/2020/12/404.php
+/blog/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/cache/ups.php 1 http://brynbailer.com/cache/ups.php
+/wp-content/themes/aemi1/footer1.php 1 http://brynbailer.com/wp-content/themes/aemi1/footer1.php
+/wp-admin/network/sitenets.php5 2 http://brynbailer.com/wp-admin/network/sitenets.php5
+/search-replace-db/ 1 www.brynbailer.com
+/wp.php 2 http://brynbailer.com/wp.php
+/archive.zip 1 http://brynbailer.com/archive.zip
+/templates/beez3/jsstrings.php 2 http://brynbailer.com/templates/beez3/jsstrings.php
+/simple.php5.suspected 1 http://brynbailer.com/simple.php5.suspected
+/WORDPRESS 4 www.google.com
+/wp-content/themes/twentynineteen/styles.php.suspected 1 http://brynbailer.com/wp-content/themes/twentynineteen/styles.php.suspected
+/tfm.php 1 -
+/wp-content/uploads/2020/12/wp-class.php 1 -
+/discussion/popup-pomo.php 1 http://brynbailer.com/discussion/popup-pomo.php
+/mail.brynbailer.com.tar.gz 1 -
+/wp-content/plugins/duplicator/assets/css/style.css 1 -
+/wordpress/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/search-replace-db.php 1 www.brynbailer.com
+/wp-admin/user/user-profile.php 3 http://brynbailer.com/wp-admin/user/user-profile.php
+/wp-content/plugins/super-forms/documentation.txt 1 -
+/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/2018/ 3 -
+/backup/ 3 -
+/cache/doc.php.suspected 1 http://brynbailer.com/cache/doc.php.suspected
+/emerg.php 1 -
+/wp-content/uploads/404.php 6 http://brynbailer.com/wp-content/uploads/404.php
+/cache/simple.php5.suspected 2 http://brynbailer.com/cache/simple.php5.suspected
+/BACKUP 4 www.google.com
+/humans.txt 3 http://brynbailer.com/humans.txt
+/wordpress/wp-content/plugins/ioptimization/IOptimizes.php 1 -
+/searchrep/ 2 -
+/wp-content/uploads/2020/06/doc.php 1 http://brynbailer.com/wp-content/uploads/2020/06/doc.php
+/content-post.php 3 http://brynbailer.com/content-post.php
+/wp-includes/upgrade/theme-compat/popup-pomo.php 1 http://brynbailer.com/wp-includes/upgrade/theme-compat/popup-pomo.php
+/web/ 3 -
+/wp-crons.php 1 http://brynbailer.com/wp-crons.php
+/wp-content/plugins/wp-business-intelligence-lite/resources/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 http://www.google.com/
+/wp-content/uploads/2020/11/doc.php 1 http://brynbailer.com/wp-content/uploads/2020/11/doc.php
+/old 4 www.google.com
+/wp-admin/network/network.php 2 www.brynbailer.com
+/geiurh8934h98hdsfdsf.php 1 www.brynbailer.com
+/wp2/ 3 -
+/wp-includes/dcomay.php 3 http://brynbailer.com/wp-includes/dcomay.php
+/wp-json/oembed/1.0/embed 2 -
+/search-replace-master/ 3 -
+/readme.php 1 http://brynbailer.com/readme.php
+/libraries/joomla/template/popup-pomo.php 1 http://brynbailer.com/libraries/joomla/template/popup-pomo.php
+/ini.php 3 http://brynbailer.com/ini.php
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/eme.php 1 -
+/wp-config.php_bak 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 477
+67.222.39.71 1399 1399 22774 20210228232603
+98.171.60.23 170 498 7107612 20210213162442
+184.154.139.15 102 199 5135835 20210224073638
+70.172.29.117 94 409 6719431 20210219113151
+184.154.139.16 72 136 3112051 20210225073141
+198.20.67.197 70 155 4178532 20210227073229
+184.154.139.26 70 152 3902487 20210218073155
+184.154.139.14 70 153 4045759 20210221073612
+184.154.139.23 68 134 3503760 20210226073755
+50.87.244.193 43 82 1115138 20210210144053
+184.154.36.170 36 88 2413754 20210228073222
+163.172.22.94 33 33 274362 20210226100126
+163.172.22.83 30 30 237357 20210222094147
+163.172.21.249 29 29 226588 20210221115738
+163.172.22.87 27 27 186644 20210221061341
+163.172.5.162 24 24 196447 20210226185257
+163.172.22.129 24 24 195005 20210228204821
+163.172.5.15 20 20 166208 20210226220405
+163.172.5.130 19 19 152793 20210220073657
+68.107.131.92 19 168 3267826 20210222182357
+163.172.22.99 18 18 136206 20210214064921
+163.172.14.33 18 18 140682 20210224161428
+51.159.37.202 17 17 148187 20210224132715
+45.15.143.155 16 16 80172 20210223044254
+51.159.37.26 12 12 84013 20210221215725
+104.208.219.172 2 2 21625 20210220102634
+163.172.18.192 3 3 19547 20210223022031
+220.181.77.162 3 50 762837 20210226141405
+198.20.179.216 8 8 156716 20210222144504
+185.174.210.21 1 1 206 20210215065343
+51.222.143.39 2 23 337185 20210202214753
+23.250.22.188 1 1 6712 20210220030937
+168.91.80.149 2 2 7668 20210206162311
+170.83.119.7 1 1 206 20210201180305
+45.225.120.81 1 1 206 20210201181431
+115.61.208.70 2 2 13368 20210216125608
+161.10.6.133 1 1 206 20210210170746
+68.169.62.79 3 3 6941 20210208004115
+213.196.91.69 1 1 206 20210204113431
+3.22.70.135 2 2 174 20210213171855
+77.220.194.107 1 1 6712 20210226201929
+190.205.215.12 1 1 206 20210215064707
+52.213.88.226 1 1 6712 20210221123345
+34.86.35.49 2 2 40924 20210224184754
+107.173.68.222 3 3 15569 20210216190426
+201.160.221.71 1 1 206 20210201180303
+24.56.7.26 1 1 47 20210210143252
+172.241.242.187 2 2 7668 20210206210755
+212.58.102.157 1 1 206 20210204113251
+93.177.210.223 1 1 206 20210224034948
+163.172.89.20 1 1 6151 20210209154318
+89.229.55.202 1 1 206 20210222023510
+34.86.35.187 1 1 20344 20210216131048
+92.241.59.232 1 1 206 20210204113438
+168.91.80.240 2 2 7668 20210206225506
+177.51.76.122 2 2 412 20210222160005
+187.62.83.79 1 1 206 20210201181612
+177.82.118.132 1 1 206 20210210171652
+51.159.37.31 11 11 81048 20210221112424
+60.49.96.57 1 1 206 20210201180701
+192.0.112.146 1 1 636 20210218102216
+89.163.227.200 1 1 5128 20210203100825
+86.179.217.110 1 1 206 20210224035334
+67.205.38.14 2 2 40688 20210219061843
+163.172.20.197 5 5 41745 20210206051325
+34.209.232.166 2 2 174 20210213171854
+3.83.53.63 1 1 2883 20210212081001
+138.128.13.63 1 1 18717 20210201175609
+163.172.46.149 3 3 21860 20210215132219
+173.252.95.22 1 2 4944 20210216175857
+132.145.175.211 5 5 30532 20210207084326
+192.0.118.112 1 1 638 20210215103232
+31.223.132.205 1 1 206 20210224040357
+196.245.184.225 2 2 12302 20210209042432
+104.144.210.44 1 1 6712 20210219213818
+23.229.75.24 3 3 59405 20210214011419
+177.95.217.215 1 1 206 20210222155628
+180.247.148.29 2 2 12302 20210204014054
+91.227.68.190 1 1 0 20210223192529
+156.197.68.250 1 1 206 20210222023550
+62.76.234.174 1 1 378 20210212174024
+5.45.64.104 2 2 12835 20210218032957
+188.165.211.206 1 1 2899 20210225102843
+62.4.14.198 1 1 20344 20210215213648
+200.105.110.34 1 1 206 20210204113853
+168.91.80.103 4 4 15336 20210207060512
+181.13.204.35 1 1 206 20210201180805
+173.252.95.18 0 4 27922 
+51.15.91.122 1 1 6712 20210221075736
+139.0.36.69 1 1 206 20210224035749
+73.24.189.65 1 20 167717 20210213064109
+192.241.106.155 1 1 6712 20210220030942
+185.219.52.200 3 3 23348 20210222091018
+195.154.223.35 3 3 22714 20210213155437
+5.45.67.25 1 1 6712 20210221012543
+197.207.125.136 1 1 206 20210204114318
+104.41.228.253 1 1 6712 20210219210351
+192.0.112.112 1 1 635 20210213110922
+173.234.154.116 1 1 6712 20210225192711
+156.207.80.213 1 1 206 20210204113550
+23.94.20.157 4 4 80457 20210228140243
+89.35.249.169 2 2 9624 20210212164808
+51.36.11.126 1 1 206 20210204114138
+95.154.86.140 1 1 206 20210201180835
+107.172.148.148 1 1 6514 20210212194230
+35.80.8.52 1 1 6712 20210226010941
+34.86.35.219 1 1 20344 20210218124703
+207.230.100.217 4 4 15336 20210207105334
+23.82.81.183 6 6 24958 20210216032625
+116.121.155.28 1 1 206 20210201180401
+85.202.194.68 1 1 9226 20210219105408
+188.165.239.211 2 2 40688 20210215010808
+190.42.178.190 1 1 206 20210210171919
+194.24.228.27 1 1 20400 20210215053410
+163.172.21.243 5 5 38879 20210209045257
+165.231.54.34 2 2 7668 20210207192708
+107.205.244.225 2 24 369350 20210212180354
+129.213.50.81 1 1 307 20210203024241
+34.89.185.72 1 1 1045 20210227133627
+91.121.79.16 2 2 39297 20210224225052
+207.230.100.5 2 2 7668 20210207005759
+46.245.5.38 1 1 206 20210204113413
+163.172.21.92 3 3 23952 20210204043450
+51.105.54.98 1 1 0 20210205014237
+41.182.88.96 1 1 206 20210222023006
+185.216.35.228 1 1 18717 20210206230225
+128.199.22.94 3 3 23348 20210227073718
+94.23.35.129 2 2 12302 20210207203218
+35.166.13.194 1 1 6712 20210225124538
+175.176.58.43 1 1 206 20210210172242
+37.120.137.9 2 2 39437 20210213030559
+128.14.209.234 1 1 6684 20210211230622
+46.105.120.49 4 4 19326 20210226190140
+150.136.61.77 2 2 614 20210205194522
+69.4.94.111 3 3 59405 20210217133131
+54.38.228.224 2 2 13424 20210228034001
+38.130.220.177 1 1 6684 20210212205725
+192.40.57.240 1 1 18717 20210203141512
+62.210.125.138 1 1 378 20210205213928
+123.13.60.91 1 1 6151 20210209065226
+185.4.65.44 1 1 20580 20210224081301
+91.222.239.152 1 1 6712 20210222233531
+51.222.43.123 11 23 22666515 20210224065200
+188.163.98.192 1 1 206 20210215065433
+172.245.64.249 1 1 18717 20210205011450
+198.23.201.189 3 3 57778 20210217133249
+200.119.37.11 1 1 206 20210204114333
+18.196.96.172 2 2 174 20210213171855
+107.174.37.156 4 4 78358 20210227184445
+38.130.220.117 2 2 12302 20210209033953
+168.91.82.124 1 1 6684 20210217100002
+115.76.49.8 1 1 206 20210215065452
+206.41.173.108 1 1 1517 20210209033955
+198.144.181.243 5 5 95212 20210216091351
+163.172.21.248 8 8 56815 20210208234334
+67.205.137.20 1 1 6684 20210215133203
+23.83.179.241 1 1 2940 20210212205729
+77.74.177.114 1 1 6712 20210221164354
+49.147.18.126 1 1 206 20210210171207
+135.125.10.8 5 5 24382 20210207021628
+41.143.80.3 1 1 206 20210222160414
+107.174.33.153 4 4 78594 20210227203130
+179.252.82.158 1 1 206 20210222160111
+51.159.37.178 7 7 51479 20210223141410
+62.122.201.170 1 1 6151 20210202051124
+104.227.121.73 4 4 18583 20210219174904
+123.13.61.132 5 5 33420 20210217142939
+78.85.182.37 1 1 20344 20210214203329
+23.104.161.158 2 2 9624 20210213111817
+23.229.25.84 1 1 18717 20210205175649
+34.75.219.186 2 25 377954 20210224052456
+51.159.37.33 11 11 79767 20210215203938
+181.134.234.75 1 1 206 20210204113800
+201.242.122.21 1 1 206 20210204113613
+163.172.21.241 8 8 51533 20210213180143
+51.254.47.48 1 1 369699 20210224224604
+34.86.35.90 1 1 20344 20210214141207
+81.214.224.101 1 1 206 20210224035658
+94.130.200.133 4 4 73074 20210220180212
+78.160.24.17 1 1 206 20210224035115
+35.229.50.140 2 23 337185 20210209214314
+64.78.149.164 3 3 261 20210213171855
+168.91.81.164 2 2 7668 20210206192923
+69.160.160.57 11 33 449344 20210216084254
+84.17.35.129 2 2 8201 20210215182239
+168.91.82.55 4 4 17291 20210211213249
+190.242.24.69 1 1 206 20210204114226
+51.15.12.217 7 7 69674 20210221115858
+39.59.14.239 1 1 206 20210204113118
+93.115.0.25 2 2 9621 20210211171020
+163.172.21.237 2 2 19518 20210202070407
+86.105.183.250 2 2 9622 20210214062904
+129.146.122.95 5 5 33512 20210224210543
+104.144.201.110 1 1 6712 20210223150516
+2.56.62.165 3 3 19547 20210223112455
+144.126.221.159 3 3 23112 20210211173551
+198.46.203.43 1 1 6684 20210217045745
+93.82.6.117 1 1 206 20210210171916
+163.172.21.104 4 4 26468 20210206022453
+45.72.0.248 1 1 6712 20210219154422
+178.159.37.163 4 4 78122 20210218062533
+104.144.54.81 1 1 6712 20210219195605
+188.147.56.244 1 1 206 20210224035111
+217.182.193.49 3 3 23348 20210223042223
+159.89.144.221 1 1 6151 20210202232526
+20.80.88.123 1 1 1045 20210225095014
+151.245.27.19 1 1 206 20210201181543
+199.21.113.251 5 5 95212 20210216100821
+111.94.34.221 1 1 206 20210215065420
+192.3.27.183 1 1 18717 20210203022441
+159.233.3.69 6 73 1485239 20210225131222
+139.59.252.143 2 2 21389 20210211234126
+190.17.195.246 1 1 206 20210210171401
+168.91.81.216 2 2 9622 20210213002748
+51.159.36.122 6 6 52355 20210215032620
+5.184.84.138 1 1 206 20210222023525
+23.82.81.76 2 2 7668 20210206230443
+192.71.10.105 2 2 12863 20210226072758
+41.43.134.217 1 1 206 20210224035221
+104.196.29.207 2 2 13424 20210228131704
+91.121.84.136 2 2 13424 20210224210620
+66.115.176.18 3 3 23348 20210225013214
+23.82.81.63 2 2 7668 20210207185039
+103.240.170.210 1 1 206 20210222023850
+51.159.37.236 10 10 74713 20210228210802
+80.82.68.201 1 1 6684 20210218020157
+109.248.166.20 1 1 20580 20210220121112
+192.0.112.238 1 1 634 20210228102354
+31.210.20.143 1 1 6712 20210227202322
+47.240.81.77 2 2 40688 20210219034620
+209.99.132.5 2 2 7668 20210207092933
+190.39.22.167 1 1 206 20210222155511
+192.0.118.80 1 1 634 20210220102644
+51.159.36.102 10 10 73236 20210227194441
+159.65.162.186 1 1 20344 20210212004526
+184.94.240.92 1 1 18717 20210205085825
+94.130.16.49 6 6 109409 20210228022005
+62.210.92.175 1 1 6151 20210204065643
+51.159.37.21 11 11 80906 20210215232347
+41.231.235.228 1 1 206 20210204114041
+51.159.37.51 8 8 67408 20210219145354
+94.44.125.21 1 1 206 20210201181511
+163.172.21.153 2 2 11168 20210206030932
+104.227.121.159 3 3 15568 20210217225406
+62.210.157.250 11 11 90246 20210222045145
+88.80.56.66 1 1 20344 20210218031939
+108.165.192.160 4 4 17338 20210221152222
+159.242.234.85 1 1 608 20210216110638
+52.148.155.164 1 1 6712 20210221041855
+103.51.2.165 1 1 206 20210224035321
+165.231.92.9 2 2 9623 20210212082842
+54.221.27.173 1 1 6684 20210214084944
+192.0.116.78 1 1 636 20210217110723
+192.0.118.176 1 1 635 20210223110134
+46.197.28.184 1 1 206 20210210171659
+102.130.219.36 1 1 206 20210210170849
+51.81.139.96 1 1 20580 20210227052031
+104.227.32.90 2 2 39061 20210212221713
+45.92.28.38 2 2 9624 20210212100040
+118.174.232.237 1 1 6684 20210215111621
+34.77.162.22 1 1 20580 20210227221722
+89.191.226.180 1 1 6712 20210226212846
+37.44.252.110 1 1 6712 20210226201740
+41.87.38.195 1 1 206 20210204113146
+27.147.206.39 1 1 206 20210222023139
+192.36.248.249 1 1 6151 20210202013600
+41.41.142.119 1 1 206 20210204114034
+103.126.184.135 2 2 19762 20210208022814
+51.159.37.145 8 8 60223 20210221081815
+220.168.73.210 1 1 6712 20210225142408
+206.180.187.52 1 1 6151 20210205055234
+198.105.117.130 2 2 7668 20210207190350
+37.44.253.128 1 1 378 20210217014638
+67.212.202.90 6 67 1382898 20210210142606
+94.68.108.30 1 1 6712 20210225215347
+185.134.22.242 2 2 35993 20210209015307
+107.172.99.33 1 1 6684 20210213183612
+85.106.118.83 1 1 206 20210204113902
+92.118.160.1 1 1 20580 20210228141202
+123.13.120.240 3 3 20052 20210218181131
+118.100.103.146 1 1 206 20210215065825
+88.226.52.164 1 1 206 20210210170818
+193.106.30.100 1 1 0 20210224033318
+123.13.57.162 1 1 6151 20210205205016
+51.159.37.34 11 11 86168 20210226121905
+156.195.180.161 1 1 206 20210222155958
+131.161.142.156 1 1 206 20210222155724
+86.100.125.180 1 1 206 20210222155606
+109.200.225.211 1 1 6151 20210202142404
+171.232.176.252 1 1 206 20210201181823
+177.11.251.100 1 1 206 20210215065806
+205.169.39.33 2 24 369016 20210213172134
+162.212.170.141 2 2 7668 20210203024740
+209.99.132.212 2 2 9625 20210213035537
+51.158.107.202 1 1 6151 20210204183225
+83.26.226.242 1 1 206 20210204113348
+200.138.92.220 1 1 206 20210210171021
+159.205.240.136 1 1 206 20210222022914
+82.18.26.54 1 1 6712 20210220062253
+45.57.153.61 3 3 59877 20210219114209
+92.118.160.37 1 1 20580 20210226213827
+176.33.243.175 1 1 206 20210224035351
+216.145.11.94 1 1 6151 20210208233732
+173.252.95.119 0 2 1625 
+173.252.95.26 1 11 236216 20210216175855
+13.90.22.196 3 3 23348 20210220001201
+52.28.236.88 1 1 87 20210213171855
+23.250.11.250 3 3 57778 20210212075522
+160.179.44.132 1 1 206 20210222023011
+103.81.114.69 1 1 206 20210222023521
+197.232.52.146 1 1 206 20210222023219
+194.147.142.160 1 1 20580 20210227083347
+95.217.84.141 1 1 20344 20210219063052
+212.102.47.93 1 1 6684 20210216171400
+51.159.37.117 12 12 89752 20210223041528
+47.33.34.24 1 1 6712 20210223151928
+134.255.196.117 1 1 206 20210222160119
+115.63.101.219 1 1 6151 20210207032000
+23.250.108.210 1 1 6712 20210220012511
+95.211.230.211 1 1 6712 20210222072900
+179.236.74.41 1 1 206 20210215070141
+206.41.178.99 1 1 6712 20210221051801
+80.82.68.173 1 1 6684 20210214042610
+173.236.144.125 1 1 20580 20210227063419
+190.121.183.232 1 1 206 20210222155804
+168.91.82.32 2 2 9625 20210217121515
+157.90.165.133 1 1 6712 20210228232605
+186.26.117.41 1 1 206 20210222160315
+115.61.210.28 3 3 18453 20210205131550
+92.118.160.5 1 1 20580 20210220172520
+181.214.16.95 1 1 1517 20210209164128
+197.185.98.209 1 1 206 20210222023042
+51.81.139.97 1 1 20344 20210216153330
+31.176.245.133 1 1 206 20210222160218
+168.91.81.98 2 2 7668 20210205031227
+177.37.130.179 1 1 206 20210201181836
+115.61.210.221 1 1 6684 20210217152019
+84.21.191.106 2 2 9623 20210216162628
+95.190.147.47 3 3 21485 20210205171814
+213.172.151.133 1 1 206 20210224035229
+51.159.36.101 9 9 64501 20210221061407
+102.190.52.221 1 1 206 20210215065759
+196.240.109.165 1 1 6712 20210227210736
+107.172.229.57 1 1 5945 20210212070504
+199.244.88.132 1 1 6712 20210219215827
+190.206.95.177 1 1 206 20210201180311
+156.213.216.126 1 1 206 20210215064854
+107.152.253.42 1 1 5945 20210217045746
+194.146.26.226 0 2 224214 
+168.91.83.51 2 2 7668 20210206224151
+151.55.2.124 1 1 6712 20210228173316
+23.100.232.233 2 21 140830 20210208170838
+142.93.188.38 1 1 6684 20210211181358
+109.106.22.175 1 1 6712 20210220155940
+187.188.44.231 1 1 206 20210222155431
+172.195.103.239 1 1 206 20210222023351
+131.0.217.61 1 1 206 20210201181547
+141.98.87.209 1 1 6712 20210220062851
+198.23.172.191 3 3 61268 20210222144502
+223.228.124.167 1 1 206 20210210171506
+196.64.219.107 1 1 206 20210210172306
+194.44.61.241 1 1 20580 20210221042325
+164.138.92.15 1 1 206 20210222023830
+197.38.108.130 1 1 206 20210222022702
+109.74.201.130 1 1 0 20210221085708
+104.227.121.222 3 3 15565 20210218145355
+185.48.174.197 1 1 206 20210204114249
+34.211.6.84 1 1 87 20210213171855
+135.125.127.245 1 1 6712 20210228044935
+135.148.2.82 1 1 20344 20210217122220
+188.236.240.187 1 1 206 20210215065338
+45.184.76.35 1 1 206 20210204113148
+196.247.18.166 3 3 15567 20210217110718
+1.55.223.195 1 1 206 20210224035015
+81.88.49.50 1 1 369699 20210225005143
+41.143.34.225 1 1 206 20210222155635
+23.228.109.147 4 4 24604 20210210082656
+206.41.187.204 1 1 5973 20210221051802
+52.57.24.28 1 1 307 20210204174506
+187.2.194.27 1 1 206 20210201180750
+37.72.186.180 4 4 19290 20210222105345
+83.171.226.186 1 1 6712 20210226234113
+173.252.95.4 0 6 98422 
+23.236.232.174 4 4 78358 20210220213737
+207.246.66.45 2 2 9625 20210217133004
+195.154.232.125 2 2 13396 20210227032129
+163.172.21.238 2 2 11202 20210209024451
+34.222.200.41 1 1 6712 20210225012452
+82.103.116.126 1 1 6151 20210209164124
+124.122.103.224 1 1 206 20210224040429
+93.159.230.28 1 1 6151 20210207164350
+200.44.209.201 1 1 206 20210222155520
+41.97.196.121 1 1 206 20210224040133
+41.47.25.133 1 1 206 20210210172335
+51.77.246.200 1 24 377952 20210224065821
+88.243.192.36 1 1 206 20210215064746
+45.152.199.223 2 2 9624 20210211175738
+2.56.62.144 3 3 18453 20210203074902
+41.105.22.77 1 1 206 20210210171441
+51.158.99.51 1 1 20580 20210226044127
+207.244.235.67 4 4 25258 20210218085151
+168.91.80.152 3 3 12563 20210217100010
+185.10.68.230 1 1 6712 20210226004440
+45.158.15.36 2 2 27264 20210227224418
+45.88.3.179 1 1 6684 20210214031257
+86.120.129.182 1 1 206 20210222023239
+138.59.104.43 1 1 206 20210210171137
+216.158.194.170 1 1 6684 20210216223503
+198.23.240.209 3 3 15643 20210220001519
+188.75.128.44 1 1 206 20210222023410
+192.140.97.46 1 1 206 20210210171631
+95.70.145.54 1 1 206 20210222023328
+51.15.26.92 12 12 86570 20210221093915
+196.247.160.245 2 2 9622 20210213204137
+129.146.186.30 5 5 33514 20210225043025
+23.250.1.74 1 1 6712 20210220012516
+23.94.145.149 1 3 28330 20210223113519
+115.63.100.119 2 2 12302 20210205133524
+85.10.194.210 7 7 127843 20210227181709
+37.79.255.195 1 1 18717 20210206080441
+51.15.26.124 7 7 51334 20210221024109
+186.193.242.94 1 1 206 20210210170643
+108.179.231.111 1 1 20344 20210216222152
+163.172.21.179 1 1 9759 20210201202254
+5.9.139.98 8 8 146011 20210228102336
+75.134.55.44 1 1 6151 20210206020249
+92.118.160.45 1 1 20580 20210226170702
+104.222.43.41 1 3 28330 20210223113515
+176.234.229.30 1 1 206 20210222155428
+188.165.210.14 1 1 20580 20210222075146
+104.160.17.148 1 1 1517 20210208203722
+179.217.212.156 1 1 206 20210204113519
+18.234.16.132 2 2 12863 20210227061056
+182.18.217.49 1 1 206 20210210171049
+85.107.125.230 1 1 206 20210222023548
+139.162.221.220 1 1 0 20210227190905
+185.253.218.243 1 1 6151 20210206020415
+41.158.41.48 1 1 206 20210222022936
+62.210.111.42 3 3 18986 20210211191224
+88.68.97.229 3 3 23348 20210224184242
+51.159.36.128 12 12 92841 20210227164933
+45.252.189.61 2 2 9673 20210220131531
+123.13.62.95 2 2 12302 20210207205911
+51.159.36.139 12 12 95793 20210220124321
+37.47.58.221 1 1 206 20210222022753
+94.23.72.30 1 1 20580 20210226063130
+189.152.139.77 1 1 206 20210222155354
+177.243.203.202 1 1 206 20210222155700
+213.168.249.115 2 2 12685 20210227190907
+79.101.60.178 1 1 206 20210210170704
+82.165.56.51 3 3 21485 20210203065134
+104.144.199.4 2 2 9670 20210222085218
+122.169.146.217 1 1 206 20210215065048
+37.135.121.10 1 1 2939 20210215182243
+104.144.240.145 1 1 6712 20210219213814
+198.46.210.34 1 1 6684 20210212070502
+45.148.234.80 1 1 6712 20210227020734
+27.123.255.253 2 2 7202 20210215051726
+3.128.26.105 1 1 87 20210213171855
+92.118.208.176 2 2 7668 20210207092551
+188.165.16.230 1 1 20580 20210226003045
+93.169.216.92 1 1 206 20210222022828
+187.151.195.125 1 1 206 20210210172308
+86.108.65.165 1 1 206 20210222023715
+23.229.14.230 3 3 59405 20210215005112
+68.0.134.66 9 71 1422204 20210215224607
+68.98.100.42 1 1 23 20210211060303
+158.101.101.191 7 7 2887 20210227202200
+108.161.134.112 1 1 20580 20210228182720
+129.226.117.162 1 1 20360 20210202035514
+188.128.160.30 1 1 20344 20210213015722
+105.71.23.232 1 1 206 20210222023629
+208.109.43.16 2 2 15572 20210202095333
+166.70.28.36 1 1 18717 20210202104312
+77.220.194.165 1 1 6712 20210228172308
+123.13.120.8 2 2 9624 20210217010548
+123.13.61.76 5 5 33420 20210216211344
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210201 105 111 808004 58
+20210202 76 103 1050725 34
+20210203 59 65 677463 26
+20210204 83 89 711597 51
+20210205 63 69 645404 28
+20210206 110 116 883674 47
+20210207 120 126 931387 57
+20210208 63 88 832437 35
+20210209 115 142 1311849 61
+20210210 165 293 3738774 69
+20210211 226 557 7712171 31
+20210212 113 183 2147086 35
+20210213 244 310 2288695 77
+20210214 106 131 1472410 39
+20210215 178 265 3045351 68
+20210216 180 250 2643811 62
+20210217 127 152 1505037 49
+20210218 129 154 1443661 36
+20210219 249 654 9874199 45
+20210220 129 156 1655288 40
+20210221 125 152 1659736 46
+20210222 142 232 2895858 62
+20210223 101 132 1458001 25
+20210224 107 192 25241153 44
+20210225 73 167 3215855 19
+20210226 92 166 2274109 30
+20210227 84 111 1576313 29
+20210228 59 86 1434837 27
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 43
+0s-30s 1020
+2mn-5mn 8
+30s-2mn 23
+1h+ 98
+15mn-30mn 20
+5mn-15mn 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 77
+/wp-cron.php 1361 0 184 185
+/ 410 4738031 372 262
+/wp-admin/admin-ajax.php 187 9946 10 24
+/a-feast-for-the-eyes-extraordinarily-beautiful-sinfully-delicious-indulge-in-these-decadent-desserts/ 185 2149917 147 146
+/xmlrpc.php 134 30807 132 133
+/24-2/ 84 529340 77 79
+/34-2/ 72 568142 58 65
+/brush-with-the-law-when-inmates-say-i-was-framed-theyre-talking-about-artwork/ 71 1150562 39 40
+/wp-login.php 68 157346 11 59
+/in-the-mass-transit-world-time-waits-for-no-man-even-for-the-head-of-pragues-public-transportation-kingdom/ 61 1059833 29 30
+/feed/ 55 1587323 27 25
+/cleaning-up-reno-by-cracking-down-on-low-budget-motels/ 53 1019355 21 23
+/contact-2/ 50 666954 5 9
+/test-page/ 44 1402711 0 0
+/category/writing-samples/ 38 728844 0 0
+/category/testimonials/ 37 672416 1 0
+/wp-json/jetpack/v4/jitm 30 60 0 0
+/wp-includes/wlwmanifest.xml 29 30305 1 1
+/category/writing-samples/feed/ 28 901142 0 0
+/28-2/ 28 169011 25 26
+/wp-json/oembed/1.0/embed 28 61996 0 0
+/wp-json/ 28 3668222 0 0
+/category/testimonials/feed/ 28 219738 0 0
+/32-2/ 26 167095 21 21
+/22-2/ 21 139690 20 20
+/wp-json/wp/v2/pages/675 17 60316 0 0
+/wp-admin/update-core.php 10 362768 0 0
+/wp-admin/admin.php 15 8236 0 1
+/index.php/wp-json/wp/v2/users/ 1 378 1 1
+/wp-sitemap.xml 1 547 0 0
+/wp-admin/load-scripts.php 16 1187283 0 0
+/.well-known/acme-challenge/D-M0WN8LIWZ1VC969CJ-8SL-3Q73KV4P 1 64 0 0
+/index.php 2 40744 2 2
+/wp-includes/js/ 1 20360 1 1
+/.well-known/acme-challenge/DtDlf8bN3we52sHoygVpO38dqYkFr1-Vtut_7igt4gA 4 348 0 0
+/brynbailer/ 4 0 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 2 2112 0 0
+/contact/ 1 6514 1 1
+/wp-json/wp/v2/media 1 9226 1 1
+/wp-json/wp/v2/users 2 756 2 2
+/.well-known/acme-challenge/0ET-3SA_PAUZ0VI_7KRTK-ZA5LDY8FD5 1 64 0 0
+/.well-known/acme-challenge/0EKqSsKxcmpOhQ2ZYk6Dg9cnXukd-uERnL3OXWYmCbI 4 348 0 0
+/wp-admin/install.php 1 518 0 1
+/.well-known/acme-challenge/UKX16W4-ZNSZ334WCMREP0ENY17UA9HC 1 64 0 0
+/wp-admin/plugins.php 20 980799 0 0
+/.well-known/acme-challenge/DQL6DPAWSOI2-0T3FSDMCEL_0D_ZOOCS 1 64 0 0
+/feed/atom/ 2 37012 0 2
+/wp-admin/about.php 1 44057 0 0
+/.well-known/acme-challenge/RW-XLX16_TKKVO_MICT19SU-D6A14-KM 1 64 0 0
+/wp-includes/css/ 2 15572 1 1
+/.well-known/acme-challenge/FAQ8ROvKK2k0vhdLHfTaEdQROFkCqiyK4hAbdMqq4Ho 4 348 0 0
+/.well-known/acme-challenge/Tvqr1TA305t9ugm5VRBgMy3Cq8Oh2cX-bu7doyjcPGs 4 348 3 0
+/wp-admin/update.php 2 59253 0 0
+/.well-known/acme-challenge/V-CEPCO2FO7TUZU0Q8YSEEZAU7WFJKX9 1 64 0 0
+/author/admin/ 1 5097 0 0
+/wp-admin/upgrade.php 2 2 0 0
+/.well-known/acme-challenge/h6iOMDltzXuBdtiMNT4jSdy1cAFFkO5G7YHUgLD8hCI 4 348 4 3
+/.well-known/acme-challenge/JPv7ozIFnHmkA-rV5JWrU1fIdCx5EyKDbuptr7EQe7w 4 348 0 0
+/wp-admin/load-styles.php 11 1218193 0 0
+//wp-includes/wlwmanifest.xml 14 14630 2 5
+//wp-login.php 1 2939 1 1
+/wp-admin/edit.php 1 45325 0 0
+/.well-known/acme-challenge/ZSHgcIi58lD29fLmjcMDgV2RwBMY02VZWSQOLL-ppXI 4 348 0 0
+/.well-known/acme-challenge/AIC28SRYYPL0NG1UM__33VAIGSBTO4RV 1 64 0 0
+/.well-known/acme-challenge/1PYLC8WS1778EHOA6LTRF78LUAOACO9L 1 64 0 0
+/wp-json/wp/v2/posts/691 17 138142 0 17
+/wordpress/ 18 5827 11 11
+/wp-json/jetpack/v4/scan 2 296 0 0
+/wp-admin/ 3 122195 0 0
+/.well-known/acme-challenge/0mRO2HPlm9fwZJffa0XDnQ9goZWbH_NktXhX66Dj8XQ 4 348 0 0
+/26-2/ 21 135844 17 15
+/wp-includes/js/tinymce/wp-tinymce.php 2 739398 2 2
+/.well-known/acme-challenge/3-V8BPBEJTURRT4MBOGS_ZB0RNFQN65Y 1 64 0 0
+/wp-json/wp/v2/categories/35 17 10710 0 0
+/wp-content/ 1 0 1 1
+/.well-known/acme-challenge/Hevdkmd0F_LiWEX554AZ8N3EOgz2tLdr7_vQKOYGjMo 4 348 0 4
+//wp-json/wp/v2/users/ 10 15885 0 10
+END_SIDER

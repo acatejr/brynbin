@@ -1,0 +1,468 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2696                
+POS_VISITOR 10363               
+POS_DAY 13822               
+POS_DOMAIN 3413                
+POS_LOGIN 3805                
+POS_ROBOT 3960                
+POS_WORMS 4191                
+POS_EMAILSENDER 4322                
+POS_EMAILRECEIVER 4465                
+POS_SESSION 14532               
+POS_SIDER 14733               
+POS_FILETYPES 4600                
+POS_DOWNLOADS 4771                
+POS_OS 4819                
+POS_BROWSER 4974                
+POS_SCREENSIZE 5505                
+POS_UNKNOWNREFERER 5579                
+POS_UNKNOWNREFERERBROWSER 6443                
+POS_ORIGIN 7302                
+POS_SEREFERRALS 7440                
+POS_PAGEREFS 7625                
+POS_SEARCHWORDS 7773                
+POS_KEYWORDS 7925                
+POS_MISC 2359                
+POS_ERRORS 7984                
+POS_CLUSTER 3661                
+POS_SIDER_404 8153                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210901002100 76 20352 19053467611256
+FirstTime 20210801011059
+LastTime 20210831232837
+LastUpdate 20210901063250 76 0 75 0 0
+TotalVisits 190                 
+TotalUnique 88                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 88                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 11 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 44170 6 11 11039
+1 4 4 57163 8 11 1130
+2 54 54 261001 70 81 10864
+3 10 10 40785 12 15 608
+4 9 9 73701 9 12 1008
+5 8 8 28438 24 25 11304
+6 13 13 29033 26 32 11977
+7 4 4 13426 83 85 5290
+8 13 13 54718 43 46 58179
+9 6 6 64810 22 25 1663
+10 5 5 20646 18 23 29245
+11 10 10 63841 17 21 46480
+12 14 14 102420 12 18 1596
+13 1 1 0 8 12 19527
+14 9 9 66008 7 9 1491
+15 7 7 33313 5 9 26798
+16 26 26 160703 42 68 142689
+17 7 7 44159 13 15 63540
+18 8 8 61431 4 21 57891
+19 6 6 56656 30 37 57453
+20 2 2 20646 5 7 1009
+21 14 22 527228 10 14 1610
+22 15 15 23426 51 57 14409
+23 10 10 34071 13 15 28613
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 186 186 709381
+cn 17 25 633614
+ru 15 15 93255
+ca 13 13 44044
+gr 12 12 279506
+de 4 4 26851
+nl 3 3 30226
+fr 3 3 20139
+au 2 2 9787
+ar 2 2 9787
+vn 1 1 6713
+mx 1 1 6713
+at 1 1 11777
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+unknown 12 456 20210826105306 12
+no_user_agent 3 93692 20210809154252 0
+baidu 2 0 20210811081135 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+env 4 47069 0 0
+html 111 1503201 0 0
+php 129 52002 0 0
+css 8 243526 0 0
+xml 9 3206 0 0
+Unknown 7 32789 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win8.1 1 1
+win10 38 38
+linux 33 33
+win7 2 2
+Unknown 158 158
+linuxandroid 34 26
+macosx 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome34.0.1847.137 1 1
+chrome70.0.3538.80 5 5
+chrome88.0.4472.114 4 2
+chrome91.0.4472.114 6 4
+android 9 9
+chrome46.0.2490.80 2 2
+chrome86.0.4472.114 2 1
+chrome92.0.4515.131 3 3
+chrome78.0.3904.62 6 6
+chrome89.0.4472.114 1 0
+chrome83.0.4103.97 22 22
+chrome38.0.2125.111 1 1
+chrome42.0.2311.90 2 2
+Unknown 158 158
+msie11.0 4 4
+chrome58.0.3029.110 1 1
+chrome66.0.3359.181 8 8
+chrome84.0.4147.125 15 15
+chrome66.0.3359.117 6 6
+chrome87.0.4472.114 3 1
+firefox72.0 5 5
+firefox84.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Python/3.7_aiohttp/3.7.3 20210828124417
+Jetpack_by_WordPress.com 20210821112611
+Go_http_package 20210829164830
+WordPress.com;_https://www.brynbailer.com 20210806225836
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210830001145
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210830181800
+Go-http-client/2.0 20210809060018
+WordPress/5.6.4;_http://www.brynbailer.com 20210819154809
+WordPress/5.6.4;_https://www.brynbailer.com 20210831232834
+Go-http-client/1.1 20210811081131
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+WordPress/5.6.4;_http://www.brynbailer.com 20210819154809
+Go-http-client/1.1 20210811081131
+WordPress/5.6.4;_https://www.brynbailer.com 20210831232834
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210830181800
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210830001145
+WordPress.com;_https://www.brynbailer.com 20210806225836
+Go-http-client/2.0 20210809060018
+Jetpack_by_WordPress.com 20210821112611
+Python/3.7_aiohttp/3.7.3 20210828124417
+Go_http_package 20210829164830
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 120 128
+From1 0 0
+From2 6 6
+From3 0 0
+From4 134 134
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 2 2
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+404 46 456294
+406 128 28928
+302 7 0
+400 259 13315
+409 7 581
+401 53 2331
+405 1 42
+301 140 732
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 25
+/wp-includes/css/wp-config.php 6 anonymousfox.co
+/wp-content/plugins/kaswara/front/assets/js/script.js 2 https://www.brynbailer.com//wp-content/plugins/kaswara/front/assets/js/script.js
+/new/wp-login.php 1 -
+/my-account 2 https://www.brynbailer.com//my-account
+/register/ 2 https://brynbailer.com/register/
+/.git/HEAD 1 -
+/wp-content/plugins/theplus_elementor_addon/assets/js/admin/plus-editor.js 2 https://www.brynbailer.com//wp-content/plugins/theplus_elementor_addon/assets/js/admin/plus-editor.js
+/admin.php 1 www.google.com
+/2index.php 1 -
+/signup 2 https://www.brynbailer.com//signup
+/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/test/wp-login.php 1 -
+/wp-includes/wp-class.php 1 www.google.com
+/registration 2 https://www.brynbailer.com//registration
+/wp-content/plugins/host-webfonts-local/assets/js/omgf-admin.js 2 https://www.brynbailer.com//wp-content/plugins/host-webfonts-local/assets/js/omgf-admin.js
+/wp-content/plugins/theplus_elementor_addon/assets/css/admin/theplus-ele-admin.css 2 https://www.brynbailer.com//wp-content/plugins/theplus_elementor_addon/assets/css/admin/theplus-ele-admin.css
+/alfindex.php 1 -
+/3index.php 2 -
+/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/checkout.js 2 https://www.brynbailer.com//wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/checkout.js
+/wp-includes/upload_index.php 2 -
+/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-bookings.js 2 https://www.brynbailer.com//wp-content/plugins/woocommerce-jetpack/includes/js/wcj-bookings.js
+/1index.php 2 -
+/wp-content/plugins/woo-advanced-shipment-tracking/assets/js/front.js 2 https://www.brynbailer.com//wp-content/plugins/woo-advanced-shipment-tracking/assets/js/front.js
+/register 2 https://www.brynbailer.com//register
+/wp-content/plugins/shopp/core/ui/styles/catalog.css 2 https://www.brynbailer.com//wp-content/plugins/shopp/core/ui/styles/catalog.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 88
+67.222.39.71 109 109 0 20210831232834
+192.99.18.122 13 13 44044 20210809060018
+185.224.89.12 11 11 58723 20210818160056
+192.0.119.68 10 10 16713 20210806225845
+124.126.78.198 8 16 513803 20210815214817
+137.226.113.44 4 4 26851 20210825080512
+104.211.31.163 4 4 47051 20210828125431
+92.118.160.13 3 3 77809 20210815184001
+92.222.108.85 3 3 20139 20210831183105
+3.86.93.206 3 3 30238 20210808062839
+92.118.160.61 3 3 77821 20210823040718
+128.14.136.78 2 2 13425 20210817054721
+3.143.214.232 2 2 13426 20210831191839
+181.20.51.162 2 2 9787 20210819154811
+52.247.226.210 2 2 23537 20210825123107
+92.118.160.9 2 2 41292 20210815165431
+54.185.178.93 2 2 13426 20210813023513
+118.208.192.126 2 2 9787 20210803162600
+23.90.160.138 2 2 13425 20210829143814
+208.110.85.67 2 2 27359 20210818090033
+208.110.85.69 2 2 27359 20210823125326
+212.129.152.41 2 2 23513 20210814172448
+121.5.109.55 2 2 23526 20210812151122
+34.213.163.14 1 1 6713 20210821022614
+92.118.160.45 1 1 20646 20210830001145
+144.86.173.8 1 1 20646 20210820200413
+52.35.60.169 1 1 6712 20210801024250
+128.14.234.165 1 1 6713 20210828124417
+54.218.97.128 1 1 6712 20210806022951
+144.202.8.190 1 1 6713 20210824192841
+54.213.105.111 1 1 6712 20210801023841
+52.13.2.241 1 1 6713 20210812031604
+185.220.102.246 1 1 11766 20210808161439
+124.126.78.168 1 1 20646 20210808092942
+71.6.165.200 1 1 20646 20210807171117
+35.165.248.132 1 1 6712 20210805022850
+124.227.31.225 1 1 36517 20210802194201
+54.188.49.190 1 1 6713 20210821022614
+144.86.173.80 1 1 20646 20210818031820
+34.221.122.41 1 1 6713 20210812031339
+35.85.29.92 1 1 6713 20210829022723
+123.6.49.6 1 1 0 20210811080928
+144.86.173.25 1 1 20646 20210828042504
+124.126.78.145 1 1 20646 20210807235735
+92.118.160.5 1 1 20646 20210829164830
+123.6.49.36 1 1 0 20210811081131
+34.222.163.31 1 1 6713 20210826023202
+109.70.100.28 1 1 11777 20210808161440
+144.86.173.65 1 1 20646 20210803122341
+46.161.14.84 1 1 9340 20210811143611
+144.86.173.137 1 1 20646 20210830181800
+34.218.78.105 1 1 6713 20210814023747
+121.5.103.58 1 1 11763 20210815043043
+92.118.160.17 1 1 20646 20210821112558
+34.214.22.33 1 1 6713 20210809025348
+187.193.35.20 1 1 6713 20210831211101
+144.86.173.11 1 1 36517 20210803022429
+34.221.36.181 1 1 6713 20210829024755
+192.0.113.144 1 1 633 20210820114847
+35.85.62.201 1 1 6713 20210829022636
+54.191.204.29 1 1 6713 20210817021412
+18.237.130.244 1 1 6713 20210815021506
+35.85.63.19 1 1 6713 20210829022356
+192.0.117.238 1 1 636 20210806115520
+92.118.160.37 1 1 20646 20210809081003
+58.187.72.139 1 1 6713 20210831224333
+34.216.77.199 1 1 6713 20210827022107
+144.86.173.152 1 1 36529 20210802141120
+54.245.27.109 1 1 6713 20210823023931
+54.184.195.234 1 1 6712 20210806023539
+34.211.170.120 1 1 6712 20210807022400
+178.170.156.191 1 1 6713 20210831232837
+144.86.173.17 1 1 20646 20210824110842
+34.213.70.200 1 1 6713 20210810021427
+192.0.112.46 1 1 632 20210811121656
+185.180.143.12 1 1 6713 20210828032415
+54.149.120.147 1 1 6712 20210802022716
+52.33.239.56 1 1 6712 20210803021415
+144.86.173.89 1 1 20646 20210807042714
+18.236.162.205 1 1 6713 20210825024810
+144.86.173.83 1 1 20646 20210812163646
+34.221.252.43 1 1 6713 20210819022134
+121.5.219.20 1 1 6713 20210812145847
+192.0.112.239 1 1 634 20210821112611
+18.237.102.201 1 1 6712 20210803021336
+34.222.104.44 1 1 6713 20210811024059
+185.180.143.148 1 1 6713 20210817141722
+54.166.156.235 1 1 20646 20210802101623
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210801 8 8 107116 8
+20210802 8 8 100404 8
+20210803 14 14 107732 11
+20210804 6 6 6712 5
+20210805 2 2 6712 2
+20210806 17 17 30773 8
+20210807 10 10 75362 10
+20210808 9 9 95073 8
+20210809 20 20 71403 7
+20210810 2 2 6713 2
+20210811 12 12 23398 10
+20210812 11 11 64311 10
+20210813 6 6 13426 4
+20210814 3 3 30226 2
+20210815 16 24 573571 9
+20210817 6 6 20139 6
+20210818 22 22 113441 8
+20210819 7 7 16500 5
+20210820 5 5 21279 5
+20210821 6 6 34706 6
+20210822 2 2 0 2
+20210823 9 9 54718 6
+20210824 4 4 27359 4
+20210825 7 7 36963 6
+20210826 3 3 6713 3
+20210827 2 2 6713 2
+20210828 11 11 81123 8
+20210829 12 12 54211 11
+20210830 5 5 41292 5
+20210831 15 15 53704 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 7
+30s-2mn 6
+5mn-15mn 3
+15mn-30mn 2
+2mn-5mn 1
+0s-30s 171
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/wp-cron.php 109 0 91 91
+/ 106 1254870 86 86
+/xmlrpc.php 13 12536 4 5
+/wp-login.php 5 33657 3 2
+/.env 4 47069 4 0
+/wp-sitemap.xml 2 454 0 0
+/wp-json/wp/v2/users/1 2 1180 0 2
+/wp-sitemap-posts-page-1.xml 2 462 0 1
+/wp-json/oembed/1.0/embed 2 4509 0 1
+/wp-sitemap-posts-post-1.xml 2 832 0 0
+/.git/config 2 23543 2 2
+//wp-login.php 2 5809 0 0
+/wp-sitemap-users-1.xml 1 202 0 0
+/feed/ 1 39233 0 0
+/wp-sitemap-taxonomies-category-1.xml 1 211 0 0
+/category/testimonials/ 1 7047 0 0
+/category/writing-samples/ 1 8299 0 0
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-json/wp/v2/pages/675 1 3557 0 0
+/test-page/ 1 13111 0 0
+/wp-json/ 1 180641 0 0
+END_SIDER

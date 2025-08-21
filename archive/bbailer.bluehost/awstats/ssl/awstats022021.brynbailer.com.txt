@@ -1,0 +1,656 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202102 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2695                
+POS_VISITOR 12264               
+POS_DAY 14902               
+POS_DOMAIN 3463                
+POS_LOGIN 3857                
+POS_ROBOT 4012                
+POS_WORMS 4262                
+POS_EMAILSENDER 4393                
+POS_EMAILRECEIVER 4536                
+POS_SESSION 15585               
+POS_SIDER 15796               
+POS_FILETYPES 4671                
+POS_DOWNLOADS 4843                
+POS_OS 4891                
+POS_BROWSER 5082                
+POS_SCREENSIZE 5550                
+POS_UNKNOWNREFERER 5624                
+POS_UNKNOWNREFERERBROWSER 6487                
+POS_ORIGIN 7345                
+POS_SEREFERRALS 7484                
+POS_PAGEREFS 7648                
+POS_SEARCHWORDS 7862                
+POS_KEYWORDS 8014                
+POS_MISC 2359                
+POS_ERRORS 8073                
+POS_CLUSTER 3713                
+POS_SIDER_404 8260                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210301012051 91 22479 15918473789548
+FirstTime 20210201001552
+LastTime 20210228235041
+LastUpdate 20210301051905 91 0 90 0 0
+TotalVisits 270                 
+TotalUnique 66                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 68                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 2 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 28 28 2901 104 106 29861
+1 27 27 67293 75 79 9128
+2 22 23 1841328 107 112 14471
+3 156 156 196622 94 200 88739
+4 19 19 5802 72 75 15637
+5 20 20 2901 92 92 9794
+6 25 25 13418 90 100 44547
+7 20 20 78322 75 76 26304
+8 26 27 69832 62 65 16044
+9 29 35 124524 92 93 8314
+10 34 34 70559 94 95 66897
+11 22 22 634 91 95 15700
+12 37 37 104410 67 70 18994
+13 21 21 39132 77 79 15329
+14 15 15 2901 83 84 14748
+15 23 23 39086 48 50 6435
+16 42 42 50058 91 96 8348
+17 34 34 55976 82 86 34892
+18 26 26 23544 82 87 44173
+19 16 16 20642 58 61 10857
+20 14 14 5798 57 59 130238
+21 44 44 168101 77 81 7339
+22 21 22 16827 73 74 10501
+23 26 26 5800 101 102 13270
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 667 667 477272
+ca 25 31 192608
+fr 19 19 169459
+de 14 14 45841
+gr 9 9 214874
+ru 4 4 36762
+nl 3 3 12296
+gb 2 3 24443
+ph 1 1 6148
+cn 1 2 12227
+id 1 1 6148
+za 1 1 6148
+it 0 1 1802185
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 52 61018 20210228122359 49
+no_user_agent 2 72472 20210228104613 0
+unknown 1 119 20210225084216 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+js 6 45047 0 0
+css 2 11561 0 0
+html 208 1033676 0 0
+php 538 112156 0 0
+Unknown 1 1786 0 0
+jpg 1 1802185 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+win8.1 2 2
+Unknown 529 529
+win7 2 2
+macosx5 2 2
+linux 21 14
+macosx 27 27
+win8 1 1
+linuxandroid 2 1
+win10 169 168
+macosx9 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+chrome88.0.4324.150 1 0
+chrome36.0.1985.125 1 1
+chrome46.0.2490.80 4 4
+safari14.0.3 1 1
+firefox84.0 1 1
+firefox75.0 26 26
+chrome40.0.2214.85 2 2
+chrome75.0.3765.0 2 1
+chrome70.0.3538.77 4 4
+chrome84.0.4147.125 153 153
+msie11.0 2 2
+chrome78.0.1080.209 1 1
+firefox58.0 6 5
+Unknown 529 529
+chrome88.0.4324.146 4 4
+chrome66.0.3359.117 2 2
+firefox72.0 11 5
+chrome83.0.4103.97 3 3
+chrome72.0.3626.121 1 1
+firefox15.0.1 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210227183529
+WordPress/5.6.1;_http://www.brynbailer.com 20210221112723
+WordPress/5.6.2;_http://www.brynbailer.com 20210228235041
+WordPress/4.9.16;_http://www.brynbailer.com 20210211132629
+WordPress/5.6.1;_https://www.brynbailer.com 20210222100731
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210226132231
+WordPress/4.9.16;_https://www.brynbailer.com 20210211045033
+Go_http_package 20210227210521
+WordPress/5.6.2;_https://www.brynbailer.com 20210228122400
+WordPress.com;_https://www.brynbailer.com 20210227162006
+Jetpack_by_WordPress.com 20210227162019
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Go_http_package 20210227210521
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210226132231
+WordPress/4.9.16;_https://www.brynbailer.com 20210211045033
+WordPress/5.6.1;_https://www.brynbailer.com 20210222100731
+WordPress/5.6.2;_http://www.brynbailer.com 20210228235041
+WordPress/4.9.16;_http://www.brynbailer.com 20210211132629
+WordPress/5.6.1;_http://www.brynbailer.com 20210221112723
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210227183529
+Jetpack_by_WordPress.com 20210227162019
+WordPress.com;_https://www.brynbailer.com 20210227162006
+WordPress/5.6.2;_https://www.brynbailer.com 20210228122400
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 220 221
+From1 0 0
+From2 4 11
+From3 1 2
+From4 522 522
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 4 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://mail.brynbailer.com 1 1
+https://cpanel.brynbailer.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+409 851 70633
+401 62 44817
+301 63 254
+302 442 0
+404 136 303621
+406 455 102152
+405 2 84
+403 19 2546
+400 30 1200
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 126
+/wordpress-5.3.2.zip 1 -
+/assets.zip 1 -
+/website.zip 1 -
+/wp-content/plugins/listingpro-plugin/assets/css/listingpro-custom-fields.css 1 -
+/wp-admin.zip 1 -
+/wp-content/engl/pages.php 1 -
+/wordpress-5.2.3.zip 1 -
+/soprasotto.zip 1 -
+/latest.tar.gz 1 -
+/wp-content/plugins/wp-file-manager/lib/files/wpadmin.php 1 -
+/engl/pages.php 1 -
+/wp-includes.7z 1 -
+/wordpress-4.9.8.zip 1 -
+/backup/archive.zip 1 https://brynbailer.com/backup/archive.zip
+/js.zip 1 -
+/wp-content/plugins/wp-file-manager/lib/files/badmin1.php 1 -
+/www.brynbailer.com.zip 1 -
+/wp-content/plugins/yith-woocommerce-gift-cards-premium/assets/vendor/jquery.fine-uploader/jquery.fine-uploader.js 3 -
+/vse.zip 1 -
+/wp-admin_old.zip 1 -
+/wordpress%204.9.8-fa.zip 1 -
+/woo.zip 1 -
+/wp-content/themes/engl/pages.php 1 -
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 5 -
+/pre.zip 1 -
+/wordpress5.2.zip 1 -
+/wordpress.zip 1 -
+/new.zip 1 -
+/1.zip 1 -
+/site.zip 1 -
+/wp.zip 1 -
+/betheme.zip 1 -
+/wp-content/plugins/wp-file-manager/lib/files/wpadmind.php 1 -
+/public_html.zip 1 -
+/tg.zip 1 -
+/wp-content/plugins/wp-file-manager/lib/files/admin.php 1 -
+/wp-content/plugins/poka-module/assets/jquery-file-upload/server/php/ 1 -
+/wp-config.rar 1 -
+/Archive1.zip 1 -
+/.well-known/hosting-provider 1 https://www.brynbailer.com/.well-known/hosting-provider
+/public_html.tar.gz 1 -
+/wordpress-5.4.zip 1 -
+/fruits.zip 1 -
+/wordpress-5.5.3.zip 1 -
+/.quarantine.zip 1 -
+/composer.json 2 https://brynbailer.com/composer.json
+/brynbailer.zip 1 -
+/.well-known/acme-challenge/engl/pages.php 1 -
+/wp-content-backup.zip 1 -
+/bac.zip 1 -
+/adminer-4.5.0.php 1 -
+/wordpress-5.3.2%20%282%29.zip 1 -
+/back.zip 1 -
+/wp-content/uploads/wp-content/ 1 https://www.brynbailer.com/wp-content/uploads//wp-content/
+/sts.zip 1 -
+/.lscache_htaccess_bak.zip 1 -
+/old.zip 1 -
+/Backup.zip 1 -
+/wplatest.zip 1 -
+/wp-content/plugins/wp-file-manager/lib/files/uladmin.php 1 -
+/ALL_FILES.zip 1 -
+/engl/css/ 1 https://www.brynbailer.com/engl/css/index.php
+/nutri1.zip 1 -
+/backup.tar 1 -
+/wordpress-5.5.zip 1 -
+/wordpress-4.8.14.tar.gz 1 -
+/wordpress-5.5.tar.gz 1 -
+/2020-new.zip 1 -
+/wp-content/plugins/super-forms/assets/js/common.js 1 -
+/barcode.zip 1 -
+/fitness.zip 1 -
+/Archive.zip 1 -
+/wordpress-5.5.1.zip 1 -
+/.git/config 3 https://brynbailer.com/.git/config
+/wp-blog-header.php 1 -
+/xxx.zip 1 -
+/wordpress-5.3.2-ru_RU.zip 1 -
+/file-backup.zip 1 -
+/a-y-t.zip 1 -
+/wordpress-5.2.2.zip 1 -
+/wordpress-5.3-fa_IR.zip 1 -
+/rest.zip 1 -
+/brynbailercom.zip 1 -
+/wp-config.zip 1 -
+/brynbailer.com.zip 1 -
+/haraj.zip 1 -
+/bk.zip 1 -
+/wp-content/plugins/ulisting/assets/css/MarkerCluster.css 1 -
+/wordpress-5.4.1.zip 1 -
+/2019-bk.zip 1 -
+/archive.zip 2 -
+/wordpress-5.3.zip 1 -
+/wordpress-5.5.1%20%281%29.zip 1 -
+/wordpress-4.9.9.tar.gz 1 -
+/installer.zip 1 -
+/wordpress-5.5.3.tar.gz 1 -
+/wordpress-4.9.1-fa_IR.zip 1 -
+/wp-content.zip 1 -
+/backup.zip 1 -
+/wp-load.zip 1 -
+/wordpress-5.1.1.zip 1 -
+/speed.zip 1 -
+/infected.tar.gz 1 -
+/wordpress.rar 1 -
+/wp/wp-admin/setup-config.php 1 -
+/wordpress-scan.zip 1 -
+/wordpress-5.2.1.zip 1 -
+/wordpress%20%281%29.zip 1 -
+/wp-content/plugins/ait-csv-import-export/changelog.txt 1 -
+/.htaccess.zip 1 -
+/admin.zip 1 -
+/without%20wp-content%20wordpress.zip 1 -
+/latest.zip 1 -
+/wp-includes.zip 1 -
+/archive/archive.zip 1 https://brynbailer.com/archive/archive.zip
+/wordpress-3.3.2.zip 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/js/mage/cookies.js 1 https://brynbailer.com/js/mage/cookies.js
+/.well-known.tar.gz 1 -
+/wordpress-5.4.2%20%281%29.zip 1 -
+/wordpress-5.4.2.zip 1 -
+/.well-known.zip 1 -
+/cgi-bin.zip 1 -
+/all.zip 1 -
+/wp-content.tar 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 68
+67.222.39.71 479 479 0 20210228235041
+159.65.83.68 135 135 115448 20210202031620
+192.0.103.4 10 10 16365 20210227162017
+192.0.91.201 10 10 17481 20210211210013
+188.165.211.206 7 7 58798 20210225174905
+192.95.30.65 7 7 20300 20210224214758
+192.99.0.98 7 7 20306 20210225101038
+138.246.253.24 6 6 0 20210227000705
+94.23.195.224 6 6 17406 20210228205721
+192.99.18.122 5 11 83477 20210210094346
+82.112.184.223 4 4 36762 20210213172019
+92.118.160.13 3 3 60059 20210227210521
+188.166.191.22 3 3 12296 20210206161908
+80.241.211.131 3 3 12296 20210207154936
+35.231.174.0 2 2 13418 20210225174652
+158.69.228.209 2 2 39180 20210214071816
+62.4.14.206 2 2 36242 20210217225958
+92.118.160.5 2 2 56647 20210220024656
+82.165.49.133 2 2 13418 20210223213828
+135.125.39.186 2 2 13418 20210223124230
+185.30.32.178 2 2 13418 20210222100734
+51.68.214.75 2 2 13418 20210225081023
+34.90.86.104 2 2 13418 20210224062023
+192.99.0.130 2 2 5803 20210227185756
+192.0.112.144 1 1 634 20210216101958
+92.118.160.1 1 1 36242 20210227105649
+192.0.117.239 1 1 633 20210226103836
+34.96.130.35 1 1 20405 20210214094738
+192.99.8.102 1 1 2900 20210225032439
+212.83.146.233 1 1 20405 20210215211754
+93.37.177.163 0 1 1802185 
+92.118.160.61 1 1 20642 20210227183529
+128.14.209.250 1 1 6709 20210220122101
+128.14.209.242 1 1 6148 20210204101430
+34.96.130.23 1 1 36242 20210220075732
+34.86.35.92 1 1 36242 20210224033213
+171.13.14.84 1 2 12227 20210215081243
+105.209.166.43 1 1 6148 20210205105344
+102.37.8.129 1 1 6148 20210209011537
+192.0.117.241 1 1 634 20210222103246
+192.0.86.161 1 1 377 20210211210015
+34.86.35.207 1 1 20642 20210224164230
+34.77.162.7 1 1 36230 20210226132231
+54.188.156.44 1 1 6680 20210213010138
+192.0.118.110 1 1 633 20210221102923
+51.15.191.81 0 1 11025 
+34.96.130.234 1 1 20642 20210219195203
+112.199.118.235 1 1 6148 20210205150640
+195.154.61.206 1 1 0 20210217225727
+192.0.118.141 1 1 634 20210214111225
+92.118.160.45 1 1 20642 20210227081954
+34.86.35.245 1 1 36230 20210223030528
+192.0.86.176 1 1 631 20210219102038
+34.86.35.187 1 1 20642 20210226095457
+18.236.173.3 1 1 6709 20210225012450
+137.226.113.44 1 1 6709 20210224121749
+192.0.86.84 1 1 377 20210227162019
+62.210.125.138 1 1 378 20210205160214
+34.86.35.220 1 1 20405 20210215013742
+192.0.118.206 1 1 634 20210227102400
+92.118.160.9 1 1 20642 20210220153332
+192.0.113.110 1 1 632 20210225102826
+44.234.253.220 1 1 6709 20210226010943
+192.0.116.48 1 1 635 20210224102236
+62.4.14.198 1 1 36230 20210215214847
+192.95.30.137 1 1 20642 20210225084235
+192.0.113.79 1 1 635 20210212103128
+18.193.67.168 1 1 0 20210224045438
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210201 2 2 0 2
+20210202 138 138 134223 4
+20210203 1 1 0 1
+20210204 5 5 6148 5
+20210205 9 9 12674 6
+20210206 6 6 31071 4
+20210207 5 5 12296 3
+20210208 3 3 0 3
+20210209 4 4 6148 4
+20210210 11 17 83477 6
+20210211 32 32 17858 12
+20210212 18 18 635 11
+20210213 23 24 1845627 12
+20210214 20 20 41444 14
+20210215 34 35 145914 14
+20210216 28 28 634 13
+20210217 12 13 11025 9
+20210218 23 23 0 10
+20210219 26 26 21273 11
+20210220 29 29 120477 15
+20210221 10 10 633 8
+20210222 5 5 14052 4
+20210223 23 23 118966 9
+20210224 99 99 100844 15
+20210225 64 64 78025 22
+20210226 35 35 64214 16
+20210227 53 53 127150 22
+20210228 29 29 11603 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 2
+0s-30s 176
+30mn-1h 29
+1h+ 33
+15mn-30mn 12
+30s-2mn 2
+5mn-15mn 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 124
+/wp-cron.php 479 0 175 175
+/ 77 940869 54 48
+/xmlrpc.php 30 27546 12 14
+/wp-login.php 27 84610 26 25
+/wp-content/uploads/ 14 8064 0 1
+/wp-admin/admin-post.php 2 0 0 2
+/wp-content/uploads/2018/06/ 1 325 0 0
+/wp-content/uploads/2017/05/ 1 325 0 0
+/wp-content/uploads/2014/08/ 1 325 0 0
+/wp-content/uploads/2018/05/ 1 325 0 0
+/wp-content/uploads/2019/03/ 1 325 0 0
+/wp-content/uploads/2011/ 1 377 0 0
+/author/admin/ 1 18475 0 1
+/wp-content/uploads/2020/05/ 1 323 0 0
+/wp-content/uploads/2016/05/ 1 971 0 0
+/index.php/wp-json/wp/v2/users/ 1 378 1 1
+/wp-content/uploads/2020/12/ 1 323 0 0
+/wp-content/uploads/2015/07/ 1 325 0 0
+/wp-content/uploads/2019/12/ 1 324 0 0
+/wp-content/uploads/grid-gallery/log/ 1 329 0 0
+/wp-content/uploads/2016/09/ 1 615 0 0
+/wp-content/uploads/2017/02/ 1 325 0 0
+/wp-content/uploads/2015/09/ 1 325 0 0
+/wp-content/uploads/2019/06/ 1 325 0 0
+/wp-content/uploads/2013/ 1 458 0 0
+/wp-content/uploads/2014/05/ 1 324 0 0
+/wp-content/uploads/2020/09/ 1 324 0 0
+/wp-content/plugins/easy-social-icons/css/ 1 0 1 1
+/wp-content/uploads/2014/ 1 521 0 0
+/wp-content/uploads/2011/05/ 1 323 0 0
+/wp-content/uploads/2014/07/ 1 325 0 0
+/wp-content/uploads/2019/02/ 1 325 0 0
+/wp-content/uploads/2016/03/ 1 324 0 0
+/wp-json/wp/v2/users 1 1786 0 0
+/wp-content/uploads/2018/08/ 1 325 0 0
+/wp-content/uploads/2015/08/ 1 325 0 0
+/wp-content/uploads/2021/02/ 1 323 0 0
+/wp-content/uploads/2017/01/ 1 325 0 0
+/wp-content/uploads/2014/12/ 1 323 0 0
+/wp-content/uploads/2014/11/ 1 324 0 0
+/wp-content/uploads/2018/12/ 1 324 0 0
+/wp-content/uploads/2020/10/ 1 323 0 0
+/wp-content/uploads/2016/07/ 1 325 0 0
+/wp-content/uploads/2014/01/ 1 324 0 0
+/wp-content/uploads/2013/10/ 1 323 0 0
+/wp-content/uploads/2015/02/ 1 323 0 0
+/wp-content/uploads/2015/03/ 1 323 0 0
+/wp-content/uploads/2013/02/ 1 323 0 0
+/wp-content/uploads/2020/08/ 1 324 0 0
+/wp-content/uploads/2014/09/ 1 325 0 0
+/wp-content/uploads/2017/04/ 1 325 0 0
+/wp-content/uploads/2014/02/ 1 324 0 0
+/wp-content/uploads/2013/01/ 1 323 0 0
+/wp-content/uploads/2018/11/ 1 325 0 0
+/wp-content/uploads/2016/06/ 1 325 0 0
+/wp-content/uploads/2016/02/ 1 324 0 0
+/wp-content/uploads/2017/09/ 1 325 0 0
+/wp-content/uploads/2019/07/ 1 325 0 0
+/test-page/ 1 11819 0 1
+/wp-content/uploads/2013/12/ 1 323 0 0
+/wp-content/uploads/2013/06/ 1 324 0 0
+/wp-content/uploads/2013/03/ 1 323 0 0
+/wp-content/uploads/2020/07/ 1 324 0 0
+/wp-content/uploads/2015/12/ 1 323 0 0
+/wp-content/uploads/2018/04/ 1 325 0 0
+/wp-content/uploads/2019/01/ 1 325 0 0
+/wp-content/uploads/2019/04/ 1 325 0 0
+/wp-content/uploads/2018/03/ 1 325 0 0
+/wp-content/uploads/2016/10/ 1 324 0 0
+/wp-content/uploads/2014/04/ 1 324 0 0
+/wp-content/uploads/2017/11/ 1 325 0 0
+/wp-content/uploads/2019/08/ 1 325 0 0
+/wp-content/uploads/2020/02/ 1 323 0 0
+/wp-content/uploads/2016/12/ 1 324 0 0
+/wp-content/uploads/2017/08/ 1 325 0 0
+/wp-content/uploads/2020/06/ 1 324 0 0
+/wp-content/uploads/2015/04/ 1 324 0 0
+/wp-content/uploads/2018/10/ 1 325 0 0
+/wp-content/uploads/js_composer/ 1 396 0 0
+/wp-content/uploads/grid-gallery/cache/ 1 383 0 0
+/category/testimonials/ 1 6534 0 0
+/wp-content/uploads/2017/07/ 1 325 0 0
+/wp-content/uploads/2015/01/ 1 323 0 0
+/wp-content/uploads/2019/10/ 1 325 0 0
+/wp-content/uploads/2017/03/ 1 325 0 0
+/wp-content/plugins/easy-social-icons/css/font-awesome/css/ 1 0 1 1
+/wp-content/uploads/2015/11/ 1 323 0 0
+/wp-content/uploads/2015/10/ 1 323 0 0
+/wp-content/uploads/2018/07/ 1 325 0 0
+/wp-content/uploads/2015/06/ 1 325 0 0
+/wp-content/uploads/2017/06/ 1 325 0 0
+/wp-content/uploads/2015/ 1 523 0 0
+/wp-content/uploads/2020/ 1 512 0 0
+/wp-content/uploads/2014/06/ 1 325 0 0
+/wp-content/uploads/2017/ 1 517 0 0
+/wp-content/uploads/2016/ 1 517 0 0
+/wp-content/uploads/2016/11/ 1 325 0 0
+/wp-content/uploads/2019/09/ 1 325 0 0
+/wp-content/uploads/2012/ 1 357 0 0
+/wp-content/uploads/2017/12/ 1 324 0 0
+/category/writing-samples/ 1 7781 0 0
+/wp-content/uploads/2011/06/ 1 324 0 0
+/wp-content/uploads/2014/10/ 1 324 0 0
+/wp-content/uploads/2018/01/ 1 325 0 0
+/wp-content/uploads/2019/11/ 1 325 0 0
+/wp-content/uploads/2021/ 1 369 0 0
+/wp-content/uploads/grid-gallery/ 1 391 0 0
+/wp-content/uploads/2019/05/ 1 325 0 0
+/wp-content/uploads/2018/09/ 1 325 0 0
+/wp-content/uploads/2021/01/ 1 323 0 0
+/wp-content/uploads/2015/05/ 1 323 0 0
+/wp-content/uploads/2019/ 1 502 0 0
+/wp-content/uploads/2016/01/ 1 324 0 0
+/wp-content/uploads/2020/04/ 1 323 0 0
+/wp-content/uploads/2020/03/ 1 323 0 0
+/wp-content/uploads/2014/03/ 1 324 0 0
+/wp-content/uploads/2018/ 1 513 0 0
+/wp-content/uploads/2016/04/ 1 325 0 0
+/wp-content/uploads/2016/08/ 1 1677 0 0
+/wp-content/uploads/2020/11/ 1 323 0 0
+/wp-content/uploads/2017/10/ 1 325 0 0
+/wp-content/uploads/2018/02/ 1 325 0 0
+/wp-content/uploads/2012/12/ 1 323 0 0
+/wp-content/uploads/2020/01/ 1 323 0 0
+END_SIDER

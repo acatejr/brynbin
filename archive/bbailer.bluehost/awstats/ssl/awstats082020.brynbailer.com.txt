@@ -1,0 +1,327 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2675                
+POS_VISITOR 7077                
+POS_DAY 7869                
+POS_DOMAIN 3288                
+POS_LOGIN 3580                
+POS_ROBOT 3735                
+POS_WORMS 4100                
+POS_EMAILSENDER 4231                
+POS_EMAILRECEIVER 4374                
+POS_SESSION 8482                
+POS_SIDER 8645                
+POS_FILETYPES 4509                
+POS_DOWNLOADS 4622                
+POS_OS 4670                
+POS_BROWSER 4806                
+POS_SCREENSIZE 5126                
+POS_UNKNOWNREFERER 5200                
+POS_UNKNOWNREFERERBROWSER 5404                
+POS_ORIGIN 5603                
+POS_SEREFERRALS 5737                
+POS_PAGEREFS 5900                
+POS_SEARCHWORDS 6048                
+POS_KEYWORDS 6200                
+POS_MISC 2339                
+POS_ERRORS 6259                
+POS_CLUSTER 3436                
+POS_SIDER_404 6413                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200902050044 1 0 23783301237899
+FirstTime 0
+LastTime 20200831185206
+LastUpdate 20200902061557 1 0 0 0 0
+TotalVisits 95                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 0 27 30 29252
+1 3 3 0 2 4 18944
+2 5 5 0 6 10 30644
+3 2 2 0 3 4 10201
+4 3 3 0 2 4 169
+5 5 5 0 5 7 36590
+6 6 6 30474 8 12 79679
+7 11 11 102022 9 13 17447
+8 3 3 6149 4 5 41399
+9 5 5 0 3 5 5201
+10 6 6 11698 17 20 33632
+11 3 3 0 2 5 5494
+12 3 3 0 6 8 516
+13 6 6 18775 80 81 1206033
+14 3 3 12298 4 5 185
+15 2 2 0 3 5 41669
+16 2 2 0 1 2 5134
+17 3 4 185804 3 4 171
+18 4 4 12298 1 2 67
+19 5 5 0 4 6 21768
+20 8 8 49254 6 10 12276
+21 1 1 0 0 1 67
+22 4 4 18775 2 4 5201
+23 4 4 17334 3 6 5653
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 86 87 314878
+de 4 4 17334
+gb 4 4 41245
+cn 3 3 35099
+fr 2 2 37550
+se 1 1 18775
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 44 258619 20200830064302 35
+no_user_agent 25 869995 20200815135951 1
+Googlebot/ 8 536 20200829155225 8
+Dalvik/ 3 35097 20200826201358 0
+unknown 2 134 20200821200025 2
+[\s_+:,\.\;\/\\-]bot 1 6149 20200813022639 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+php 77 0 0 0
+png 1 174111 0 0
+html 23 290770 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+ios_iphone 1 0
+linux 6 6
+win7 3 3
+win10 8 8
+Unknown 80 80
+macosx11 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome47.0.2526.106 3 3
+Unknown 80 80
+chrome78.0.3904.108 4 4
+chrome66.0.3359.117 2 2
+safari13.1.2 1 0
+chrome40.0.2214.85 3 3
+chrome34.0.1847.137 1 1
+chrome79.0.3945.130 1 1
+chrome74.0.3729.169 2 2
+chrome83.0.4103.116 1 1
+chrome46.0.2490.80 2 2
+chrome75.0.3770.142 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.9.15;_https://www.brynbailer.com 20200830100628
+\ 20200831074320
+Python/3.8_aiohttp/3.6.2 20200818141523
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.9.15;_https://www.brynbailer.com 20200830100628
+Python/3.8_aiohttp/3.6.2 20200818141523
+\ 20200831074320
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 22
+From1 0 0
+From2 0 1
+From3 0 0
+From4 78 78
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 41 426583
+400 21 1092
+401 26 944
+409 3 249
+403 4 536
+301 42 0
+406 33 7458
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/wp-config_good 1 https://brynbailer.com/wp-config_good
+/adminer-4.6.4.php 1 -
+/wp-config.php_orig 2 https://brynbailer.com/wp-config.php_orig
+/.git/HEAD 19 -
+/js/admin.js 1 https://brynbailer.com/js/admin.js
+/.well-known/assetlinks.json 15 -
+/wp-config-good 1 https://brynbailer.com/wp-config-good
+/wp-config.php_ 1 https://brynbailer.com/wp-config.php_
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+67.222.39.71 77 77 0 20200830100628
+138.246.253.15 3 3 0 20200829085727
+113.31.115.156 3 3 35099 20200826201353
+3.81.245.94 2 2 72472 20200831074320
+51.15.242.216 2 2 23397 20200804070900
+3.129.194.132 1 1 6149 20200831185206
+91.121.183.89 1 1 18775 20200821200029
+91.121.183.9 1 1 18775 20200807204034
+212.81.43.211 1 1 18775 20200827135628
+213.170.222.134 1 1 17334 20200827230758
+142.54.172.170 1 1 18775 20200818221600
+163.172.163.25 1 1 6149 20200802184430
+107.6.183.226 1 1 6149 20200818142804
+107.6.171.130 1 1 6149 20200830071452
+163.172.164.113 1 1 11699 20200804064220
+35.164.235.49 1 1 6149 20200817084816
+35.223.226.170 1 1 6149 20200818141523
+71.6.158.166 1 1 18775 20200803060628
+24.23.77.154 0 1 174111 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200801 2 2 0 2
+20200802 3 3 6149 3
+20200803 6 6 30468 6
+20200804 5 5 23403 5
+20200805 2 2 0 2
+20200806 4 4 0 4
+20200807 4 4 18775 4
+20200808 5 5 0 5
+20200809 1 1 0 1
+20200810 2 2 0 2
+20200812 1 1 0 1
+20200813 3 3 0 3
+20200814 4 4 0 2
+20200815 4 4 0 3
+20200816 2 2 0 2
+20200817 3 3 6149 3
+20200818 9 9 31073 8
+20200819 2 2 0 2
+20200820 3 4 210341 3
+20200821 4 4 30472 4
+20200822 5 5 0 5
+20200823 3 3 0 3
+20200824 1 1 0 1
+20200825 3 3 0 3
+20200826 4 4 23402 4
+20200827 4 4 36109 4
+20200828 1 1 0 1
+20200829 4 4 0 4
+20200830 4 4 6149 3
+20200831 2 2 42391 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 1
+30mn-1h 3
+0s-30s 91
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/wp-cron.php 77 0 72 72
+/ 22 273436 22 22
+/contact-2/ 1 17334 1 1
+END_SIDER

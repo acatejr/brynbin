@@ -1,0 +1,544 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202506 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer-net.dtq.rvq.mybluehost.me.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2068                
+POS_TIME 2748                
+POS_VISITOR 11668               
+POS_DAY 13410               
+POS_DOMAIN 3315                
+POS_LOGIN 3633                
+POS_ROBOT 3788                
+POS_WORMS 3984                
+POS_EMAILSENDER 4115                
+POS_EMAILRECEIVER 4258                
+POS_SESSION 13710               
+POS_FILESIZE 14298               
+POS_SIDER 13867               
+POS_FILETYPES 4393                
+POS_DOWNLOADS 4490                
+POS_OS 4538                
+POS_BROWSER 4703                
+POS_SCREENSIZE 5032                
+POS_UNKNOWNREFERER 5106                
+POS_UNKNOWNREFERERBROWSER 5806                
+POS_ORIGIN 6211                
+POS_SEREFERRALS 6343                
+POS_PAGEREFS 6487                
+POS_SEARCHWORDS 6635                
+POS_KEYWORDS 6787                
+POS_MISC 2411                
+POS_ERRORS 6846                
+POS_CLUSTER 3489                
+POS_SIDER_404 6968                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250701023334 57 14462 11428131434693
+FirstTime 20250605123319
+LastTime 20250629235300
+LastUpdate 20250701035659 57 0 56 0 0
+TotalVisits 49                  
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 47                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 22 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 0 2 4 1644
+1 6 6 0 19 23 4667
+2 1 1 0 2 3 822
+3 0 0 0 3 3 452
+4 0 0 0 0 0 0
+5 2 2 0 0 0 0
+6 1 1 0 40 40 5221
+7 0 0 0 1 1 0
+8 1 1 0 26 26 2034
+9 2 2 0 0 2 1644
+10 2 2 0 0 2 1644
+11 2 2 0 19 19 3247
+12 3 3 0 2 2 226
+13 0 0 0 70 78 5345
+14 0 0 0 65 73 4317
+15 1 1 0 242 290 18135
+16 18 18 998 58 59 10563
+17 2 2 0 183 227 14648
+18 4 4 0 2 5 2466
+19 4 4 0 1 4 2466
+20 2 2 0 19 21 3475
+21 0 0 0 0 0 0
+22 1 1 0 17 17 1379
+23 2 2 0 0 2 1644
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 33 33 737
+ru 7 7 0
+ua 6 6 0
+eu 2 2 0
+zz 2 2 174
+it 2 2 0
+sc 1 1 0
+de 1 1 0
+ca 1 1 87
+be 1 1 0
+eg 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+checker 8 0 20250629123929 0
+no_user_agent 4 0 20250629133218 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 12 998 0 0
+html 45 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+ios_iphone 1 1
+win10 13 13
+macosx15 6 6
+Unknown 20 20
+linux 14 14
+androidmarshmallow 2 2
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+safari14.0 1 1
+firefox124.0 1 1
+chrome91.0.4472.124 8 8
+chrome94.0.4606.61 6 6
+Unknown 3 3
+chrome78.0.3904.108 2 2
+chrome137.0.0.0 5 5
+safari14.1.1 1 1
+firefox89.0 3 3
+safari17.5 1 1
+firefox127.0 1 1
+firefox137.0 5 5
+chrome125.0.6422.60 1 1
+mozilla 17 17
+chrome52.0.1138.98 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250626225228
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250618163212
+Cpanel-HTTP-Client/1.0 20250618163206
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250626190925
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250624194239
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250626190925
+Cpanel-HTTP-Client/1.0 20250618163206
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 57 57
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+409 63 5229
+406 275 62150
+400 1 576
+404 528 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 201
+/mytest/astech_robot.js 2 -
+/.git/HEAD 21 -
+/.aws_keys.json 1 -
+/app.js 2 -
+/s3.js 2 -
+/new/.env.local 2 -
+/.env.dev 4 -
+/swagger.js 2 -
+/config/storage.yml 3 -
+/backup.zip 3 -
+/docker-compose.override.yml 3 -
+/.git/logs/HEAD 1 -
+/controller/admin/post.js 3 -
+/storage/logs/laravel.log 5 -
+/_profiler/phpinfo.php 1 -
+/info 1 -
+/.aws/s3/tokens 1 -
+/new/.env.staging 2 -
+/aws.yml 2 -
+/admin/controllers/merchant.js 2 -
+/.git/COMMIT_EDITMSG 1 -
+/backend/config/settings.yml 3 -
+/.aws/ecs-task-credentials 1 -
+/.git/ORIG_HEAD 1 -
+/wp-config.dist 1 -
+/.travis.yml 3 -
+/.aws_lambda/token.json 1 -
+/my_env/chakaash.py 2 -
+/.cloudfront/config.json 1 -
+/apis/config/config.js 1 -
+/config/aws.yml 6 -
+/.git/description 1 -
+/.github/workflows/ 3 -
+/main.js 2 -
+/backend/config/development.yml 3 -
+/.backup.tar 1 -
+/index.js 2 -
+/.aws/s3/secrets 1 -
+/.env.prod 15 -
+/.git/config 17 -
+/_all_dbs 2 -
+/blog.env 3 -
+/api/shared/config.env 3 -
+/.env.test 3 -
+/service/email_service.py 2 -
+/.aws_secrets.js 1 -
+/.aws/s3/keys 1 -
+/user/config/config.js 2 -
+/.dockerenv 1 -
+/app/config/parameters.yml 2 -
+/.env.json 1 -
+/.env.zip 1 -
+/phpinfo.php 1 -
+/config.json 3 -
+/karma.conf.json 2 -
+/.cloudfront/keys.json 1 -
+/.env.local.json 1 -
+/configs/routes-4aug.js 1 -
+/controllers/settings.js 3 -
+/configs/routes.js 1 -
+/wp-config.cache 1 -
+/config/secrets.json 3 -
+/live_env 1 -
+/enviroments/.env.production 1 -
+/.git-credentials 3 -
+/app.py 1 -
+/.git/hooks/pre-commit 1 -
+/scripts/nodemailer.js 2 -
+/.aws/metadata/iam 1 -
+/.env.smtp_access 1 -
+/.env.js 1 -
+/wiki 1 -
+/.git/FETCH_HEAD 1 -
+/credentials.json 3 -
+/.git/info/exclude 1 -
+/config/env 3 -
+/docker-compose.dev.yml 3 -
+/new/.env.production 2 -
+/.cloudfront/secrets.json 1 -
+/.aws_creds.json 1 -
+/helper/EmailHelper.js 2 -
+/.db_backup 1 -
+/.database.tar.gz 1 -
+/secrets.json 3 -
+/docker-compose.prod.yml 3 -
+/server/s3.js 1 -
+/.aws/config 7 -
+/.gitignore 3 -
+/.ftpconfig 1 -
+/static/js/main.e85f7a37.js 1 -
+/.aws/credentials 8 -
+/.backup.tar.gz 1 -
+/.backup.zip 1 -
+/apis/controllers/users.js 1 -
+/.db_credentials 1 -
+/.env.stage 14 -
+/aws/credentials 6 -
+/.aws_lambda/config.json 1 -
+/admin/controllers/partner.js 3 -
+/.env.sample 3 -
+/.git/hooks/post-commit 1 -
+/secrets.yml 3 -
+/debug.log 3 -
+/config.yaml 6 -
+/.aws/metadata 1 -
+/react-app/.env.production 2 -
+/configs/s3_config.json 1 -
+/logs/debug.log 3 -
+/config/settings.local 3 -
+/.git/ 1 -
+/.env.smtp 1 -
+/.idea/workspace.xml 3 -
+/.envs/.production/.django 3 -
+/shared/config/config.js 2 -
+/cloud/Scraper.js 3 -
+/.DS_Store 3 -
+/public/js/main.js 2 -
+/config/config.json 6 -
+/sitemap.xml 3 -
+/.gitlab-ci.yml 3 -
+/.aws/ecs-task-credentials.json 1 -
+/wp-config 2 -
+/admin/.env 10 -
+/.db_backup.tar.gz 1 -
+/config/local.yml 3 -
+/main.yml 2 -
+/storage/logs/error.log 3 -
+/config/aws.json 3 -
+/phpinfo 1 -
+/.config.js 1 -
+/helpers/utility.js 1 -
+/settings.py 1 -
+/my_env/palash.py 2 -
+/config/config.env 3 -
+/.env.project 1 -
+/static/js/2.ca066a4b.chunk.js 1 -
+/.database 1 -
+/.env.save 2 -
+/.circleci/configs/development.yml 3 -
+/.git/backup 1 -
+/error.log 3 -
+/admin/config 6 -
+/partner/config/config.js 2 -
+/.env.dev.json 1 -
+/.aws_lambda 1 -
+/.backup/pgsql.dump 1 -
+/user/controllers/index.js 1 -
+/.dump 1 -
+/.env.dist 1 -
+/gatsby-config.js 2 -
+/.aws_lambda/secrets.json 1 -
+/.git/execute.php 1 -
+/config/settings.prod 3 -
+/js/main.js 2 -
+/controller/api/post.js 3 -
+/config/settings.json 3 -
+/logs/app.log 3 -
+/server/config/database.js 2 -
+/info.php 1 -
+/.env.production 8 -
+/api/config.js 3 -
+/static/js/main.js 2 -
+/docker-compose.yml 3 -
+/.aws_lambda/handler.js 1 -
+/.env.prod.json 1 -
+/node/.env_example 2 -
+/.aws_secrets.json 1 -
+/my_env/newsletter.py 2 -
+/.env.staging.json 1 -
+/.env.development 4 -
+/config/application.yml 3 -
+/.aws/metadata/iam/security-credentials/ 1 -
+/.vscode/settings.json 3 -
+/.AWS_/credentials 4 -
+/api/config/config.yml 3 -
+/login 2 -
+/.dump.tar.gz 1 -
+/aws-secret.yaml 3 -
+/.env.sendgrid 1 -
+/.aws_config.js 1 -
+/.env.production.local 11 -
+/config/parameters.yml 3 -
+/config.yml 6 -
+/config.js 3 -
+/swagger.json 2 -
+/_profiler/phpinfo 7 -
+/.env_sample 2 -
+/.env.local 14 -
+/application.properties 3 -
+/config/constants.js 3 -
+/.dump.tar 1 -
+/config.env 1 -
+/.db_backup.tar 1 -
+/.env.example 13 -
+/wordpress/ 1 -
+/backend/config/default.yml 3 -
+/api/shared/config/config.env 3 -
+/api/config.env 3 -
+/backup.tar.gz 3 -
+/sms.py 2 -
+/static/js/main.141b0494.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 47
+195.123.244.84 6 6 0 20250625012719
+143.198.15.67 2 2 0 20250623201430
+84.17.60.236 2 2 0 20250619115336
+3.12.149.11 2 2 174 20250618163212
+67.222.39.71 2 2 128 20250618163206
+207.154.197.113 2 2 0 20250618163249
+167.94.138.181 1 1 0 20250611013622
+23.178.112.212 1 1 87 20250618163212
+206.168.34.83 1 1 0 20250624181500
+176.53.220.147 1 1 0 20250621004111
+206.168.34.200 1 1 0 20250624194239
+185.177.72.106 1 1 0 20250628170154
+45.90.62.183 1 1 0 20250623093318
+185.177.72.201 1 1 0 20250619174703
+161.35.83.36 1 1 0 20250621185908
+206.168.34.41 1 1 0 20250611022229
+54.187.71.172 1 1 87 20250618163212
+13.212.82.177 1 1 87 20250618163212
+159.203.2.74 1 1 0 20250626013910
+156.248.54.189 1 1 0 20250620231641
+89.104.111.52 1 1 0 20250623103337
+45.207.211.71 1 1 0 20250605123724
+68.198.90.189 1 1 0 20250619063542
+178.62.238.209 1 1 0 20250625183127
+178.62.37.243 1 1 0 20250629203647
+34.123.170.104 1 1 0 20250625184017
+185.193.64.188 1 1 0 20250618163258
+52.12.167.161 1 1 87 20250618163212
+176.53.216.52 1 1 0 20250620092930
+216.151.180.51 1 1 0 20250622161822
+149.22.84.152 1 1 0 20250622123038
+147.185.132.102 1 1 0 20250626190925
+64.227.159.208 1 1 0 20250629235300
+165.22.49.156 1 1 0 20250619005558
+185.177.72.104 1 1 0 20250620151440
+56.228.17.171 1 1 87 20250618163212
+8.133.253.244 1 1 0 20250605123319
+167.94.138.52 1 1 0 20250611001806
+167.94.138.49 1 1 0 20250611014245
+87.236.176.161 1 1 0 20250626225228
+77.90.153.66 1 1 0 20250626082219
+47.129.107.177 1 1 87 20250618163212
+174.138.93.166 1 1 0 20250627191637
+45.90.62.192 1 1 0 20250620102650
+13.53.245.26 1 1 87 20250618163212
+159.223.10.54 1 1 0 20250628014853
+23.178.112.210 1 1 87 20250618163212
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20250605 2 2 0 2
+20250611 4 4 0 4
+20250618 17 17 998 13
+20250619 7 7 0 5
+20250620 4 4 0 4
+20250621 2 2 0 2
+20250622 2 2 0 2
+20250623 4 4 0 3
+20250624 2 2 0 2
+20250625 4 4 0 3
+20250626 4 4 0 4
+20250627 1 1 0 1
+20250628 2 2 0 2
+20250629 2 2 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30mn-1h 1
+0s-30s 48
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 42 0 36 36
+/.well-known/acme-challenge/b4El0lCs_2WpkGroYfpxjBJq2CVhpHEjD4UoALVUDFs 5 435 4 5
+/.well-known/acme-challenge/4pt3ojvUH6asG-PwPQspehAMHQbWJgoCC-TKgxtIuy0 5 435 5 4
+http://brynbailer-net.dtq.rvq.mybluehost.me/ 3 0 3 3
+/.well-known/acme-challenge/H5S51G2HLOMWODOKMWRCGJWZM7K0XXPZ 1 64 1 0
+/.well-known/acme-challenge/OIE9I07UQH1SP566JBDZ0HZBZJVFBMO7 1 64 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+0-44 585
+100-500 275
+44-100 75
+500-1K 23
+END_FILESIZE

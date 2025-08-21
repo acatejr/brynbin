@@ -1,0 +1,451 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202107 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer-net.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2705                
+POS_VISITOR 10808               
+POS_DAY 12397               
+POS_DOMAIN 3253                
+POS_LOGIN 3540                
+POS_ROBOT 3695                
+POS_WORMS 3827                
+POS_EMAILSENDER 3958                
+POS_EMAILRECEIVER 4101                
+POS_SESSION 12850               
+POS_SIDER 13007               
+POS_FILETYPES 4236                
+POS_DOWNLOADS 4333                
+POS_OS 4381                
+POS_BROWSER 4509                
+POS_SCREENSIZE 4824                
+POS_UNKNOWNREFERER 4898                
+POS_UNKNOWNREFERERBROWSER 5549                
+POS_ORIGIN 6092                
+POS_SEREFERRALS 6224                
+POS_PAGEREFS 6390                
+POS_SEARCHWORDS 6538                
+POS_KEYWORDS 6690                
+POS_MISC 2369                
+POS_ERRORS 6749                
+POS_CLUSTER 3396                
+POS_SIDER_404 6848                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210801035147 27 6616 13993361907868
+FirstTime 20210701093017
+LastTime 20210731171309
+LastUpdate 20210801061555 27 0 26 0 0
+TotalVisits 48                  
+TotalUnique 43                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 43                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 0 42 42 1808
+1 0 0 0 1 1 0
+2 6 6 0 9 9 226
+3 0 0 0 1 1 226
+4 3 3 0 20 20 678
+5 4 4 0 25 27 678
+6 0 0 0 45 46 2938
+7 5 5 0 22 23 904
+8 3 3 0 21 21 452
+9 3 3 0 8 8 904
+10 2 2 0 0 0 0
+11 1 1 0 0 0 0
+12 0 0 0 3 3 226
+13 7 7 0 22 24 678
+14 2 2 0 0 0 0
+15 0 0 0 1 1 226
+16 3 3 0 19 19 678
+17 23 23 824 77 77 1356
+18 0 0 0 1 1 0
+19 3 3 0 1 1 226
+20 2 2 0 48 48 226
+21 6 6 0 37 37 904
+22 3 3 0 13 15 452
+23 3 3 0 21 21 226
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 69 69 824
+gr 4 4 0
+gb 4 4 0
+de 3 3 0
+ru 3 3 0
+ca 1 1 0
+it 1 1 0
+ua 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 10 824 0 0
+html 76 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+linuxandroid 5 5
+win10 57 57
+Unknown 20 20
+macosx 3 3
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome84.0.4147.105 1 1
+firefox81.0 3 3
+firefox50.0 3 3
+chrome73.0.3683.90 1 1
+chrome88.0.4240.193 27 27
+chrome80.0.3987.149 3 3
+edge18 2 2
+Unknown 12 12
+mozilla 8 8
+firefox40.0 4 4
+firefox57.0 1 1
+chrome78.0.3904.108 15 15
+firefox45.0 2 2
+chrome60.0.3112.107 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Cpanel-HTTP-Client/1.0 20210715170146
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210715170155
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210730143858
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210731103008
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210730143858
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210731103008
+Cpanel-HTTP-Client/1.0 20210715170146
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 83 83
+From1 0 0
+From2 1 1
+From3 0 0
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_ua 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+406 62 14012
+404 383 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 122
+/wp-content/plugins/ioptimization/IOptimize.php 1 anonymousfox.co
+//wp-includes/wp-1ogin_bak.php 1 -
+/old-site/ 1 -
+/sito/wp-includes/wlwmanifest.xml 15 -
+//wordpress/wp-1ogin_bak.php 1 -
+/phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 1 anonymousfox.co
+/wp-content/plugins/t_file_wp/t_file_wp.php 1 anonymousfox.co
+/new/ 1 -
+/wp-content/plugins/backup_index.php 1 anonymousfox.co
+/old-wp/ 1 -
+/v1/ 1 -
+/wordpress/wp-includes/wlwmanifest.xml 15 -
+/.git/config 2 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp/ 4 -
+/wp-includes/small.php 1 anonymousfox.co
+//blog/wp-1ogin_bak.php 1 -
+//wp-includes/css/css.php 1 -
+/wp1/wp-includes/wlwmanifest.xml 15 -
+/admin.php 1 anonymousfox.co
+//wp/wp-includes/css/css.php 1 -
+/test/wp-includes/wlwmanifest.xml 15 -
+/wp-content/db_cache.php 1 anonymousfox.co
+/wp2/ 1 -
+/wp/wp-content/class.php 1 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/phpinfo.php 2 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/moduless.php 1 anonymousfox.co
+//style.php 1 -
+/web/wp-includes/wlwmanifest.xml 15 -
+/wp1/ 1 -
+/config/aws.yml 2 -
+/filemanager/dialog.php 1 -
+/_profiler/phpinfo 3 -
+/robots.txt 4 -
+/2018/ 1 -
+//wp-1ogin_bak.php 1 -
+/wordpress/ 4 -
+/web/ 1 -
+/haders.php 1 anonymousfox.co
+//wordpress/wp-includes/css/css.php 1 -
+/alfindex.php 1 anonymousfox.co
+/upload.php 1 anonymousfox.co
+//about.php 1 -
+/alfa.php 1 anonymousfox.co
+/wp-includes/css/css.php 1 anonymousfox.co
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin 3 -
+/test/ 1 -
+/tmp/ 1 -
+/legion.php 1 anonymousfox.co
+/install/ 1 -
+/info.php 2 -
+/config.yml 2 -
+/.aws/credentials 2 -
+/wp-login.php 1 -
+/home/ 1 -
+/wp2/wp-includes/wlwmanifest.xml 15 -
+/wp-content/plugins/wpdiscuz/themes/default/style-rtl.css 1 anonymousfox.co
+/2019/wp-includes/wlwmanifest.xml 15 -
+/wp-content/langar.php 1 anonymousfox.co
+/2020/wp-includes/wlwmanifest.xml 9 -
+/site/ 1 -
+/main/ 1 -
+//wp/wp-1ogin_bak.php 1 -
+/blog/robots.txt 3 -
+/cms/ 1 -
+/wp-includes/lfx.php 1 anonymousfox.co
+/2020/ 1 -
+//old/wp-1ogin_bak.php 1 -
+/old-index.php 1 anonymousfox.co
+/wp-booking.php 1 anonymousfox.co
+/old/ 1 -
+/js/tinymce/plugins/filemanager/dialog.php 1 -
+/cms/wp-includes/wlwmanifest.xml 15 -
+/xmlrp.php 1 anonymousfox.co
+//wp-admin/wp-1ogin_bak.php 1 -
+/wp-content/mu-plugins/db-safe-mode.php 1 anonymousfox.co
+/temp/ 1 -
+//blog/wp-includes/css/css.php 1 -
+//old/wp-content/class.php 1 -
+/bk/ 1 -
+/index.php 1 anonymousfox.co
+/aws.yml 2 -
+/new-site/ 1 -
+/backup/ 1 -
+/wp-content/ 5 -
+/news/wp-includes/wlwmanifest.xml 15 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin 3 -
+/boom.php 1 anonymousfox.co
+/style.php 1 anonymousfox.co
+/config.php 1 anonymousfox.co
+/website/wp-includes/wlwmanifest.xml 15 -
+/up.php 1 anonymousfox.co
+//wp-content/class.php 1 -
+//content.php 1 -
+/cindex.php 1 anonymousfox.co
+/site/wp-includes/wlwmanifest.xml 15 -
+/media/wp-includes/wlwmanifest.xml 6 -
+/blog/wp-includes/wlwmanifest.xml 15 -
+//wordpress/wp-content/class.php 1 -
+/shop/wp-includes/wlwmanifest.xml 15 -
+//old/wp-includes/css/css.php 1 -
+/demo/ 1 -
+/v2/ 1 -
+/wp-content/wp-1ogin_bak.php 1 anonymousfox.co
+/phpinfo 2 -
+/dev/ 1 -
+/wp-content/wp-old-index.php 1 anonymousfox.co
+/2018/wp-includes/wlwmanifest.xml 6 -
+/wp-includes/wlwmanifest.xml 15 -
+/wp-content/plugins/ubh/up.php 2 -
+/wp/wp-includes/wlwmanifest.xml 15 -
+/bak/ 1 -
+/wp-1ogin_bak.php 1 anonymousfox.co
+//blog/wp-content/class.php 1 -
+/blog/ 4 -
+/wp-includes/fonts/css.php 1 anonymousfox.co
+/2019/ 1 -
+/test.php 1 anonymousfox.co
+//wp-content/wp-1ogin_bak.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 43
+52.247.226.68 9 9 0 20210717073325
+52.188.162.137 4 4 0 20210712223323
+23.96.124.104 3 3 0 20210703175029
+52.149.209.33 3 3 0 20210715000249
+52.188.51.88 3 3 0 20210716084415
+94.158.20.212 3 3 0 20210731020701
+138.201.192.68 3 3 0 20210731171309
+3.0.100.252 3 3 0 20210711160905
+51.143.100.232 3 3 0 20210715211530
+20.97.186.106 3 3 0 20210725175149
+13.64.50.7 3 3 0 20210704213339
+35.194.204.62 3 3 0 20210729133750
+167.71.211.193 3 3 0 20210728001753
+157.56.176.76 3 3 0 20210722055519
+40.118.229.230 3 3 0 20210718173745
+64.78.149.164 2 2 174 20210715170154
+35.232.55.37 2 2 0 20210710205012
+67.222.39.71 2 2 128 20210715170146
+134.209.127.243 2 2 0 20210714072920
+18.184.29.122 2 2 174 20210715170155
+76.72.172.166 2 2 0 20210704195317
+78.152.168.238 1 1 0 20210731020705
+34.77.162.28 1 1 0 20210708133041
+34.221.186.243 1 1 87 20210715170154
+52.55.61.139 1 1 0 20210722071613
+34.77.162.20 1 1 0 20210717003633
+92.118.160.1 1 1 0 20210731103008
+76.72.172.163 1 1 0 20210729143538
+92.118.160.37 1 1 0 20210726134412
+92.118.160.61 1 1 0 20210717193638
+212.102.60.169 1 1 0 20210726222927
+159.89.190.105 1 1 0 20210701093017
+144.86.173.75 1 1 0 20210721091239
+34.86.35.16 1 1 0 20210706105035
+217.138.255.165 1 1 0 20210726050422
+76.72.172.170 1 1 0 20210729115616
+34.96.130.27 1 1 0 20210715130308
+92.118.160.41 1 1 0 20210710205547
+172.255.125.178 1 1 0 20210720134714
+34.221.255.206 1 1 87 20210715170154
+18.116.86.117 1 1 87 20210715170154
+3.142.122.14 1 1 87 20210715170154
+144.86.173.159 1 1 0 20210730143858
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20210701 1 1 0 1
+20210703 3 3 0 1
+20210704 5 5 0 2
+20210706 1 1 0 1
+20210708 1 1 0 1
+20210710 3 3 0 3
+20210711 3 3 0 1
+20210712 4 4 0 2
+20210713 1 1 0 1
+20210714 1 1 0 1
+20210715 20 20 824 11
+20210716 3 3 0 1
+20210717 8 8 0 4
+20210718 3 3 0 1
+20210720 1 1 0 1
+20210721 1 1 0 1
+20210722 4 4 0 2
+20210725 3 3 0 1
+20210726 3 3 0 3
+20210728 3 3 0 1
+20210729 5 5 0 3
+20210730 1 1 0 1
+20210731 8 8 0 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30mn-1h 1
+0s-30s 47
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 76 0 41 41
+/.well-known/acme-challenge/gVGUjWP-BM29iM0h4-5W4b5e0src3ZMg8xF4w0z5WFQ 4 348 4 2
+/.well-known/acme-challenge/l3fMSTE1mKJ40uaElkCouz4s-mF5DtRLT-P0IkWJD_A 4 348 2 4
+/.well-known/acme-challenge/SZY7142TYK_4C5G_AHHZTACTF2OI1L5F 1 64 0 1
+/.well-known/acme-challenge/U7V8J_COLZH0RMB052DGYLT3KG96NZWK 1 64 1 0
+END_SIDER

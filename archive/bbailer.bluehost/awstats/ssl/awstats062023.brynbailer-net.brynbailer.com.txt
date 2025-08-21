@@ -1,0 +1,436 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer-net.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2691                
+POS_VISITOR 11130               
+POS_DAY 12991               
+POS_DOMAIN 3244                
+POS_LOGIN 3530                
+POS_ROBOT 3685                
+POS_WORMS 3892                
+POS_EMAILSENDER 4023                
+POS_EMAILRECEIVER 4166                
+POS_SESSION 13404               
+POS_SIDER 13600               
+POS_FILETYPES 4301                
+POS_DOWNLOADS 4382                
+POS_OS 4430                
+POS_BROWSER 4671                
+POS_SCREENSIZE 5141                
+POS_UNKNOWNREFERER 5215                
+POS_UNKNOWNREFERERBROWSER 5911                
+POS_ORIGIN 6415                
+POS_SEREFERRALS 6549                
+POS_PAGEREFS 6739                
+POS_SEARCHWORDS 6914                
+POS_KEYWORDS 7066                
+POS_MISC 2354                
+POS_ERRORS 7125                
+POS_CLUSTER 3386                
+POS_SIDER_404 7222                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230701082338 1 0 24025605571391
+FirstTime 0
+LastTime 20230629232659
+LastUpdate 20230702062038 1 0 0 0 0
+TotalVisits 58                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 50                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 0 14 15 0
+1 3 3 0 8 9 226
+2 3 3 0 0 3 822
+3 3 3 0 5 9 1644
+4 3 3 352 8 8 0
+5 2 2 352 7 11 822
+6 1 1 0 4 5 1048
+7 3 3 0 0 1 822
+8 8 8 704 41 43 1952
+9 3 3 0 0 2 822
+10 3 3 0 9 10 822
+11 1 1 0 1 3 822
+12 3 3 352 9 14 1644
+13 4 4 0 0 4 2466
+14 4 4 352 7 9 1644
+15 13 13 704 126 127 822
+16 0 0 0 3 3 226
+17 1 1 0 0 2 0
+18 2 2 0 2 3 0
+19 3 3 0 11 13 0
+20 3 3 352 6 7 822
+21 2 2 352 6 7 822
+22 4 4 352 9 9 0
+23 6 6 0 4 7 1870
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 36 36 1408
+cn 15 15 0
+gb 10 10 0
+jp 7 7 2464
+ca 7 7 0
+be 4 4 0
+kr 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 11 0 20230630223537 0
+Go\-http\-client/ 4 0 20230618180338 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 80 3872 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win10 28 28
+androidoreo 3 3
+win7 6 6
+macosx9 1 1
+Unknown 26 26
+macosx8 1 1
+ios_iphone 1 1
+macosx7 1 1
+linuxgentoo 1 1
+androidnougat 3 3
+macosx11 6 6
+linux 1 1
+linuxubuntu 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome78.0.3904.87 1 1
+firefox57.0 1 1
+chrome49.0.2656.18 1 1
+mozilla 16 16
+galeon 1 1
+chrome74.0.3729.169 3 3
+firefox28.0 2 2
+chrome99.0.4859.172 1 1
+chrome90.0.4430.85 11 11
+chrome84.0.4147.105 2 2
+chrome87.0.4280.88 2 2
+safari11.0 1 1
+firefox67.0 10 10
+chrome32.0.1664.3 1 1
+chrome63.0.3239.132 5 5
+Unknown 10 10
+chrome17.0.963.56 1 1
+firefox68.0 1 1
+firefox47.0 6 6
+chrome60.0.3112.107 3 3
+chrome100.0.4896.127 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230629194009
+Mozilliqa\ 20230602085039
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230623045706
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230629211156
+Mozilliqa'_print(9347655345-4954366)_' 20230602085042
+Mozilliqa'{${print(9347655345-4954366)}}' 20230602085036
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Mozilliqa'_print(9347655345-4954366)_' 20230602085042
+Mozilliqa\ 20230602085039
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230629194009
+Mozilliqa'{${print(9347655345-4954366)}}' 20230602085036
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 53 53
+From1 12 12
+From2 6 6
+From3 2 2
+From4 7 7
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_bing_com 1 1
+baidu 2 2
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://67.222.39.71:80 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 278 0
+406 9 2034
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 81
+/bc 3 http://brynbailer-net.brynbailer.com/bc
+/wp-content/themes/mero-megazines/ws.php 1 http://brynbailer-net.brynbailer.com/wp-content/themes/mero-megazines/ws.php
+/wordpress 3 http://brynbailer-net.brynbailer.com/wordpress
+/wp-json/wp/v2/users/1 1 -
+/wp-admin/network/subjects.php 1 http://brynbailer-net.brynbailer.com/wp-admin/network/subjects.php
+/config.js 1 -
+/index.php 2 -
+/.aws/credentials 1 -
+/xxl.php 1 http://brynbailer-net.brynbailer.com/xxl.php
+/wp-content/themes/finley/min.php 1 http://brynbailer-net.brynbailer.com/wp-content/themes/finley/min.php
+/api/v1/config/application%3Fpublic=true 1 -
+/home 3 http://brynbailer-net.brynbailer.com/home
+/sites/default/files/ 11 binance.com
+/wp-content/plugins/ccx/index.php 1 http://www.brynbailer-net.brynbailer.com//wp-content/plugins/ccx/index.php
+/admin/controller/extension/extension/ 11 binance.com
+/demo/ 10 -
+/wp-admin/css/ 11 binance.com
+/bk 3 http://brynbailer-net.brynbailer.com/bk
+/adminer/adminer.php 1 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/iedit.cfc 1 -
+/uploads/ 11 binance.com
+/info.php 1 -
+/.env.dev 1 -
+/main 3 http://brynbailer-net.brynbailer.com/main
+/2020/wp-json/wp/v2/users 1 -
+/wp-json/wp/v2/users 1 -
+/adminer.php 1 -
+/wp/ 11 -
+/wp-admin/dropdown.php 1 http://brynbailer-net.brynbailer.com/wp-admin/dropdown.php
+/site/ 10 -
+/wp-content/themes/ccx/index.php 1 http://www.brynbailer-net.brynbailer.com/wp-content/themes/ccx/index.php
+/api/index.php/v1/config/application%3Fpublic=true 1 -
+/blog/wp-json/wp/v2/users 1 -
+/sendgrid.env 1 -
+/images/ 11 binance.com
+/wp-content/themes/seotheme/db.php 1 http://www.brynbailer-net.brynbailer.com//wp-content/themes/seotheme/db.php
+/.env. 1 -
+/site/wp-json/wp/v2/users 1 -
+/ccx/index.php 1 http://www.brynbailer-net.brynbailer.com/ccx/index.php
+/web/ 10 -
+/wp-includes/css/buttons.css 4 http://brynbailer-net.brynbailer.com/wp-includes/css/buttons.css
+/sitemap.xml 2 -
+/2020/ 10 -
+/backup 3 http://brynbailer-net.brynbailer.com/backup
+/wp-includes/wp-class.php 1 http://brynbailer-net.brynbailer.com/wp-includes/wp-class.php
+/TP/public/index.php 1 -
+/wordpress/wp-json/wp/v2/users 1 -
+/blog/ 11 -
+/new 3 http://brynbailer-net.brynbailer.com/new
+/wordpress/ 11 -
+/old/ 11 -
+/config.env 1 -
+/backup/ 10 -
+/adminer/ 1 -
+/phpinfo.php 1 -
+/style.php 2 -
+/phpinfo 1 -
+/config/aws.yml 1 -
+/files/ 11 binance.com
+/old 3 http://brynbailer-net.brynbailer.com/old
+/new/ 11 -
+/backup/wp-json/wp/v2/users 1 -
+/old/wp-json/wp/v2/users 1 -
+/wp-content/themes/signify/firkon.php 1 http://brynbailer-net.brynbailer.com/wp-content/themes/signify/firkon.php
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://brynbailer-net.brynbailer.com/wp-includes/js/tinymce/plugins/compat3x/css/index.php#gecko
+/.git/config 2 -
+/wp 3 http://brynbailer-net.brynbailer.com/wp
+/wp-content/cong.php 1 http://brynbailer-net.brynbailer.com/wp-content/cong.php
+/aws.yml 1 -
+/demo/wp-json/wp/v2/users 1 -
+/wp-admin/css/colors/coffee/index.php 1 http://brynbailer-net.brynbailer.com/wp-admin/css/colors/coffee/index.php
+/wp/wp-json/wp/v2/users 1 -
+/new/wp-json/wp/v2/users 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/cloud.css 1 -
+/ee.php 1 http://brynbailer-net.brynbailer.com/ee.php
+/robots.txt 16 -
+/web/wp-json/wp/v2/users 1 -
+/adm.php 1 -
+/wp-content/plugins/Cache/dropdown.php 1 http://brynbailer-net.brynbailer.com/wp-content/plugins/Cache/dropdown.php
+/_ignition/health-check/ 2 http://brynbailer-net.brynbailer.com/_ignition/health-check/
+/public/_ignition/health-check/ 2 http://brynbailer-net.brynbailer.com/public/_ignition/health-check/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 50
+195.26.50.185 10 10 0 20230613151748
+183.136.225.44 7 7 0 20230616094705
+209.141.60.62 5 5 0 20230602085042
+43.131.235.35 4 4 1408 20230615125128
+101.68.211.2 3 3 0 20230629231101
+40.80.86.120 2 2 704 20230607150616
+20.197.58.34 2 2 704 20230606085751
+167.71.204.133 2 2 0 20230609011036
+20.228.206.104 2 2 0 20230612223727
+43.153.133.148 2 2 704 20230613155141
+27.115.124.101 2 2 0 20230629231524
+205.210.31.228 1 1 0 20230609020138
+3.75.154.188 1 1 0 20230626141034
+104.192.108.10 1 1 0 20230629232659
+162.142.125.12 1 1 0 20230607124519
+180.163.220.43 1 1 0 20230619115622
+167.248.133.190 1 1 0 20230629204352
+167.248.133.189 1 1 0 20230607143648
+24.199.89.17 1 1 0 20230619181949
+18.195.101.109 1 1 0 20230627174149
+43.134.132.191 1 1 352 20230602050919
+167.248.133.187 1 1 0 20230608134237
+87.236.176.120 1 1 0 20230614032835
+87.236.176.221 1 1 0 20230605093826
+205.210.31.209 1 1 0 20230602041244
+162.142.125.224 1 1 0 20230626064419
+162.142.125.225 1 1 0 20230616104128
+87.236.176.187 1 1 0 20230606153327
+198.235.24.163 1 1 0 20230623014615
+74.208.28.70 1 1 0 20230613004929
+162.142.125.217 1 1 0 20230608140724
+205.210.31.9 1 1 0 20230606204022
+35.219.145.83 1 1 0 20230611085019
+128.90.21.27 1 1 0 20230619102756
+69.167.12.37 1 1 0 20230621004507
+183.136.225.45 1 1 0 20230619131602
+3.239.122.196 1 1 0 20230628185627
+87.236.176.63 1 1 0 20230623045706
+167.248.133.127 1 1 0 20230614235039
+171.13.14.75 1 1 0 20230629232533
+170.64.150.9 1 1 0 20230613105915
+205.210.31.219 1 1 0 20230629194009
+167.248.133.186 1 1 0 20230626084241
+167.248.133.51 1 1 0 20230615135953
+167.248.133.33 1 1 0 20230629211156
+59.11.214.75 1 1 0 20230605225948
+205.210.31.145 1 1 0 20230606131947
+198.235.24.88 1 1 0 20230627195622
+162.142.125.214 1 1 0 20230615053854
+192.64.4.17 1 1 0 20230611195055
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20230602 7 7 352 3
+20230604 2 2 0 1
+20230605 2 2 0 2
+20230606 7 7 704 5
+20230607 4 4 704 3
+20230608 2 2 0 2
+20230609 3 3 0 2
+20230611 2 2 0 2
+20230612 5 5 704 4
+20230613 14 14 704 5
+20230614 3 3 352 3
+20230615 3 3 352 3
+20230616 3 3 0 2
+20230619 4 4 0 4
+20230621 1 1 0 1
+20230623 4 4 0 3
+20230626 3 3 0 3
+20230627 2 2 0 2
+20230628 1 1 0 1
+20230629 8 8 0 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 1
+0s-30s 51
+2mn-5mn 1
+15mn-30mn 1
+30s-2mn 3
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 69 0 49 49
+/.well-known/ 11 3872 9 9
+END_SIDER

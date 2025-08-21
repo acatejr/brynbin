@@ -1,0 +1,80 @@
+[15-Nov-2024 16:08:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/background.php on line 111
+[15-Nov-2024 16:08:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/border.php on line 170
+[15-Nov-2024 16:08:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/dimensions.php on line 164
+[15-Nov-2024 16:09:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/duotone.php on line 36
+[15-Nov-2024 16:09:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/elements.php on line 263
+[15-Nov-2024 16:09:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/layout.php on line 945
+[15-Nov-2024 16:09:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/position.php on line 145
+[15-Nov-2024 16:09:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/settings.php on line 151
+[15-Nov-2024 16:10:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/shadow.php on line 79
+[15-Nov-2024 16:10:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/spacing.php on line 83
+[19-Nov-2024 15:35:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/background.php on line 111
+[19-Nov-2024 15:36:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/border.php on line 170
+[19-Nov-2024 15:36:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/dimensions.php on line 164
+[19-Nov-2024 15:36:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/duotone.php on line 36
+[19-Nov-2024 15:36:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/elements.php on line 263
+[19-Nov-2024 15:36:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/layout.php:945
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/layout.php on line 945
+[19-Nov-2024 15:36:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/position.php on line 145
+[19-Nov-2024 15:36:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/brynbail/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/settings.php on line 151
+[19-Nov-2024 15:36:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/shadow.php on line 79
+[19-Nov-2024 15:36:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home3/brynbail/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home3/brynbail/public_html/wp-includes/block-supports/spacing.php on line 83

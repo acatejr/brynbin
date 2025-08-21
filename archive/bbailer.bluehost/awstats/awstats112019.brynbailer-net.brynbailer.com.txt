@@ -1,0 +1,331 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201911 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer-net.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2686                
+POS_VISITOR 7520                
+POS_DAY 8266                
+POS_DOMAIN 3205                
+POS_LOGIN 3483                
+POS_ROBOT 3638                
+POS_WORMS 3805                
+POS_EMAILSENDER 3936                
+POS_EMAILRECEIVER 4079                
+POS_SESSION 8580                
+POS_SIDER 8739                
+POS_FILETYPES 4214                
+POS_DOWNLOADS 4310                
+POS_OS 4358                
+POS_BROWSER 4479                
+POS_SCREENSIZE 4683                
+POS_UNKNOWNREFERER 4757                
+POS_UNKNOWNREFERERBROWSER 4985                
+POS_ORIGIN 5105                
+POS_SEREFERRALS 5237                
+POS_PAGEREFS 5381                
+POS_SEARCHWORDS 5529                
+POS_KEYWORDS 5681                
+POS_MISC 2350                
+POS_ERRORS 5740                
+POS_CLUSTER 3339                
+POS_SIDER_404 5861                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191202053807 1 0 10096626397621
+FirstTime 0
+LastTime 20191129200119
+LastUpdate 20191203052837 1 0 0 0 0
+TotalVisits 22                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 23 25 1660
+2 0 0 0 1 1 83
+3 1 1 0 24 24 987
+4 1 1 0 4 6 83
+5 1 1 0 1 1 0
+6 0 0 0 0 0 0
+7 0 0 0 16 16 0
+8 0 0 0 19 19 452
+9 1 1 0 0 0 0
+10 1 1 0 0 0 0
+11 0 0 0 0 0 0
+12 4 4 0 40 40 166
+13 1 1 0 0 0 0
+14 1 1 0 0 0 0
+15 3 3 0 21 21 83
+16 7 7 389 4 6 83
+17 0 0 0 1 1 83
+18 1 1 0 30 30 2980
+19 1 1 0 0 0 0
+20 3 3 0 22 22 166
+21 0 0 0 0 0 0
+22 0 0 0 4 6 753
+23 4 4 0 10 10 83
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 15 15 389
+ie 7 7 0
+ru 2 2 0
+cn 2 2 0
+ca 2 2 0
+fr 1 1 0
+gb 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 2 0 20191119230251 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 25 0 0 0
+Unknown 5 389 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+linux 7 7
+Unknown 5 5
+macosx11 2 2
+win10 15 15
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+firefox28.0 5 5
+chrome74.0.3729.131 1 1
+firefox47.0 2 2
+firefox58.0 2 2
+Unknown 2 2
+firefox50.0 2 2
+firefox54.0 1 1
+mozilla 3 3
+chrome63.0.3239.132 12 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20191110164209
+Cpanel-HTTP-Client/1.0 20191110164209
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20191110164209
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 30 30
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+409 34 2822
+404 160 0
+406 6 1356
+403 26 3484
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 42
+/bk//wp-admin/install.php 2 -
+/new//wp-admin/install.php 2 -
+/wp1//wp-admin/install.php 2 -
+/blog//wp-admin/install.php 2 -
+/cms/wp-includes/wlwmanifest.xml 7 -
+/robots.txt 3 -
+/wp/ 3 -
+/temp//wp-admin/install.php 2 -
+/backup//wp-admin/install.php 2 -
+/wp-includes/wlwmanifest.xml 7 -
+/test/wp-includes/wlwmanifest.xml 5 -
+/wordpress/wp-includes/wlwmanifest.xml 7 -
+/2017/wp-includes/wlwmanifest.xml 5 -
+/wp//wp-admin/install.php 2 -
+/wp2/wp-includes/wlwmanifest.xml 5 -
+/sito/wp-includes/wlwmanifest.xml 5 -
+/blog/robots.txt 3 -
+/wordpress/ 3 -
+/blog/ 3 -
+/wordpress//wp-admin/install.php 2 -
+/wp/wp-includes/wlwmanifest.xml 7 -
+/shop//wp-admin/install.php 2 -
+/web//wp-admin/install.php 2 -
+/site/wp-includes/wlwmanifest.xml 7 -
+/2018//wp-admin/install.php 2 -
+/web/wp-includes/wlwmanifest.xml 5 -
+/test//wp-admin/install.php 2 -
+/2015/wp-includes/wlwmanifest.xml 5 -
+/2016/wp-includes/wlwmanifest.xml 5 -
+/old//wp-admin/install.php 2 -
+/media/wp-includes/wlwmanifest.xml 5 -
+/2018/wp-includes/wlwmanifest.xml 5 -
+/news//wp-admin/install.php 2 -
+/vendor/phpunit/phpunit/LICENSE 4 -
+/news/wp-includes/wlwmanifest.xml 5 -
+/blog/wp-includes/wlwmanifest.xml 7 -
+/website/wp-includes/wlwmanifest.xml 5 -
+/cms//wp-admin/install.php 2 -
+/index.php 2 -
+/shop/wp-includes/wlwmanifest.xml 5 -
+/wp1/wp-includes/wlwmanifest.xml 5 -
+//wp-admin/install.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+150.136.250.96 3 3 0 20191123162801
+60.191.38.77 2 2 0 20191111162106
+95.142.120.138 2 2 0 20191118121603
+95.142.117.30 2 2 0 20191126231707
+95.142.118.26 2 2 0 20191129200119
+13.92.247.116 2 2 0 20191114054113
+67.222.39.71 2 2 128 20191110164209
+45.14.49.211 2 2 0 20191105201513
+47.252.82.59 2 2 0 20191128124750
+66.133.109.36 2 2 174 20191110164209
+51.15.191.81 1 1 0 20191111141321
+95.142.120.136 1 1 0 20191125032801
+107.175.156.144 1 1 0 20191104043149
+45.77.150.205 1 1 0 20191109234418
+185.246.210.171 1 1 0 20191105184719
+18.203.221.157 1 1 0 20191115105949
+3.14.255.131 1 1 87 20191110164209
+37.44.252.254 1 1 0 20191121135829
+195.154.61.206 1 1 0 20191111153838
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20191104 1 1 0 1
+20191105 3 3 0 2
+20191109 1 1 0 1
+20191110 6 6 389 4
+20191111 3 3 0 3
+20191113 1 1 0 1
+20191114 1 1 0 1
+20191115 1 1 0 1
+20191118 2 2 0 1
+20191121 1 1 0 1
+20191123 3 3 0 2
+20191125 1 1 0 1
+20191126 2 2 0 1
+20191128 2 2 0 1
+20191129 2 2 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 21
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 25 0 19 19
+/.well-known/acme-challenge/Mtm97rFAnkXjDMX8ifemIjKHlO6vWJrSG5y7yWqlWBQ 2 174 2 1
+/.well-known/acme-challenge/HE1QCHEQIRK76LXW0R75Q_5C25HKDRYS 1 64 0 1
+/.well-known/acme-challenge/M6T_A7UN7-P4VV7KBE9PY9AZWNUFDPYI 1 64 1 0
+/.well-known/acme-challenge/9hz4EyR9pDEtT3uyzhADHDTSi85IH0dDnWfPX4Zd43I 1 87 0 1
+END_SIDER

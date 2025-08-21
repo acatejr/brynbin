@@ -1,0 +1,936 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2699                
+POS_VISITOR 16057               
+POS_DAY 22867               
+POS_DOMAIN 3556                
+POS_LOGIN 3958                
+POS_ROBOT 4113                
+POS_WORMS 4860                
+POS_EMAILSENDER 4991                
+POS_EMAILRECEIVER 5134                
+POS_SESSION 23716               
+POS_SIDER 23929               
+POS_FILETYPES 5269                
+POS_DOWNLOADS 5548                
+POS_OS 5777                
+POS_BROWSER 6315                
+POS_SCREENSIZE 7859                
+POS_UNKNOWNREFERER 7933                
+POS_UNKNOWNREFERERBROWSER 8990                
+POS_ORIGIN 9675                
+POS_SEREFERRALS 9825                
+POS_PAGEREFS 10009               
+POS_SEARCHWORDS 10446               
+POS_KEYWORDS 10598               
+POS_MISC 2362                
+POS_ERRORS 10657               
+POS_CLUSTER 3814                
+POS_SIDER_404 10860               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501001144 171 39304 12105407745061
+FirstTime 20230401000543
+LastTime 20230430084938
+LastUpdate 20230501063016 171 0 170 0 0
+TotalVisits 385                 
+TotalUnique 168                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 172                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 81 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 32 33 182685 120 222 93573
+1 20 53 459914 24 47 53125
+2 86 136 131402 48 72 41599
+3 104 205 166942 36 54 92910
+4 127 196 291583 105 123 183292
+5 94 120 483834 30 48 102079
+6 90 90 126683 24 46 52821
+7 417 1143 12596643 1608 2713 19321055
+8 360 694 116648956 159 289 1644669
+9 261 373 1925870 123 140 74950
+10 31 35 89554 28 53 74253
+11 57 118 489882 41 57 62003
+12 250 368 1467390 81 94 17054
+13 153 154 152283 76 80 1935
+14 94 407 15403120 27 37 106551
+15 26 100 546315 34 60 3189
+16 133 156 213074 45 74 97856
+17 36 89 490708 27 41 97109
+18 178 221 738849 60 77 96068
+19 74 196 1319165 40 63 6151337
+20 125 127 119274 38 59 50122
+21 63 123 447100 45 66 1724904
+22 139 182 153203 49 98 1768630
+23 240 307 496982 55 109 5521822
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 3054 5354 153093959
+cn 92 201 1042576
+ca 11 13 371484
+ch 7 7 0
+gb 5 30 358720
+ua 5 5 33894
+de 4 4 123292
+jp 3 3 36610
+be 2 2 23566
+in 2 2 17658
+au 2 2 30823
+tr 1 1 0
+nl 1 1 0
+fr 1 1 8829
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+spider 1980 20716864 20230430073752 0
+Googlebot/ 164 529390 20230429082132 0
+bingbot/ 130 355223 20230429002721 0
+YandexBot/ 25 220725 20230430193035 0
+no_user_agent 22 533336 20230430084934 0
+unknown 13 286 20230428071742 13
+Go\-http\-client/ 12 84117 20230427155738 0
+Googlebot\-Image/ 9 14670526 20230430235344 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 12628 20230417180914 0
+archive\.org_bot 1 11784 20230418114753 0
+fetcher 1 8829 20230414163529 0
+Feedfetcher\-Google 1 11792 20230418114715 0
+bot[\s_+:,\.\;\/\\-] 1 8829 20230426000418 0
+Googlebot\-Mobile/ 1 11784 20230417180915 0
+Applebot/ 1 8826 20230403053712 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff 5 70112 0 0
+php 1329 120912873 0 0
+gif 42 326960 0 0
+js 971 4891974 0 0
+png 166 9118191 0 0
+css 1195 1687990 0 0
+jpg 55 11973680 0 0
+Unknown 105 18444 0 0
+svg 7 11137 0 0
+html 1750 6118257 0 0
+env 1 11793 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+//wp-content/plugins/gallery-by-supsystic/readme.txt 19 0 1125218
+//wp-content/plugins/lightbox/readme.txt 19 0 305653
+//wp-content/plugins/easy-social-icons/readme.txt 19 0 151278
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 34
+sunos 1 0
+win10 2567 2013
+ios_ipad 1 0
+ios_iphone 71 9
+macosx 1 1
+linuxubuntu 7 5
+symbian 1 0
+macosx11 4 4
+win7 935 191
+androidkitkat 1 1
+unix 53 9
+androidgingerbread 1 1
+macosx8 1 0
+androidnougat 2 0
+android10 1 0
+androideclair 1 0
+Unknown 627 626
+androidfroyo 3 3
+winvista 1 1
+android 44 8
+win8 6 4
+macintosh 1 0
+macosx10 4 4
+macosx15 841 232
+winxp 1 1
+androidpie 2 1
+win8.1 2 2
+winnt 1 1
+macosx12 1 0
+linux 422 61
+os/2 1 0
+j2me 1 0
+androidmarshmallow 15 8
+macosx14 5 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 74
+firefox112.0 483 166
+chrome101.0.4951.41 1 0
+safari15.3 1 0
+firefox102.0 8 8
+firefox47.0 4 4
+chrome44.0.2403.155 1 1
+chrome110.0.5481.177 27 2
+chrome45.0.2454.85 2 2
+chrome99.0.4844.94 1 0
+chrome99.0.4844.74 1 0
+firefox68.0 5 5
+opera9.60 1 0
+chrome74.0.3729.169 8 8
+chrome52.0.7589.98 4 4
+msie9.0 919 180
+firefox49.0 1 0
+chrome111.0.0.0 408 67
+chrome100.0.4896.127 1 0
+firefox45.0 1 0
+iphone 27 2
+chrome92.0.4515.162 1 0
+opera85.0.4341.79 1 0
+opera85.0.4341.22 1 0
+chrome96.0.4664.45 2 0
+wap 1 0
+chrome27.0.1500.55 1 1
+chrome101.0.4951.61 3 2
+safari16.2 8 3
+chrome79.0.3945.79 152 21
+msie11.0 187 84
+chrome37.0.2062.124 2 2
+chrome88.0.4324.150 1 0
+chrome111.0.5563.146 3 2
+chrome91.0.4472.114 1 1
+chrome101.0.4951.54 1 0
+chrome36.0.1985.67 3 3
+seamonkey 1 0
+msie5.15 1 0
+chrome90.0.4430.85 1880 1880
+safari11.0 34 4
+chrome98.0.4758.101 2 0
+chrome53.0.2785.124 1 0
+chrome34.0.1847.137 1 1
+netscape4.72 1 1
+chrome41.0.2225.0 1 1
+chrome103.0.5060.114 6 2
+chrome42.0.2311.90 2 2
+chrome112.0.0.0 133 12
+chrome80.0.3987.87 1 0
+mozilla 12 12
+chrome111.0.5563.64 239 26
+opera97.0.0.0 68 2
+chrome112.0.5615.121 116 20
+android 6 5
+chrome60.0.3112.78 1 0
+firefox111.0 177 24
+Unknown 615 615
+firefox63.0 1 0
+chrome41.0.2226.0 1 1
+firefox66.0 1 1
+chrome106.0.0.0 11 4
+chrome26.0.1410.63 1 0
+chrome42.0.2545 1 1
+chrome60.0.3112.107 1 0
+safari 2 0
+firefox83.0 2 2
+nokia 1 0
+epiphany 1 0
+firefox67.0 1 1
+chrome75.0.3770.100 1 1
+edge12 1 0
+chrome112.0.5614.0 27 2
+opera20.0.1387.91 1 0
+chrome74.0.3729.157 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Cpanel-HTTP-Client/1.0 20230413163602
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230428231324
+Mozilliqa'<?=print(9347655345-4954366);?>' 20230427110313
+POLARIS/6.01_(BREW_3.1.5;_U;_en-us;_LG;_LX265;_POLARIS/6.01/WAP)_MMP/2.0_profile/MIDP-2.1_Configuration/CLDC-1.1 20230418114715
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230428143516
+Mozilliqa'_print(9347655345-4954366)_' 20230427110313
+Mozilliqa'{${print(9347655345-4954366)}}' 20230427110313
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230423105509
+Mozilliqa\ 20230427110313
+WordPress/6.1.1;_https://brynbailer.com 20230430084938
+Mozilla/5.0_(compatible;_ips-agent) 20230403000411
+ALittle_Client 20230424085634
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Mozilliqa'<?=print(9347655345-4954366);?>' 20230427110313
+WordPress/6.1.1;_https://brynbailer.com 20230430084938
+Cpanel-HTTP-Client/1.0 20230413163602
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230428231324
+Mozilliqa\ 20230427110313
+Mozilliqa'{${print(9347655345-4954366)}}' 20230427110313
+ALittle_Client 20230424085634
+Mozilliqa'_print(9347655345-4954366)_' 20230427110313
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 257 298
+From1 1881 1881
+From2 199 907
+From3 4 11
+From4 849 2529
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_bing_com 4 4
+www_google_com 195 903
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://cpanel.brynbailer.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+http://m.facebook.com 1 1
+https://cpanel.brynbailer.com 0 3
+https://cpanel.brynbailer.com/cPanel_magic_revision_1523384816/unprotected/cpanel/style_v2_optimized.css 0 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+403 2 268
+401 108 6087
+406 426 96276
+404 1115 114
+302 56 0
+301 238 952
+409 55 9921
+308 9 885
+500 150 0
+400 99 4374
+405 20 840
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 133
+/admin/.env 1 https://www.google.com/
+/wp-content/plugins/reviewx/README.txt 1 -
+/wp-content/plugins/elementor-pro/changelog.txt 11 www.google.com
+/admin/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/assets/global/plugins/jquery_uploader/server/php/index.php 1 -
+/public/assets/plugins/plupload/examples/upload.php 1 -
+/s/8393e22323e20363e25343/_/ 2 -
+/wp-content/uploads/2020/12/images/index.php 1 -
+/Public/home/js/check.js 19 -
+/site/rindex.php 1 -
+/static/admin/javascript/hetong.js 19 -
+/login.action 5 -
+/wp-login.p 1 -
+/wp-login.ph 1 -
+/wp-content/plugins/elementor-pro/assets/js/custom-code.js 6 -
+/wp-content/uploads/2020/11/images/index.php 1 -
+/.well-known/security.txt 12 -
+/api/search 5 -
+/debug/default/view 5 -
+/author/admin/ 1 -
+/wp-content/themes/wpclassic/style.css 1 -
+/yuuki 1 -
+/a-feast-for-the-eyes-extraordinarily-beautiful-sinfully-delicious-indulge-in-these-decadent-desserts/ 1 -
+/wp-content/plugins/wp-pinterest-automatic/changelog 1 -
+/wp-plain.php 4 www.google.com
+/web 2 -
+/info.php 5 -
+/wp-content/plugins/armember/js/arm_widgets_js.js 1 -
+/blog 2 -
+/bc 4 http://brynbailer.com/bc
+/new 6 http://brynbailer.com/new
+/wp/wp-content/themes/sketch/404.php 1 www.google.com
+/s/8393e23323e20363e25343/_/ 1 -
+/wp-content/plugins/cach/coment/index.php 1 -
+/admin/assets/plugins/plupload/examples/upload.php 1 -
+/home 6 http://brynbailer.com/home
+/components/com_acym/controllers/index.html 2 -
+/wp-content/plugins/wp-automatic/changelog 1 -
+/rindex.php 1 -
+/humans.txt 3 http://brynbailer.com/humans.txt
+/%5c%22https:%5c/%5c/en.wikipedia.org%5c/wiki%5c/Exchangeable_image_file_format%5c%22 30 http://www.google.com/url
+/wp-sitemap-posts-post-1.xml 6 -
+/assets/js/jquery_uploader/server/php/index.php 1 -
+/wp-admin/css/colors/sunrise/%20 25 binance.com
+/theme/assets/plugins/jquery_uploader/server/php/index.php 1 -
+/sitemap.xml 2 -
+/wp-content/plugins/elementor-pro/assets/css/frontend-rtl.min.css 3 -
+/wp-includes/js/mediaelement/renderers/index.php 1 -
+/assets/global/plugins/plupload/examples/upload.php 1 -
+/testing 2 -
+/34-2/ 1 -
+/admin/assets/jquery_uploader/server/php/index.php 1 -
+/%5c%22https:%5c/%5c/brynbailer.com%5c/ 390 -
+/ads.txt 3 http://brynbailer.com/ads.txt
+/articles/ 2 -
+/.DS_Store 5 -
+/photos/ 2 -
+/test 2 -
+/index.php 1 -
+/admin 1 -
+/sftp-config.json 3 -
+/wp-content/languages/ 25 binance.com
+/bk 4 http://brynbailer.com/bk
+/wp-content/uploads/2016/08/vvvvTayte-Clark.Painted-Flower.jpg 1 -
+/dev 2 -
+/assets/admin/plugins/plupload/examples/upload.php 1 -
+/tag/dessert/ 1 -
+/wp-content/themes/seotheme/db.php 7 www.google.com
+/v2/_catalog 5 -
+/login 1 -
+/24-2/ 1 -
+/wp-content/updates.php 1 www.google.com
+//wp-content/plugins/wp-file-manager/readme.txt 38 -
+/category/writing-samples/ 3 -
+/wp-content/wso112233.php 2 www.google.com
+/wp/rindex.php 1 -
+/wp-content/plugins/wpgateway/css/style.css 1 -
+/wp 6 http://brynbailer.com/wp
+/admin/assets/global/plugins/jquery_uploader/server/php/index.php 1 -
+/login/ 2 -
+/bio/ 1 -
+/js/mage/cookies.js 1 -
+/wp-content/uploads/2020/09/themes/index.php 1 -
+/demo 2 -
+/feed/ 7 -
+/wp-content/plugins/incache/front/incache.jpeg 1 -
+/in-the-mass-transit-world-time-waits-for-no-man-even-for-the-head-of-pragues-public-transportation-kingdom/ 1 -
+/test-page/ 5 -
+/wordpress/rindex.php 1 -
+/wp-content/plugins/wp-user-avatar/changelog.txt 1 -
+/wp-includes/js/mediaelement/index.php 1 -
+/_profiler/phpinfo 1 -
+/robots.txt 141 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+/config.json 5 -
+/wp-content/plugins/quadmenu/assets/frontend/js/quadmenu.js 2 -
+/blog/rindex.php 1 -
+/portal 2 -
+/wp-content/plugins/armember/documentation/index.html 1 -
+/ 1 -
+/wp-content/plugins/task-controller/index.php 1 -
+/32-2/ 1 -
+/cms 2 -
+/%5c%22https:%5c/%5c/brynbailer.com%5c/%5c%22 30 -
+/26-2/ 1 -
+/assets/backend/plugins/jquery_uploader/server/php/index.php 1 -
+/complete-order/ 1 -
+/public/assets/jquery_uploader/server/php/index.php 1 -
+/main 6 http://brynbailer.com/main
+/wp-content/plugins/elementor-pro/assets/js/preview.min.js 2 www.brynbailer.com
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 5 -
+/cleaning-up-reno-by-cracking-down-on-low-budget-motels/ 1 -
+/assets/plugins/plupload/examples/upload.php 1 -
+/304/ 1 http://www.brynbailer.com/304/
+/category/testimonials/ 2 -
+/s/8393e28393e20363e25343/_/ 2 -
+/site 2 -
+/assets/admin/plugins/jquery_uploader/server/php/index.php 1 -
+/.vscode/sftp.json 8 -
+/th1s_1s_a_4o4.html 60 -
+/server-status 5 -
+/wp-includes/id3/license.txt/feed/ 18 -
+/public/plugins/plupload/examples/upload.php 1 -
+/wp-content/plugins/woocommerce-payments/changelog.txt 7 www.google.com
+/backup 6 http://brynbailer.com/backup
+/contact-2/ 1 -
+/contact/ 1 -
+/old 6 http://brynbailer.com/old
+/newsite 2 -
+/wp-includes/js/%20 25 binance.com
+/about 5 -
+/wordpress/wp-content/plugins/wp-task-scheduler/scheduler.php 1 -
+/telescope/requests 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 172
+67.222.39.71 593 593 653326 20230430084938
+20.118.164.38 152 152 101090 20230409200447
+20.150.207.153 150 150 96017 20230428134040
+70.172.29.117 148 447 115895201 20230428081810
+184.178.196.211 84 394 16613992 20230427075320
+52.188.175.198 76 76 50546 20230413092436
+20.124.241.69 76 76 50548 20230415060631
+20.84.65.224 76 76 50548 20230411075152
+74.235.140.0 76 76 50541 20230410075947
+20.224.19.207 76 76 50546 20230414040143
+20.14.80.24 76 76 50548 20230411130448
+20.110.118.172 76 76 50552 20230401091040
+20.51.230.27 76 76 50545 20230419234958
+20.172.235.222 76 76 50551 20230401183236
+20.235.110.108 76 76 50549 20230404121459
+20.80.252.39 76 76 50545 20230417055957
+20.163.8.252 76 76 50544 20230411024215
+20.198.118.83 74 74 45472 20230419230842
+20.169.108.218 74 74 45472 20230421082219
+20.14.138.191 74 74 45472 20230406234530
+20.1.129.253 74 74 45471 20230404230212
+20.55.20.174 74 74 45472 20230423203201
+137.135.65.200 74 74 45472 20230406041825
+20.40.51.187 74 74 45472 20230429124706
+20.235.78.54 74 74 45473 20230403084829
+205.169.39.236 2 3 8851 20230416033959
+139.59.125.19 1 1 0 20230430073206
+50.19.1.99 1 1 11788 20230414163655
+183.66.14.34 2 3 8851 20230427124401
+128.90.144.128 2 2 0 20230411032313
+209.141.57.231 9 9 106645 20230427062020
+205.210.31.223 1 1 36679 20230421180158
+113.205.162.222 2 3 8851 20230427120705
+107.158.51.133 1 1 0 20230405204220
+198.235.24.230 1 1 36691 20230425022800
+70.185.59.83 2 7 8851 20230422191910
+162.142.125.214 1 1 11787 20230410112154
+183.66.209.94 2 3 8851 20230427122541
+88.230.8.196 1 1 0 20230421143351
+183.69.244.30 2 3 8851 20230427120408
+34.228.54.231 1 19 169241 20230418114701
+65.154.226.166 7 59 424479 20230430041024
+221.178.51.119 2 3 8851 20230427122410
+220.174.189.134 2 3 8851 20230427115221
+205.169.39.63 2 3 8848 20230403012807
+152.89.196.13 5 5 0 20230401085749
+91.237.124.234 4 4 33894 20230417235434
+110.191.138.84 2 3 8851 20230427125640
+45.138.16.232 2 2 17658 20230414172249
+209.141.37.59 2 2 23557 20230427143946
+172.241.146.102 1 1 8118 20230413065803
+139.162.7.175 1 1 0 20230406155628
+183.66.197.90 2 3 8851 20230427124000
+119.84.7.16 2 3 8851 20230427122321
+167.248.133.188 1 1 11781 20230414111010
+184.154.139.23 6 26 388394 20230425073347
+66.94.107.177 2 27 289790 20230411144252
+106.86.176.94 2 3 8851 20230427121005
+119.84.7.28 2 3 8851 20230418171527
+110.187.120.33 1 2 8829 20230418171039
+172.241.153.37 1 1 8829 20230413065759
+106.86.209.162 2 3 8851 20230427122051
+34.125.235.117 1 1 8826 20230402221555
+205.210.31.174 1 1 36679 20230427141708
+198.235.24.90 1 1 36679 20230425123708
+65.154.226.169 14 134 463737 20230424011438
+221.178.54.173 2 3 8851 20230427122054
+47.254.74.59 0 1 11800 
+205.210.31.31 1 1 36691 20230421074350
+184.154.36.170 6 37 349260 20230403073818
+20.187.120.249 1 1 8829 20230419175522
+47.89.193.239 0 1 11801 
+87.236.176.185 1 1 11777 20230423105509
+65.154.226.167 10 48 44252 20230427195754
+87.236.176.42 1 1 11789 20230409161224
+171.208.21.40 1 2 8829 20230427115810
+139.59.182.142 1 1 30823 20230414042720
+222.180.150.42 1 6 8829 20230427114302
+162.142.125.224 1 1 11784 20230419010230
+183.66.15.18 2 27 8851 20230427045520
+69.244.53.6 3 28 59649 20230407115951
+205.169.39.218 2 27 8851 20230412154801
+178.208.160.109 2 2 0 20230408115920
+192.119.87.163 1 1 8829 20230408155415
+183.66.15.66 1 2 8829 20230428120506
+221.178.95.66 2 3 8851 20230428120429
+183.66.220.46 2 3 8851 20230428115511
+72.13.62.27 3 3 28253 20230403000411
+205.210.31.245 1 1 36691 20230428231324
+142.93.64.15 1 1 30823 20230425045038
+118.122.205.134 2 3 8851 20230427121534
+174.205.44.111 2 27 24411 20230408220422
+65.154.226.171 11 60 53081 20230425043620
+171.91.57.85 2 3 8851 20230427115211
+205.169.39.71 2 3 8851 20230414002227
+65.154.226.170 4 54 17702 20230427194158
+20.219.11.10 1 1 14933 20230404035006
+133.242.174.119 1 1 12211 20230414183530
+47.88.94.159 1 2 23584 20230415150813
+184.154.139.15 24 111 1676819 20230428073324
+128.199.31.216 2 2 23577 20230416161030
+164.90.222.93 1 1 30823 20230425045040
+111.113.7.50 1 1 8829 20230428113354
+222.181.137.174 2 27 390343 20230418170428
+14.105.176.174 2 3 8851 20230418172141
+111.113.212.127 0 1 0 
+118.120.7.59 2 3 8851 20230427122804
+125.67.35.198 2 3 8851 20230427123839
+128.90.141.29 2 2 0 20230428011919
+205.169.39.103 2 3 8848 20230403012822
+205.169.39.122 2 14 205206 20230415092347
+219.152.161.164 2 3 8851 20230427120425
+61.161.111.96 2 3 8851 20230427115216
+183.136.225.44 2 2 73370 20230422081552
+110.187.115.24 2 3 8851 20230427122053
+174.73.210.30 2 27 205206 20230423195009
+184.154.76.13 48 277 3422026 20230424074005
+184.154.139.16 24 124 1514442 20230429073414
+64.227.30.80 1 1 0 20230412103737
+74.207.237.46 1 1 30823 20230414042718
+98.249.71.29 2 68 1018071 20230418122053
+198.235.24.128 1 1 36691 20230411110004
+124.225.105.146 2 3 8851 20230427105604
+183.66.48.42 2 3 8851 20230418165041
+183.66.241.58 1 2 8829 20230428103600
+183.64.84.234 2 3 8851 20230427120128
+183.67.2.86 0 1 0 
+152.89.196.77 2 2 0 20230422102145
+192.64.4.18 2 2 0 20230424135749
+47.242.105.176 1 1 11789 20230415003820
+162.142.125.13 2 2 23571 20230426095118
+198.235.24.122 1 1 36691 20230418133455
+219.151.140.9 2 7 8851 20230428112753
+172.56.80.134 2 4 8851 20230413201018
+113.250.89.244 2 3 8851 20230427121743
+168.119.233.229 1 1 0 20230425082852
+133.242.140.127 1 1 12198 20230414183536
+195.154.61.123 1 1 8829 20230427041723
+218.70.28.234 1 1 8829 20230428122242
+199.195.253.105 9 9 106610 20230427110313
+221.178.95.45 2 3 8851 20230427133850
+218.70.18.154 1 2 8829 20230427123231
+183.66.203.254 2 3 8851 20230427115904
+194.34.132.57 1 26 335143 20230411091109
+194.38.20.254 2 2 61646 20230424085634
+205.169.39.246 4 30 17702 20230426142451
+184.182.16.121 24 249 1865420 20230425021925
+113.206.69.205 2 3 8851 20230427050718
+171.89.3.138 2 3 8851 20230427105948
+183.136.225.45 1 1 36679 20230426164653
+20.62.46.182 74 74 45472 20230425220317
+222.75.145.90 2 3 8851 20230427124924
+171.13.14.26 4 11 107374 20230403093837
+184.154.139.26 18 86 1385630 20230430073742
+14.108.235.91 2 3 8851 20230427122645
+3.139.107.143 2 27 205206 20230417233610
+67.206.163.230 3 24 17680 20230427165548
+167.94.138.52 1 1 11775 20230428143516
+110.191.134.84 2 3 8851 20230428103407
+194.38.23.179 2 2 61646 20230421092554
+47.254.85.182 1 2 23580 20230415150813
+166.194.143.64 1 1 8829 20230427171854
+222.179.225.46 2 3 8851 20230427121936
+101.68.211.2 1 1 36691 20230402072255
+39.110.218.101 1 1 12201 20230414163643
+198.20.67.197 19 96 1361090 20230417084706
+205.169.39.125 2 27 8848 20230402034104
+205.169.39.253 5 45 26531 20230430033926
+91.244.12.175 1 1 0 20230405142111
+18.188.194.231 1 19 180120 20230417180840
+64.69.216.78 4 34 406802 20230415053800
+184.154.139.14 36 162 2344001 20230426073628
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20230401 185 201 468601 10
+20230402 34 122 457159 13
+20230403 114 179 970157 13
+20230404 281 414 1642349 14
+20230405 92 347 15367476 9
+20230406 184 249 1206057 11
+20230407 31 86 818160 8
+20230408 35 85 501441 12
+20230409 106 166 506939 12
+20230410 108 200 1514779 8
+20230411 265 332 1228657 16
+20230412 31 86 424318 8
+20230413 114 196 826467 13
+20230414 112 130 631419 16
+20230415 102 173 1142348 12
+20230416 21 64 447405 7
+20230417 102 175 1071799 8
+20230418 35 187 2165242 18
+20230419 173 199 576174 10
+20230420 28 63 406148 7
+20230421 188 262 1048380 17
+20230422 25 61 491305 12
+20230423 110 204 703889 12
+20230424 28 61 502458 11
+20230425 105 151 624905 15
+20230426 19 88 463403 9
+20230427 166 322 1565804 53
+20230428 280 621 116466392 18
+20230429 98 128 486877 6
+20230430 18 74 414903 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 15
+5mn-15mn 31
+2mn-5mn 10
+15mn-30mn 20
+30mn-1h 37
+0s-30s 238
+30s-2mn 34
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 189
+/wp-cron.php 357 0 146 112
+/ 342 4856000 194 98
+/index.php 214 9673608 2 45
+/wp-admin/admin-ajax.php 213 108356750 0 88
+/wp-login.php 52 132665 1 0
+/wp-admin/css/ 50 88650 25 0
+/wp-includes/sitemaps/providers/ 50 22400 0 0
+/wp-includes/PHPMailer/ 50 20450 0 0
+/wp-includes/sitemaps/ 50 25400 0 0
+/wp-includes/pomo/ 50 23200 0 0
+/wp-includes/Text/ 50 19200 0 0
+/wp-includes/ 50 234050 0 0
+/wp-includes/Text/Diff/ 50 20250 0 0
+/wp-includes/widgets/ 50 36150 0 0
+/wp-includes/Text/Diff/Renderer/ 50 18400 0 0
+/wp-includes/IXR/ 50 28950 0 0
+/wp-includes/Text/Diff/Engine/ 50 23550 0 0
+/wp-admin/maint/ 50 17750 0 0
+/wp-includes/ID3/ 50 36700 0 0
+/wp-admin/includes/ 50 110800 0 0
+/wp-admin/images/ 25 44400 0 0
+/wp-includes/https-migration.php 25 0 0 0
+/wp-includes/css/ 25 26475 0 0
+/wp-admin/js/ 25 50275 0 0
+/wp-content/uploads/2023/03/ 25 8075 0 0
+/.well-known/acme-challenge/IZPQ_A_U1NDZKGEACS79GK8CV7TBOS94 1 64 0 0
+/.well-known/acme-challenge/8DHSOU7QL25X5JB_5GBC69565TR244EI 1 64 0 1
+// 2 23557 2 2
+/.well-known/acme-challenge/G-RYDFKQNEZZBDVWQ02GR9Y35673LDY0 1 64 0 0
+/wp-admin/load-styles.php 9 1252876 0 0
+/.well-known/acme-challenge/93RHCI1X-W83TPKZYXZ5GK5P6RGCORM7 1 64 0 0
+/.well-known/acme-challenge/FYE46-W4UVUO5WSW2L8RWRELBR50GCTD 1 64 1 0
+/.well-known/acme-challenge/LYPIU72WI6AT87AXCOM5Z6AWRL3EU_BQ 1 64 0 1
+/.well-known/acme-challenge/A4BPHDKZKKZ4VG92PSDJEVAPXUGSJVY1 1 64 0 0
+/.well-known/acme-challenge/LDKZ3YWAYNGKSAFRKIBP_YNTEXUNXIPG 1 64 0 0
+/.well-known/acme-challenge/ZSWITNIR2BBU01DY865R0GHB6C1_V6W3 1 64 0 0
+/.well-known/acme-challenge/4KZ_ARFBWPUKKE467KDX3BJODH5WLYB2 1 64 0 0
+/.well-known/acme-challenge/8-NXJGAMKQ9TGV4WOKQGBEBODPW_09KE 1 64 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 1 22432 0 1
+/.well-known/acme-challenge/T-3R733T8RGCYC7U0XETQU21KQ6M0NH5 1 64 0 0
+/wp-admin/plugins.php 6 337504 0 0
+/.well-known/acme-challenge/GUFKTCT9O9XUI3PAK3FY6YMW859E8W4T 1 64 0 0
+/.well-known/acme-challenge/0HL52LWN5SN9XY12JHIBD_WSGN0KG1CV 1 64 0 0
+/.well-known/acme-challenge/OMUVL3C9WHANTCO8Q8PGYFUKLHL8XDNU 1 64 0 0
+/.well-known/acme-challenge/FXUH_-9-CZGORXAXY00V72PSQO3QMLG3 1 64 0 0
+/.well-known/acme-challenge/_0_AG_1BLE87I8WZB1FX9MVV0D8STR3B 1 64 0 1
+/.well-known/acme-challenge/AV2STQC08IZSSAKXNTSCDMN3QEB6JQBW 1 64 0 0
+/.well-known/acme-challenge/8H2NKOFIRUUD5AH58PT-ZNQ3DZY2IOD- 1 64 0 0
+/.well-known/acme-challenge/-Y4TU6WAXT5ROLWOW8J1WEB91TB6SRX6 1 64 0 0
+/.well-known/acme-challenge/JLEPPKICRIMQG63_S0CLNPJ86JGQHTEY 1 64 0 0
+/.well-known/acme-challenge/G2NANSHHPIGNNXQ5JSSJC8T1YS6O3WNR 1 64 0 0
+/wp-includes/block-editor.php 25 0 0 0
+/wp-includes/images/wlw/ 25 10525 0 0
+/.well-known/acme-challenge/5BAY11JRCJ6CTVWL5OTUTCNYS20WKBQU 1 64 0 0
+/wp-includes/css/dist/ 25 15250 0 0
+/.well-known/acme-challenge/Q2ZLJF9JLAR9K3_CM6O-6SKTV3-AMPLH 1 64 0 0
+/wp-content/upgrade/ 25 7875 0 0
+/.well-known/acme-challenge/Q6EA28CWSWA47MX1GATLGG8GD_DKIA43 1 64 0 0
+/.well-known/acme-challenge/M2W76YM0ZC4FW2750J9X2IS-J8G0XNOW 1 64 0 0
+/wp-admin/css/colors/coffee/ 25 11050 0 0
+/.well-known/acme-challenge/J2JJBGH7AHZLCHNFYEMK9O04250L-2BR 1 64 0 0
+/wp-includes/class-wp-theme-json-data.php 25 0 0 0
+/wp-includes/class-wp-theme-json-schema.php 25 0 0 0
+/.well-known/acme-challenge/M5S1QOVCAEVVY50A_SN8YZ-JUGP_FDYS 1 64 0 0
+/.well-known/acme-challenge/G1FT4J0JCZ7QBPFSWRYJO_PRM8_45UCH 1 64 0 1
+/.well-known/acme-challenge/4R3WDSAERVMM331W7IO_Z69MZ3M9KW0C 1 64 0 0
+/.well-known/acme-challenge/5-5UHTDUH8JU64RJY9EH2ULQ3Q175KB8 1 64 0 0
+/.env 1 11793 1 0
+/.well-known/acme-challenge/M_-XDAP0-VZACCCW256DFFTOZE5CEY4P 1 64 0 0
+/wp-includes/theme-templates.php 25 0 0 0
+/.well-known/acme-challenge/KPCTK729RIO6PB5L5BVUKI1J9VTKJ-VN 1 64 1 0
+/.well-known/acme-challenge/88SCFLZHV98GTIZB31_MKZKR53G3PPOF 1 64 0 0
+/wp-admin/load-scripts.php 6 432655 0 0
+/.well-known/acme-challenge/C53OFOSH79903A0-M3GOWD9VYFWY0MJX 1 64 0 1
+/.well-known/acme-challenge/L1PIOHBUAW-ZPXT2TC537-YY3N8RH6OO 1 64 0 0
+/wp-includes/images/crystal/ 25 14450 0 0
+/.well-known/acme-challenge/GA2352GR_73ZNJ0AXJ_UL6EX9GCIRVTO 1 64 0 0
+/wp-admin/css/colors/light/ 25 10675 0 0
+/wp-admin/ 2 101901 0 0
+/.well-known/acme-challenge/5QXW5DQVZRGLK-I8T2JFTN07YKW9S9-- 1 64 0 0
+/.well-known/acme-challenge/EPWGV_4PJI5TIHSITAQD3LTA0ZHJF83U 1 64 0 1
+/wp-includes/class-wp-textdomain-registry.php 25 0 0 0
+/.well-known/acme-challenge/4OJ5O-_2AKKGNKW953X3PRL-FQ0J4AI- 1 64 0 0
+/.well-known/acme-challenge/-70O-DIDHB_TFGDD5CFHLCOQB9HHLGP_ 1 64 0 0
+/.well-known/acme-challenge/-UGLGOHS072ANDJHT03Q9-T9-IOROM36 1 64 0 0
+/wp-admin/css/colors/blue/ 25 10800 0 0
+/.well-known/acme-challenge/18G0JO4QV1K80W3WLN81FDEANRDTSX7Y 1 64 0 0
+/wp-includes/class-wp-theme-json.php 25 0 0 0
+/.well-known/acme-challenge/5R6D19G3X5ONAASS_BPO1JAVL38BQ7QE 1 64 0 0
+/wp-admin/css/colors/modern/ 25 10725 0 0
+/.well-known/acme-challenge/-MQ8R_IR_RKYDA490YG17D0G4HC3RBEM 1 64 0 0
+/.well-known/acme-challenge/VXE99TDCN-ELH7R7X33LSP-7LY8NFB5M 1 64 0 0
+/wp-admin/options-general.php 2 192767 0 0
+/.well-known/acme-challenge/XLV14LU4VLR982MP4XZ4OLL9FM49OHEE 1 64 0 0
+/wp-admin/admin.php 8 20889 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 2 2112 0 0
+/.well-known/acme-challenge/AA9BKMFL4HTA-0KEATBWY2X-RFZT5LH7 1 64 0 0
+/.well-known/acme-challenge/B7ZVJN675UVCBFU9TRV4AS3TI5J-ZS3R 1 64 0 0
+/.well-known/acme-challenge/OGMCU5EN6JFTXXT7PY_CAXJV8XB2DR0D 1 64 0 0
+/.well-known/acme-challenge/P-FE2XY0XG169_E6CO7GGVPUV88DG8EI 1 64 0 0
+/.well-known/acme-challenge/WV_L8THW0OCHB7IYFUA_ZJQ4XUUNMOBB 1 64 0 0
+/wp-includes/js/codemirror/ 25 12825 0 0
+/wp-admin/css/colors/ocean/ 25 11050 0 0
+/wp-admin/plugin-install.php 3 224322 0 0
+/wp-includes/images/media/ 25 13000 0 0
+/wp-admin/index.php 2 103390 0 0
+/.well-known/acme-challenge/2725FBXC5WR1D2-DN276QMU1PGRZ6VB9 1 64 0 0
+/.well-known/acme-challenge/7WDCZDHU_2WP8_RX5GGTADYICBQSMD_S 1 64 0 1
+/.well-known/acme-challenge/0SWO8M-WBP1TEWH836KT27X2CAQBGGDN 1 64 0 0
+/.well-known/acme-challenge/C3UEZQK3G1P6T1XTWS9AUFPCAMNG7YQI 1 64 1 0
+/wp-includes/js/plupload/ 25 13625 0 0
+/.well-known/acme-challenge/TA9CDPHCH6Y1W8OSUTXI7MABITZV5523 1 64 0 1
+/wp-content/uploads/ 25 14925 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/.well-known/acme-challenge/XHWVOXN9T3Q7Z5W-RW701QSO0ZZQBN3C 1 64 0 0
+/.well-known/acme-challenge/J5EZIM5GOC99-3M83OMJW83KJE4W1Z0B 1 64 0 0
+/wp-includes/style-engine.php 25 0 0 0
+/.well-known/acme-challenge/AZ3ZE4YDAUDMAQG_2CVUYDQU4VZF2R5D 1 64 0 0
+/.well-known/acme-challenge/YZT6H4IU0F-P62-GQ_8_URLR0AMA19AT 1 64 0 0
+/.well-known/acme-challenge/EKRE039RLIULLPPMVWEWJRZWKQ2MA8S0 1 64 0 1
+/.well-known/acme-challenge/O1BH0-SBCB1P5A3BG5CVYELON3BGRWDQ 1 64 1 0
+/.well-known/acme-challenge/CATAC69A8T1L8KXOBEN_GNCTNOXRSRZ1 1 64 0 0
+/.well-known/acme-challenge/HFIJXPOXT6E50TV8SK6-PB3N-EHP54H8 1 64 0 0
+/wp-includes/images/smilies/ 25 19925 0 0
+/wordpress/ 4 0 4 0
+/wp-admin/update-core.php 3 125074 0 0
+/wp-content/uploads/2023/02/ 1 323 0 0
+/.well-known/acme-challenge/BN22RWMJ6M8HV74HA2JF2C6908P14ZTO 1 64 0 0
+/.well-known/acme-challenge/XTDQGZ922E12CD_S5JA6UGDBOE-HP4_Y 1 64 0 0
+/wp-includes/class-wp-block-template.php 25 0 0 0
+/.well-known/acme-challenge/-F1GF7UOW5QOR_SHLCQ_725Q4B64IP27 1 64 0 0
+/wp-includes/class-wp-dependencies.php 25 0 0 0
+/wp-admin/tools.php 1 36616 0 0
+/.well-known/acme-challenge/PZF8QPC-1F3W_N7W3ZP5BOKDDCV07XXO 1 64 0 0
+/.well-known/acme-challenge/XKHOKZP9V_8ONC45HN3XFR1XQSVGNNRD 1 64 0 0
+/.well-known/acme-challenge/H472ADDMYSAALGQSIFU6_6PW4IQP6GBS 1 64 0 0
+/.well-known/acme-challenge/01XNK8VVH7TKNI65-OAGY4Q2QGAQC_VP 1 64 0 0
+/.well-known/ 25 8774 0 25
+/wp-includes/class-wp-block-editor-context.php 25 0 0 0
+/wp-includes/images/ 25 25675 0 0
+/.well-known/acme-challenge/5L02_G1K4QCOQXJLOXFMURHZJQ2IC85G 1 64 0 0
+/.well-known/acme-challenge/JW3TI3UD41WAMYBLFL3RN2KZCB_4OR2- 1 64 0 0
+/.well-known/acme-challenge/V2Y0DOJGDG3V9I58LE9T71W4_8QNMYP2 1 64 0 0
+/.well-known/acme-challenge/R2_5J0NR9K0Z4CQIF32__IBYJDIB9VRP 1 64 0 0
+/.well-known/acme-challenge/096WEA69PJG9RFU0KC_ZSMYVHYH3JWXT 1 64 0 1
+/.well-known/acme-challenge/HPA-DR5BYC9-3KKW3PZ7Y3XL5JHDL1H3 1 64 1 0
+/.well-known/acme-challenge/5SJ9W6EXPD0_TWM5PHD55KU7-SH5-Q08 1 64 1 0
+/wp-includes/class-wp-theme-json-resolver.php 25 0 0 0
+/wp-includes/class-wpdb.php 25 0 0 0
+/TP/public/index.php 2 23757 0 0
+/wp-admin/css/colors/ectoplasm/ 25 10725 0 0
+/.well-known/acme-challenge/7V_1RTCZC6BJ4-4-EOHA0FPKC1XRR_OI 1 64 1 0
+/.well-known/acme-challenge/BPFXX09HN9VBKHJVKRIFUL7Y19K7O9ZW 1 64 0 0
+/.well-known/acme-challenge/9NMRNJAEQ7TJR19ZLGQLMHPK_H2AOE7V 1 64 0 0
+/wp-content/uploads/2023/04/ 24 7752 0 0
+/wp-includes/block-template-utils.php 25 0 0 0
+/.well-known/acme-challenge/E7IWB217KX8D16AD7ME6NCUPKDMSWMC7 1 64 0 0
+/.well-known/acme-challenge/Z-9W4T1D71ZDVTMXFFSTYC_SINUE_AN7 1 64 1 0
+/.well-known/acme-challenge/RHFU56GVPROX-A1AZ5UL2EIE5HA79830 1 64 0 0
+/.well-known/acme-challenge/E_1RG_O7P92KD9SNYU9VEX_J293B75OK 1 64 0 0
+/wp-admin/css/colors/midnight/ 25 10750 0 0
+/wp-admin/css/colors/ 25 13875 0 0
+/.well-known/acme-challenge/ML2YQ3XP47EULXN4WKOIQOJUKJN948-_ 1 64 0 0
+/wp-includes/fonts/ 25 11150 0 0
+/wp-includes/block-template.php 25 0 0 0
+/.well-known/acme-challenge/QYZCXFCU7AO0-I-YY4KC_WIBIM6788UI 1 64 0 0
+/.well-known/acme-challenge/QFGE9A0_BYS6186P8SHS6-BCXTVTVJ8D 1 64 0 0
+/wp-includes/global-styles-and-settings.php 25 0 0 0
+/.well-known/acme-challenge/PV92BKH5ITH004L5_AEEYYRU62ZYEYHE 1 64 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 1 22660 0 0
+/wp-comments-post.php 1 0 1 1
+/.git/config 1 11788 1 1
+/.well-known/acme-challenge/854LP2NTYMBUOS6PJ37F8T68D6WVP7L_ 1 64 0 0
+/.well-known/acme-challenge/4G9VXBVBB3Z7WEL1CJG7TQ9DCT4OSBDG 1 64 0 0
+/.well-known/acme-challenge/9QABN161WEL1X9EI88C_M1B9T8CU_FWI 1 64 0 0
+/.well-known/acme-challenge/84UBADP41WJRD-P-E-5PN1WBHD98J0T5 1 64 0 0
+/wp-includes/robots-template.php 25 0 0 0
+/.well-known/acme-challenge/4EFVA_JKAEYR-O16547WDEZ6QKPUM94P 1 64 0 1
+/.well-known/acme-challenge/4TM0KXMXZDNPU7ZG1-0_XM9W2BIQG_70 1 64 0 0
+/.well-known/acme-challenge/L02P0KMNENB-CFDZIB8EHGBM5MK6Q4HS 1 64 0 0
+/.well-known/acme-challenge/YMFK33T6R4OWPLKDNOPZG4T23Q4DYCYM 1 64 0 0
+/.well-known/acme-challenge/7YBA51KAM-LEO2_6V2PP9IAPWD2NA-KZ 1 64 0 0
+/wp-admin/js/widgets/ 25 15950 0 0
+/wp-includes/https-detection.php 25 0 0 0
+/.well-known/acme-challenge/6LV59ZZ6RAKPPT84K-KEA0_WO0V5_9OZ 1 64 0 0
+/.well-known/acme-challenge/GU68Q0LD77HXI1ZE2FWWO3GA18KDU24E 1 64 0 0
+/.well-known/acme-challenge/CMNX3XA08PZPBR0NCW_M5M1T0LEPKSPU 1 64 0 0
+/.well-known/acme-challenge/WY0K_M3UPWCPQ9KLZ_UTO-YQEP5_95HP 1 64 0 0
+/.well-known/acme-challenge/0BBJ68OSN1LEXJJIPNPBK-P53CNO9YL- 1 64 0 1
+END_SIDER

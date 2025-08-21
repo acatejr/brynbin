@@ -1,0 +1,576 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2695                
+POS_VISITOR 14505               
+POS_DAY 17693               
+POS_DOMAIN 3421                
+POS_LOGIN 3779                
+POS_ROBOT 3934                
+POS_WORMS 4256                
+POS_EMAILSENDER 4387                
+POS_EMAILRECEIVER 4530                
+POS_SESSION 18403               
+POS_SIDER 18611               
+POS_FILETYPES 4665                
+POS_DOWNLOADS 4856                
+POS_OS 4904                
+POS_BROWSER 5076                
+POS_SCREENSIZE 5620                
+POS_UNKNOWNREFERER 5694                
+POS_UNKNOWNREFERERBROWSER 6584                
+POS_ORIGIN 7469                
+POS_SEREFERRALS 7607                
+POS_PAGEREFS 7792                
+POS_SEARCHWORDS 7972                
+POS_KEYWORDS 8124                
+POS_MISC 2358                
+POS_ERRORS 8183                
+POS_CLUSTER 3635                
+POS_SIDER_404 8340                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210601002536 31 8226 13881683102595
+FirstTime 20210501105332
+LastTime 20210531190832
+LastUpdate 20210601061836 31 0 30 0 0
+TotalVisits 202                 
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 82                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 22 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 77280 29 54 297367
+1 15 15 40266 154 288 808067
+2 34 34 114031 27 39 33769
+3 16 16 74298 27 46 169323
+4 9 10 1856883 11 20 45032
+5 7 7 57159 10 14 38010
+6 5 5 6711 7 14 27611
+7 4 4 0 6 11 1368
+8 5 5 6707 6 17 265300
+9 7 7 6707 5 11 26943
+10 10 10 47474 8 16 53738
+11 11 11 15951 5 15 264396
+12 12 12 27979 5 8 7391
+13 3 3 0 8 9 21521
+14 7 7 48622 8 10 706
+15 15 15 68112 9 15 10808
+16 6 6 41284 13 14 58247
+17 7 30 398584 6 9 1780
+18 17 17 44188 6 11 10166
+19 17 36 229561 29 56 152040
+20 13 13 54698 6 11 6008
+21 8 18 176515 9 11 1279
+22 32 102 32258287 12 17 1844
+23 19 19 23542 9 12 1257
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 245 358 35181356
+cn 14 24 213803
+gr 9 9 185778
+de 8 8 0
+eu 4 4 26828
+in 4 4 26828
+gb 2 2 13418
+nl 1 1 6707
+ca 1 1 6707
+ru 1 1 6707
+hu 1 1 6707
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 52 25715 20210524011303 49
+baidu 19 548978 20210526081049 0
+unknown 4 466 20210528224338 4
+no_user_agent 3 93688 20210520131558 0
+Python\-urllib/ 1 119 20210531190830 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 78 520111 0 0
+png 1 174111 0 0
+jpg 17 33557829 0 0
+gif 1 22244 0 0
+html 124 1142244 0 0
+css 26 233870 0 0
+php 166 24430 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win10 55 31
+macosx 11 11
+linuxandroid 17 7
+winvista 1 1
+macosx11 30 7
+linux 44 25
+win7 6 6
+Unknown 249 202
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome91.0.4472.0 3 3
+chrome88.0.4324.190 2 2
+chrome85.0.4183.121 8 8
+firefox52.0 30 7
+chrome83.0.4103.97 18 18
+firefox88.0 25 2
+chrome90.0.4430.212 1 0
+Unknown 249 202
+chrome66.0.3359.181 3 3
+chrome85.0.4183.102 25 6
+firefox72.0 1 1
+chrome41.0.2225.0 1 1
+chrome75.0.3765.0 11 1
+chrome66.0.3359.117 4 4
+chrome46.0.2490.80 1 1
+chrome65.0.3325.109 1 1
+chrome63.0.3239.132 1 1
+chrome88.0.4324.146 8 8
+chrome78.0.3904.62 4 4
+chrome84.0.4147.125 10 10
+chrome42.0.2311.90 6 6
+chrome40.0.2214.93 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Jetpack_by_WordPress.com 20210530121200
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210521204024
+Python/3.8_aiohttp/3.7.4.post0 20210520222219
+WordPress/5.6.4;_http://www.brynbailer.com 20210521151943
+panscient.com 20210528224702
+WordPress/5.6.4;_https://www.brynbailer.com 20210531004326
+WordPress.com;_https://www.brynbailer.com 20210525183255
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210528152313
+WordPress/5.6.3;_https://www.brynbailer.com 20210512122703
+Go_http_package 20210531004327
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Python/3.8_aiohttp/3.7.4.post0 20210520222219
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210521204024
+Jetpack_by_WordPress.com 20210530121200
+WordPress/5.6.4;_https://www.brynbailer.com 20210531004326
+WordPress/5.6.4;_http://www.brynbailer.com 20210521151943
+panscient.com 20210528224702
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210528152313
+WordPress.com;_https://www.brynbailer.com 20210525183255
+Go_http_package 20210531004327
+WordPress/5.6.3;_https://www.brynbailer.com 20210512122703
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 105 176
+From1 0 0
+From2 6 7
+From3 2 2
+From4 177 228
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 0 1
+www_google_com_hk 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://mail.brynbailer.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+401 30 863
+409 8 664
+405 2 84
+406 86 19436
+301 279 0
+404 192 1594828
+400 30 1046
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 145
+/api/user/get_user_group 1 -
+/static/home/static/js/login.js 1 -
+/script/public.js 1 -
+/wp-content/plugins/kaswara/front/assets/js/script.js 7 -
+/admin/webadmin.php 1 -
+/cscpLoginWeb/app/home 2 -
+/api/v/index/queryOfficePage 1 -
+/home/loadmymanager 1 -
+/config.php 1 -
+/config.js 2 -
+/static/diff_worker.js 2 -
+/assets/res/mods/room.js 1 -
+/cq/kehulistajax.php 1 -
+/signup 2 https://www.brynbailer.com//signup
+/loan 1 -
+/ws/index/getTheLotteryInitList 1 -
+/template/tmp1/js/common.js 2 -
+/css/style.css 1 -
+/user/login 1 -
+/home/main/login 1 -
+/getConfig/listPopFrame.do 3 -
+/registration 2 https://www.brynbailer.com//registration
+/wap/api/exchangerateuserconfig!get.action 1 -
+/api/contactWay 1 -
+/static/wap/css/index.css 1 -
+/catalog/Adminhtml_category 2 -
+/api/site/getInfo.do 1 -
+/statics/js/API.js 1 -
+/JS/loginstatus.js 1 -
+/template/css/login.css 1 -
+/getConfig/getArticle.do 3 -
+/api/user/info 1 -
+/Public/home/js/fukuang.js 1 -
+/style.css 2 -
+/wp-admin/upload_index.php 2 https://www.brynbailer.com//wp-admin/upload_index.php
+/wp-content/plugins/store-locator-le/js/slp_core.js 2 https://www.brynbailer.com//wp-content/plugins/store-locator-le/js/slp_core.js
+/Public/Home/js/common.js 1 -
+/common/template/lottery/lecai/css/style.css 1 -
+/resources/main/common.js 1 -
+/homes/ 4 -
+/Public/home/common/js/index.js 1 -
+/wp-content/plugins/quadmenu/assets/frontend/js/quadmenu.js 2 https://www.brynbailer.com//wp-content/plugins/quadmenu/assets/frontend/js/quadmenu.js
+/wp-content/plugins/wpcf7-redirect/js/wpcf7-redirect-script.js 2 https://www.brynbailer.com//wp-content/plugins/wpcf7-redirect/js/wpcf7-redirect-script.js
+/myConfig.js 1 -
+/public/js/global.js 1 -
+/Home/Bind/binding 2 -
+/wp-content/plugins/theplus_elementor_addon/assets/css/admin/theplus-ele-admin.css 2 https://www.brynbailer.com//wp-content/plugins/theplus_elementor_addon/assets/css/admin/theplus-ele-admin.css
+/config 1 -
+/data/json/config.json 1 -
+/kkrps/im_group/show_members 1 -
+/static/home/css/css.css 1 -
+/base/exchange_index/googlecode 1 -
+/my-account 2 https://www.brynbailer.com//my-account
+/Public/css/errorCss.css 1 -
+/images/src_images_but_dianz_s.png 1 -
+/h5/ 1 -
+/Public/mobile/js/config.js 1 -
+/static/common/js/global.js 1 -
+/wp-content/plugins/external-media/js/external-media.js 2 https://www.brynbailer.com//wp-content/plugins/external-media/js/external-media.js
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 -
+/assets/dist/static/js/vendor_prod.js 1 -
+/js/chat/chat.js 1 -
+/Template/Mobile/js/main.js 1 -
+/banner.do 1 -
+/room/script/face.js 1 -
+/Templates/user/js/global.js 1 -
+/api/web/user/getIndexData.php 1 -
+/user/Login 1 -
+/api/apps 1 -
+/wp-content/plugins/controlled-admin-access/admin/js/controlled-admin-access-admin.js 2 https://www.brynbailer.com//wp-content/plugins/controlled-admin-access/admin/js/controlled-admin-access-admin.js
+/Public/Wchat/js/cvphp.js 1 -
+/assets/room/css/room_mobile.css 2 -
+/wp-content/plugins/business-directory-plugin/assets/js/admin.js 2 https://www.brynbailer.com//wp-content/plugins/business-directory-plugin/assets/js/admin.js
+//wp-json/td/v1/optin/subscription 1 -
+/static/home/js/rooms.js 1 -
+/wp-json/td/v1/optin/subscription 1 -
+/m/ticker/usdtqc 1 -
+/css/info.css 2 -
+/index.php 1 -
+/wp-content/plugins/cmp-coming-soon-maintenance/js/cmp-advanced.js 2 https://www.brynbailer.com//wp-content/plugins/cmp-coming-soon-maintenance/js/cmp-advanced.js
+/kefu.php 1 -
+/api/uploads/apimap 1 -
+/wp-content/plugins/official-facebook-pixel/css/admin.css 2 https://www.brynbailer.com//wp-content/plugins/official-facebook-pixel/css/admin.css
+/info.php 1 -
+/api/config-init 1 -
+/v1/management/tenant/getSpeedDomain 1 -
+/admin_user/m_tixian.php 1 -
+/s_api/basic/config_js 1 -
+/static/wap/js/common.js 1 -
+/static/index/js/lk/order.js 1 -
+/assets/extension/market/css/mt4.css 2 -
+/mobile/v3/appSuperDownload.do 2 -
+/thriveGame.css 1 -
+/Promotions/list.mvc 1 -
+/Templates/user/finance/css/userPay.css 1 -
+/css/all.css 1 -
+/template/920ka/js/woodyapp.js 1 -
+/api/ApiHub/fetchJinse 1 -
+/nyyh/chkjs.js 1 -
+/template/920ka/css/lsy.css 1 -
+/Public/Wchat/css/index.css 1 -
+/ajax 1 -
+/wp-content/plugins/simple-301-redirects/assets/js/simple-301-redirects.core.min.js 2 https://www.brynbailer.com//wp-content/plugins/simple-301-redirects/assets/js/simple-301-redirects.core.min.js
+/static/data/thirdgames.json 1 -
+/api/exclude/siteConfig/webSiteConfig 1 -
+/public/h5static/js/main.js 1 -
+/wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js 2 https://www.brynbailer.com//wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js
+/api/index/loansList 1 -
+/css/view/main/goin.css 1 -
+/ajax/allcoin_a/id/0 1 -
+/portal/index/protocol.html 1 -
+/api/stock/getSingleStock.do 1 -
+/Public/Mobile/ecshe_css/wapmain.css 1 -
+/getLocale 1 -
+/langConfig.js 1 -
+/m/allticker/1 1 -
+/static/login/js/lk/order.js 1 -
+/api/system/system/config/get 1 -
+/index/api/config 1 -
+/static/guide/ab.css 2 -
+/wp-content/uploads/upload_index.php 2 https://www.brynbailer.com//wp-content/uploads/upload_index.php
+/n/news/banner 1 -
+/infe/rest/fig/advertise/common.json 1 -
+//index.php 1 -
+/js/config20181225.js 2 -
+/static/xianyu/js/bankCheck.js 1 -
+/js/app.ling.js 2 -
+/wp-content/plugins/wp-content-copy-protector/js/simpletabs_1.3.js 2 https://www.brynbailer.com//wp-content/plugins/wp-content-copy-protector/js/simpletabs_1.3.js
+/legal/currency/set 1 -
+/Public/css/hall.css 1 -
+/static/common/js/common.js 1 -
+/Public/Home/js/cls.js 1 -
+/market/getStockBaseInfo 1 -
+/wp-includes/upload_index.php 2 https://www.brynbailer.com//wp-includes/upload_index.php
+/zz2/address.php 1 -
+/api/mobile/checkStrategyHistory 1 -
+/room/getRoomBangFans 1 -
+/manager/js/left.js 1 -
+/css/app.css 1 -
+/Public/Home/ecshe_css/main.css 1 -
+/user/userlist 1 -
+/api/v1/borrowxx.html 2 -
+/template/js/comm/Confrim.js 1 -
+/api/content_bottom 1 -
+/ads.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 82
+67.222.39.71 140 140 13414 20210531004326
+72.79.50.66 12 59 32135514 20210528224722
+34.78.171.195 10 33 95046 20210520222221
+192.0.82.48 10 10 16839 20210525183304
+192.0.91.201 10 10 16831 20210510234005
+138.246.253.24 8 8 0 20210527174003
+18.222.111.184 6 25 196026 20210531190832
+101.36.110.226 6 6 40266 20210512015728
+178.62.27.184 4 4 26828 20210516034954
+103.88.170.246 4 4 26828 20210514191133
+118.26.36.169 3 3 20121 20210522002018
+67.1.120.23 2 25 377942 20210507173613
+92.118.160.45 2 2 41284 20210523142101
+34.86.128.232 2 2 13414 20210521214212
+92.118.160.17 2 2 41284 20210521204024
+138.128.118.130 2 2 13414 20210526040306
+107.150.63.170 2 2 27349 20210528144131
+92.118.160.41 2 2 41284 20210521175806
+87.229.45.179 1 1 6707 20210526185621
+52.89.6.97 1 1 6707 20210519022040
+44.226.206.216 1 1 6707 20210517022157
+34.219.67.139 1 1 6707 20210525024805
+35.165.5.88 1 1 6707 20210522030611
+54.203.194.17 1 1 6707 20210531043626
+121.5.113.11 1 1 6707 20210527022024
+8.42.161.120 0 1 1802185 
+18.237.153.5 1 1 6707 20210527021656
+34.86.35.24 1 1 20642 20210512050752
+54.184.64.7 1 1 6707 20210524031759
+34.83.11.124 1 1 0 20210520125422
+54.190.225.164 1 1 6707 20210514021124
+192.0.86.161 1 1 378 20210522224737
+128.14.209.154 1 1 6707 20210513121059
+34.215.154.0 1 1 6707 20210518021741
+192.0.116.240 1 1 634 20210524114415
+34.77.162.30 1 1 20642 20210528152313
+192.0.113.16 1 1 635 20210518112504
+54.186.24.204 1 1 6707 20210516023212
+193.118.55.162 1 1 6711 20210506115547
+107.150.52.195 1 1 6711 20210511023333
+212.129.152.41 1 1 6707 20210525104629
+192.0.118.112 1 1 629 20210525112515
+192.151.156.186 1 1 6707 20210516090635
+54.189.240.15 1 1 6707 20210520021520
+34.217.101.48 1 1 6707 20210523020325
+34.77.162.14 1 1 20642 20210525183247
+171.13.14.10 1 11 126584 20210503212335
+35.221.19.171 1 1 6707 20210528205648
+34.96.130.4 1 1 20642 20210514040653
+192.0.112.146 1 1 631 20210501145003
+193.118.55.170 1 1 6707 20210522224729
+192.0.118.14 1 1 635 20210506115555
+52.34.190.39 1 1 6711 20210508025813
+34.77.162.7 1 1 20642 20210521123010
+52.43.65.68 1 1 6707 20210525020854
+92.118.160.61 1 1 20642 20210531004327
+35.162.122.30 1 1 6707 20210526023405
+92.118.160.9 1 1 20642 20210501105332
+58.242.194.173 1 1 6711 20210510233949
+34.96.130.18 1 1 36517 20210526000432
+159.69.154.214 1 1 6707 20210527153417
+34.221.237.164 1 1 6707 20210521025623
+121.5.147.119 1 1 6707 20210525083055
+34.77.162.8 1 1 20642 20210518032414
+34.96.130.29 1 1 20642 20210506151514
+54.185.166.134 1 1 6711 20210505020902
+52.88.43.54 1 1 6707 20210524031953
+34.96.130.2 1 1 36517 20210528050432
+34.222.120.38 1 1 6707 20210528032639
+192.0.113.78 1 1 630 20210530121200
+107.150.63.171 1 1 6711 20210512064512
+34.96.130.11 1 1 36517 20210521214501
+52.42.175.30 1 1 6707 20210530104301
+192.99.18.122 1 1 6707 20210529193832
+92.118.160.1 1 1 20642 20210530203340
+121.5.109.55 1 1 6707 20210524114406
+34.222.43.216 1 1 6707 20210513024130
+35.197.48.215 1 1 0 20210520125419
+173.208.246.44 1 1 6707 20210527103341
+185.180.143.74 1 1 6707 20210527155439
+34.77.162.32 1 1 20642 20210503160058
+69.30.225.102 1 1 6711 20210506102227
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210501 5 5 21273 5
+20210503 6 16 147226 6
+20210504 4 4 0 4
+20210505 5 5 6711 4
+20210506 11 11 34699 8
+20210507 8 31 377942 6
+20210508 6 6 6711 6
+20210509 2 2 0 2
+20210510 17 17 44184 8
+20210511 5 5 6711 4
+20210512 17 17 74326 11
+20210513 8 8 13414 8
+20210514 14 14 74819 10
+20210515 4 4 0 4
+20210516 9 9 40242 5
+20210517 5 5 27349 5
+20210518 13 13 27984 11
+20210519 3 3 6707 2
+20210520 18 41 101753 8
+20210521 20 20 125271 14
+20210522 9 9 33913 7
+20210523 6 6 27349 6
+20210524 7 7 20755 7
+20210525 22 23 1867123 12
+20210526 7 7 56638 7
+20210527 13 13 33535 10
+20210528 29 76 32240143 11
+20210529 3 3 6707 2
+20210530 5 5 27979 5
+20210531 9 28 223375 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 1
+30s-2mn 5
+2mn-5mn 4
+15mn-30mn 4
+30mn-1h 11
+0s-30s 176
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/wp-cron.php 138 0 110 109
+/ 107 990903 85 81
+/xmlrpc.php 25 24424 7 9
+/contact-2/ 4 23876 0 0
+/wp-admin/admin-ajax.php 3 6 0 2
+/test-page/ 3 39314 0 0
+/category/writing-samples/ 3 24879 0 0
+/category/testimonials/ 2 14082 0 0
+/brush-with-the-law-when-inmates-say-i-was-framed-theyre-talking-about-artwork/ 2 19676 0 0
+/cleaning-up-reno-by-cracking-down-on-low-budget-motels/ 1 10295 0 0
+/in-the-mass-transit-world-time-waits-for-no-man-even-for-the-head-of-pragues-public-transportation-kingdom/ 1 9892 0 1
+/a-feast-for-the-eyes-extraordinarily-beautiful-sinfully-delicious-indulge-in-these-decadent-desserts/ 1 9327 0 0
+END_SIDER

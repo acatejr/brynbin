@@ -1,0 +1,399 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/ssl/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2694                
+POS_VISITOR 8806                
+POS_DAY 9818                
+POS_DOMAIN 3354                
+POS_LOGIN 3616                
+POS_ROBOT 3771                
+POS_WORMS 3967                
+POS_EMAILSENDER 4098                
+POS_EMAILRECEIVER 4241                
+POS_SESSION 10423               
+POS_SIDER 10618               
+POS_FILETYPES 4376                
+POS_DOWNLOADS 4584                
+POS_OS 4632                
+POS_BROWSER 4758                
+POS_SCREENSIZE 4960                
+POS_UNKNOWNREFERER 5034                
+POS_UNKNOWNREFERERBROWSER 5815                
+POS_ORIGIN 6247                
+POS_SEREFERRALS 6382                
+POS_PAGEREFS 6526                
+POS_SEARCHWORDS 6674                
+POS_KEYWORDS 6826                
+POS_MISC 2358                
+POS_ERRORS 6885                
+POS_CLUSTER 3472                
+POS_SIDER_404 7058                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001030855 24 5690 17649100869264
+FirstTime 20190901071756
+LastTime 20190930094153
+LastUpdate 20191001054332 24 0 23 0 0
+TotalVisits 91                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 6572 1 1 83
+1 9 9 71579 14 16 11085
+2 0 0 0 0 0 0
+3 4 25 386324 5 5 0
+4 4 4 6571 4 5 78129
+5 2 2 6572 48 56 7964
+6 7 28 386225 123 123 1208613
+7 5 5 13144 64 64 3658
+8 2 2 0 15 15 904
+9 3 24 379655 1 1 0
+10 3 24 379654 71 71 9380
+11 8 8 14236 9 10 6601
+12 3 3 1637 37 45 6214
+13 6 6 21241 188 188 1981945
+14 28 64 22772183 67 68 7012
+15 8 8 98004 7 7 1130
+16 4 4 4117 20 20 226
+17 0 0 0 6 6 988
+18 6 6 130016 134 134 1969961
+19 7 28 392797 7 7 0
+20 4 4 6571 0 0 0
+21 6 6 13142 2 2 36371
+22 6 6 13143 12 12 0
+23 4 4 0 6 7 42344
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 104 140 23018007
+de 22 127 1990373
+gb 4 4 95003
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Googlebot/ 5 335 20190927010615 5
+unknown 1 67 20190924140401 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 40 428445 0 0
+html 53 565104 0 0
+Unknown 1 51266 0 0
+png 5 870555 0 0
+php 76 9027 0 0
+gif 5 111220 0 0
+js 79 659471 0 0
+jpg 12 22408295 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win7 23 23
+macosx11 45 9
+win10 3 3
+Unknown 90 90
+linux 110 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+firefox52.0 45 9
+firefox50.0 110 5
+chrome36.0.1985.143 5 5
+mozilla 14 14
+chrome66.0.3359.117 3 3
+Unknown 76 76
+chrome40.0.2214.85 3 3
+firefox64.0 15 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Go-http-client/2.0 20190911212839
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190929052758
+WordPress/4.9.11;_http://www.brynbailer.com 20190925160010
+Jetpack_by_WordPress.com 20190925131120
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190924145215
+WordPress/4.9.10;_https://www.brynbailer.com 20190904142924
+WordPress.com;_https://www.brynbailer.com 20190927000210
+Python/3.6_aiohttp/3.6.0 20190924140906
+WordPress/4.9.11;_https://www.brynbailer.com 20190930094154
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190929035406
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+WordPress/4.9.11;_https://www.brynbailer.com 20190930094154
+Python/3.6_aiohttp/3.6.0 20190924140906
+WordPress/4.9.10;_https://www.brynbailer.com 20190904142924
+WordPress.com;_https://www.brynbailer.com 20190927000210
+Jetpack_by_WordPress.com 20190925131120
+WordPress/4.9.11;_http://www.brynbailer.com 20190925160010
+Go-http-client/2.0 20190911212839
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 181
+From1 0 0
+From2 0 0
+From3 0 0
+From4 90 90
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+302 3 0
+403 350 46900
+404 70 1234678
+409 4 332
+301 134 0
+406 41 9266
+401 171 4078148
+400 84 2882
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 56
+/magento/rss/catalog/notifystock 1 -
+/demo/admin/ 1 -
+/old/rss/catalog/notifystock 1 -
+/old/errors/503.php 1 -
+/test/downloader/ 1 -
+/test/rss/order/new 1 -
+/dev/rss/catalog/review 1 -
+/store/rss/order/new 1 -
+/dev/rss/catalog/notifystock 1 -
+/store/errors/503.php 1 -
+/store/rss/catalog/notifystock 1 -
+/magento/admin/ 1 -
+/magento/downloader/ 1 -
+/downloader/ 1 -
+/magento/rss/catalog/review 1 -
+/dev/downloader/ 1 -
+/dev/admin/ 1 -
+/shop/rss/catalog/notifystock 1 -
+/shop/rss/catalog/review 1 -
+/magento/errors/503.php 1 -
+/demo/rss/order/new 1 -
+/old/rss/order/new 1 -
+/test/admin/ 1 -
+/store/admin/ 1 -
+/magento/rss/order/new 1 -
+/demo/downloader/ 1 -
+/shop/errors/503.php 1 -
+/demo/rss/catalog/notifystock 1 -
+/wp-admin/admin-post.php 6 -
+/staging/rss/catalog/notifystock 1 -
+/wp-admin/admin-ajax.php 6 -
+/test/rss/catalog/review 1 -
+/staging/rss/catalog/review 1 -
+/old/rss/catalog/review 1 -
+/staging/admin/ 1 -
+/staging/downloader/ 1 -
+/test/errors/503.php 1 -
+/dev/errors/503.php 1 -
+/.well-known/assetlinks.json 5 -
+/shop/admin/ 1 -
+/store/rss/catalog/review 1 -
+/demo/errors/503.php 1 -
+/shop/downloader/ 1 -
+/test/rss/catalog/notifystock 1 -
+/rss/catalog/review 1 -
+/rss/catalog/notifystock 1 -
+/dev/rss/order/new 1 -
+/shop/rss/order/new 1 -
+/staging/errors/503.php 1 -
+/demo/rss/catalog/review 1 -
+/old/admin/ 1 -
+/errors/503.php 1 -
+/old/downloader/ 1 -
+/staging/rss/order/new 1 -
+/store/downloader/ 1 -
+/rss/order/new 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+67.222.39.71 63 63 0 20190930094154
+34.76.227.142 10 46 22697985 20190924140906
+138.68.28.46 7 7 80660 20190925143005
+137.226.113.26 6 6 39428 20190929052758
+137.226.113.27 6 6 39430 20190921214201
+64.6.231.76 6 6 130016 20190909182821
+137.226.113.34 5 110 1898370 20190930094153
+51.68.124.88 4 4 95003 20190925160020
+138.246.253.5 3 3 0 20190928205400
+139.99.106.10 3 3 65008 20190910012922
+137.226.113.28 2 2 13145 20190929035406
+192.0.86.165 2 2 1091 20190925131120
+192.0.103.4 1 1 6572 20190927000210
+192.0.87.18 1 1 545 20190910124217
+34.216.74.61 1 1 6571 20190911212839
+192.0.87.163 1 1 545 20190923155355
+192.0.86.67 1 1 545 20190915120758
+184.154.74.66 1 1 6571 20190914112300
+107.6.171.130 1 1 6572 20190924225749
+184.154.47.2 1 1 6571 20190909225957
+192.0.87.155 1 1 547 20190922124547
+192.0.82.48 1 1 6571 20190911015814
+192.0.89.55 1 1 546 20190920112633
+192.0.91.169 1 1 545 20190911133154
+192.0.87.19 1 1 546 20190916142718
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20190901 6 6 19719 6
+20190902 2 23 379752 2
+20190904 2 2 0 2
+20190905 1 1 0 1
+20190907 2 2 0 2
+20190908 3 3 6571 3
+20190909 12 12 143158 5
+20190910 6 6 65553 3
+20190911 4 4 13687 4
+20190912 1 1 0 1
+20190913 6 27 379654 4
+20190914 8 8 19713 8
+20190915 3 3 7116 3
+20190916 3 3 546 3
+20190917 2 2 0 2
+20190919 3 3 6571 3
+20190920 4 25 380200 3
+20190921 5 5 13688 5
+20190922 1 1 547 1
+20190923 1 1 545 1
+20190924 17 53 22711129 6
+20190925 22 43 555863 7
+20190926 2 2 0 2
+20190927 5 5 6572 5
+20190928 3 3 0 3
+20190929 4 4 13144 4
+20190930 2 23 379655 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+2mn-5mn 1
+0s-30s 80
+30s-2mn 4
+30mn-1h 3
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/wp-cron.php 63 0 49 49
+/ 38 338754 31 32
+/xmlrpc.php 9 4910 9 9
+/201-2/ 3 75903 2 0
+/32-2/ 3 58668 0 0
+/wp-admin/admin-post.php 3 0 0 0
+/contact-2/ 1 5833 0 0
+/cleaning-up-reno-by-cracking-down-on-low-budget-motels/ 1 10400 0 0
+/a-feast-for-the-eyes-extraordinarily-beautiful-sinfully-delicious-indulge-in-these-decadent-desserts/ 1 9302 0 0
+/category/writing-samples/ 1 8034 0 0
+/in-the-mass-transit-world-time-waits-for-no-man-even-for-the-head-of-pragues-public-transportation-kingdom/ 1 9848 0 0
+/wp-login.php 1 4117 0 1
+/category/testimonials/ 1 6787 0 0
+/wp-json/wp/v2/posts 1 51266 0 0
+/brush-with-the-law-when-inmates-say-i-was-framed-theyre-talking-about-artwork/ 1 9862 0 0
+/test-page/ 1 12300 0 0
+/22-2/ 1 19413 0 0
+END_SIDER

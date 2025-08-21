@@ -1,0 +1,428 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer-net.dtq.rvq.mybluehost.me.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2068                
+POS_TIME 2750                
+POS_VISITOR 8891                
+POS_DAY 10367               
+POS_DOMAIN 3270                
+POS_LOGIN 3562                
+POS_ROBOT 3717                
+POS_WORMS 3914                
+POS_EMAILSENDER 4045                
+POS_EMAILRECEIVER 4188                
+POS_SESSION 10701               
+POS_FILESIZE 11248               
+POS_SIDER 10870               
+POS_FILETYPES 4323                
+POS_DOWNLOADS 4420                
+POS_OS 4468                
+POS_BROWSER 4607                
+POS_SCREENSIZE 4983                
+POS_UNKNOWNREFERER 5057                
+POS_UNKNOWNREFERERBROWSER 5509                
+POS_ORIGIN 5629                
+POS_SEREFERRALS 5761                
+POS_PAGEREFS 5905                
+POS_SEARCHWORDS 6053                
+POS_KEYWORDS 6205                
+POS_MISC 2414                
+POS_ERRORS 6264                
+POS_CLUSTER 3418                
+POS_SIDER_404 6376                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250821015806 301 77416 18418640284402
+FirstTime 20250801105936
+LastTime 20250821015805
+LastUpdate 20250821061038 301 0 301 0 0
+TotalVisits 45                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 7 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 0 1 2 822
+1 2 2 0 2 4 1870
+2 3 3 0 4 5 822
+3 2 2 0 0 0 0
+4 0 0 0 0 0 0
+5 1 1 0 1 1 0
+6 2 2 0 3 3 226
+7 2 2 0 4 4 0
+8 1 1 0 24 24 2795
+9 0 0 0 0 0 0
+10 6 6 0 10 10 2034
+11 0 0 0 4 4 0
+12 2 2 0 4 4 0
+13 0 0 0 0 0 0
+14 0 0 0 1 1 0
+15 2 2 0 1 1 0
+16 20 20 998 168 201 20575
+17 1 1 0 1 1 0
+18 1 1 0 0 1 822
+19 3 3 0 1 2 822
+20 0 0 0 2 2 0
+21 4 4 0 111 146 11001
+22 1 1 0 2 2 0
+23 1 1 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 26 26 737
+ru 21 21 0
+gb 2 2 87
+ua 2 2 0
+zz 2 2 174
+in 1 1 0
+se 1 1 0
+nl 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+checker 12 0 20250820122949 0
+no_user_agent 2 0 20250818163159 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 44 0 0 0
+Unknown 12 998 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx15 2 2
+Unknown 15 15
+win10 25 25
+androidmarshmallow 2 2
+linux 12 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+firefox139.0 3 3
+chrome78.0.3904.108 3 3
+firefox120.0 1 1
+firefox121.0 1 1
+chrome121.0.0.0 1 1
+mozilla 12 12
+chrome91.0.4472.124 18 18
+chrome139.0.0.0 3 3
+opera107.0.0.0 1 1
+chrome137.0.0.0 1 1
+chrome52.0.1138.98 2 2
+chrome116.0.0.0 3 3
+chrome58.0.3029.110 1 1
+chrome104.0.0.0 2 2
+Unknown 2 2
+firefox38.0 1 1
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Cpanel-HTTP-Client/1.0 20250818163138
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250803210748
+Mozilla/5.0_zgrab/0.x 20250821004605
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250818163139
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250813031150
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20250818163138
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 56 56
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+406 151 34126
+409 23 1909
+404 223 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 96
+/aws-secret.yaml 2 -
+/main.yml 2 -
+/server/config/database.js 2 -
+/application.properties 2 -
+/.aws/credentials 3 -
+/wp-admin/setup-config.php 2 -
+/mytest/astech_robot.js 2 -
+/karma.conf.json 2 -
+/_profiler/phpinfo 2 -
+/config/application.yml 2 -
+/config/settings.local 2 -
+/_all_dbs 2 -
+/my_env/newsletter.py 2 -
+/aws.yml 2 -
+/api/shared/config/config.env 2 -
+/user/controllers/index.js 2 -
+/service/email_service.py 2 -
+/config/settings.json 2 -
+/new/.env.production 2 -
+/index.js 2 -
+/config/parameters.yml 2 -
+/api/config.js 2 -
+/apis/controllers/users.js 2 -
+/public/js/main.js 2 -
+/.aws/config 2 -
+/server/s3.js 2 -
+/swagger.json 2 -
+/app/config/parameters.yml 2 -
+/sms.py 2 -
+/configs/routes.js 2 -
+/settings.py 2 -
+/controller/admin/post.js 2 -
+/gatsby-config.js 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/.env.example 4 -
+/admin/config 2 -
+/admin/controllers/partner.js 2 -
+/admin/.env 4 -
+/new/.env.staging 2 -
+/user/config/config.js 2 -
+/controller/api/post.js 2 -
+/index.html 2 -
+/scripts/nodemailer.js 2 -
+/config.js 2 -
+/main.js 2 -
+/.env.local 2 -
+/wp-config 2 -
+/.circleci/configs/development.yml 4 -
+/config/config.json 2 -
+/phpinfo 4 -
+/aws/credentials 2 -
+/configs/routes-4aug.js 2 -
+/.env.prod 2 -
+/.env.stage 2 -
+/s3.js 2 -
+/swagger.js 2 -
+/configs/s3_config.json 2 -
+/api/config/config.yml 2 -
+/cloud/Scraper.js 2 -
+/controllers/settings.js 2 -
+/config/settings.prod 2 -
+/config/aws.yml 2 -
+/config/constants.js 2 -
+/appsettings.json 4 -
+/config/storage.yml 2 -
+/backend/config/default.yml 2 -
+/debug/default/view 2 -
+/.env_sample 2 -
+/backend/config/settings.yml 2 -
+/.env.production.local 2 -
+/static/js/main.e85f7a37.js 2 -
+/config.env 2 -
+/node/.env_example 2 -
+/my_env/palash.py 2 -
+/app.js 2 -
+/admin/controllers/merchant.js 2 -
+/static/js/2.ca066a4b.chunk.js 2 -
+/.git/config 1 -
+/js/main.js 2 -
+/new/.env.local 2 -
+/api/config.env 2 -
+/shared/config/config.js 2 -
+/api/shared/config.env 2 -
+/server.js 2 -
+/.git/HEAD 22 -
+/helpers/utility.js 2 -
+/config/local.yml 2 -
+/security.txt 1 -
+/helper/EmailHelper.js 2 -
+/app.py 2 -
+/partner/config/config.js 2 -
+/my_env/chakaash.py 2 -
+/.AWS_/credentials 4 -
+/.travis.yml 2 -
+/backend/config/development.yml 2 -
+/config.json 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+185.177.72.10 4 4 0 20250806213940
+13.229.218.45 3 3 0 20250801105938
+185.177.72.12 3 3 0 20250819080257
+185.177.72.3 2 2 0 20250803050230
+192.64.113.146 2 2 0 20250818163149
+185.177.72.179 2 2 0 20250806125815
+167.71.230.123 2 2 0 20250820193327
+185.177.72.201 2 2 0 20250820162815
+67.222.39.71 2 2 128 20250818163138
+195.123.244.84 2 2 0 20250818164151
+185.177.72.50 2 2 0 20250820215845
+185.177.72.9 2 2 0 20250802175905
+18.119.96.247 2 2 174 20250818163139
+134.209.88.157 1 1 0 20250811014507
+143.198.55.163 1 1 0 20250814005140
+3.138.185.30 1 1 0 20250821004605
+23.178.112.213 1 1 87 20250818163139
+35.90.111.103 1 1 87 20250818163139
+206.168.34.73 1 1 0 20250803210748
+34.221.106.199 1 1 87 20250818163139
+37.46.115.52 1 1 0 20250818220721
+51.20.10.152 1 1 87 20250818163139
+159.65.54.144 1 1 0 20250819022014
+3.237.81.201 1 1 0 20250804154843
+62.204.49.196 1 1 0 20250809102653
+13.214.164.14 1 1 87 20250818163139
+185.177.72.210 1 1 0 20250803023427
+23.178.112.219 1 1 87 20250818163139
+193.187.92.189 1 1 0 20250808064954
+13.60.10.145 1 1 87 20250818163139
+154.26.136.129 1 1 0 20250819191719
+64.226.65.160 1 1 0 20250818163200
+185.247.137.123 1 1 0 20250813031150
+52.77.238.171 1 1 87 20250818163139
+147.182.146.79 1 1 0 20250821015805 20250821015805 /
+188.166.108.93 1 1 0 20250818163200
+18.232.146.67 1 1 0 20250815034031
+185.61.223.250 1 1 0 20250809102349
+45.148.10.80 1 1 0 20250818235521
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20250801 3 3 0 1
+20250802 2 2 0 2
+20250803 6 6 0 6
+20250804 1 1 0 1
+20250806 4 4 0 3
+20250807 1 1 0 1
+20250808 1 1 0 1
+20250809 2 2 0 2
+20250811 1 1 0 1
+20250813 1 1 0 1
+20250814 1 1 0 1
+20250815 1 1 0 1
+20250818 20 20 998 16
+20250819 4 4 0 3
+20250820 6 6 0 3
+20250821 2 2 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+15mn-30mn 1
+0s-30s 41
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 44 0 35 34
+/.well-known/acme-challenge/lqqQG8av2N69Oa3kRO0sSC7HejpXsm_VNBJ-SjuNFYQ 5 435 4 5
+/.well-known/acme-challenge/iTg2SG30SRzAj41eCWIIKi0B3URQwYtjwKkDfK_hj6o 5 435 5 4
+/.well-known/acme-challenge/JA5KER03KKG1EMJN8YXWXOSA679MIYF_ 1 64 1 0
+/.well-known/acme-challenge/JJEOGGSS90ROVVAJ_L_Y53F4N403HUZU 1 64 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 4
+100-500 151
+44-100 35
+0-44 281
+500-1K 7
+END_FILESIZE

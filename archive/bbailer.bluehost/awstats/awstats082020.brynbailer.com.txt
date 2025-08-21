@@ -1,0 +1,1132 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home3/brynbail/tmp/awstats/awstats.brynbailer.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 24004               
+POS_DAY 33325               
+POS_DOMAIN 3593                
+POS_LOGIN 4328                
+POS_ROBOT 4483                
+POS_WORMS 5248                
+POS_EMAILSENDER 5379                
+POS_EMAILRECEIVER 5522                
+POS_SESSION 34177               
+POS_SIDER 34389               
+POS_FILETYPES 5657                
+POS_DOWNLOADS 5897                
+POS_OS 6126                
+POS_BROWSER 6410                
+POS_SCREENSIZE 8681                
+POS_UNKNOWNREFERER 8755                
+POS_UNKNOWNREFERERBROWSER 9291                
+POS_ORIGIN 9588                
+POS_SEREFERRALS 9733                
+POS_PAGEREFS 9919                
+POS_SEARCHWORDS 10173               
+POS_KEYWORDS 10348               
+POS_MISC 2358                
+POS_ERRORS 10430               
+POS_CLUSTER 4184                
+POS_SIDER_404 10634               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901003835 126 31463 14295474229392
+FirstTime 20200801004814
+LastTime 20200831205836
+LastUpdate 20200901060933 126 0 125 0 0
+TotalVisits 598                 
+TotalUnique 232                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 240                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 17 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 42 42 96280 164 179 15586202
+1 39 60 406578 152 155 276147
+2 30 30 51817 194 226 10126874
+3 62 62 198516 253 266 4680763
+4 39 39 119238 166 175 220141
+5 44 44 71544 215 241 3055980
+6 34 34 102414 152 185 12996361
+7 569 786 16323500 445 621 8495829
+8 56 98 852677 201 223 12574450
+9 40 40 55173 247 270 1219715
+10 34 95 1417096 170 181 6972803
+11 39 39 111790 121 220 23232347
+12 80 80 72623 281 301 223247
+13 51 112 1484633 146 157 4153712
+14 54 87 23284250 136 151 6302319
+15 40 103 1115341 124 139 10718500
+16 73 143 2139809 192 208 9323982
+17 103 227 2504816 155 235 9739884
+18 52 91 612295 171 188 9318675
+19 35 56 571236 163 173 482544
+20 32 32 40483 180 246 12954772
+21 72 91 281063 155 203 5775467
+22 94 94 190257 88 180 5444763
+23 51 72 497991 153 213 10115894
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 38
+us 1345 1900 23719735
+gb 101 143 1340763
+ru 56 117 1762158
+ca 29 102 24134079
+fr 24 24 232488
+id 22 22 4532
+br 22 22 4532
+in 16 16 19778
+ua 14 14 191256
+pl 12 12 20434
+ao 11 11 2266
+vn 11 11 31996
+jo 9 9 1854
+nl 9 9 64783
+tr 8 8 20159
+de 8 8 29065
+cn 8 27 190308
+at 7 7 1442
+hr 6 6 1236
+lk 5 5 1030
+py 5 5 1030
+za 4 4 6770
+se 4 4 24608
+ae 3 3 618
+cl 3 3 18456
+sc 2 2 7668
+my 1 1 6152
+zz 2 23 337186
+ma 1 1 206
+rs 1 1 6152
+th 3 3 21485
+tw 3 3 618
+ie 3 24 338231
+kh 1 1 6152
+hk 2 2 7092
+eu 1 1 18717
+ee 1 1 18717
+il 2 2 7668
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+spider 292 3231591 20200831073855 0
+Googlebot/ 252 1625124 20200830221836 16
+bot[\s_+:,\.\;\/\\-] 194 152342152 20200826113432 36
+bingbot/ 162 17151212 20200830221643 34
+YandexBot/ 60 174759 20200831132957 33
+bingpreview 48 1042627 20200830230523 0
+unknown 21 1407 20200831060942 21
+Mail\.RU_Bot/ 16 49752 20200822124725 8
+Apache\-HttpClient/ 15 96105 20200824052438 0
+Applebot/ 6 18207 20200830195657 3
+no_user_agent 4 74868 20200821133014 0
+crawl 4 95026 20200818064516 0
+Python\-urllib/ 4 3436 20200831185209 1
+(firefox/)([0-9]\.|[0-1][0]\.) 3 18456 20200821171019 0
+YandexImages/ 1 0 20200802211809 0
+php 1 206 20200827131652 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 27 3423033 0 0
+js 404 6157645 0 0
+xml 56 58520 0 0
+php 820 468852 0 0
+Unknown 83 123981 0 0
+jpg 61 26330915 0 0
+html 806 14284752 0 0
+css 281 1331086 0 0
+gif 19 422636 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+//wp-content/plugins/gallery-by-supsystic/readme.txt 31 0 1391683
+//wp-content/plugins/lightbox/readme.txt 31 0 498697
+//wp-content/plugins/easy-social-icons/readme.txt 31 0 214582
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+macosx12 6 6
+Unknown 746 692
+win8.1 9 9
+macosx11 13 13
+winlong 4 4
+linuxubuntu 3 3
+ios_iphone 70 7
+macosx 82 21
+win10 367 192
+winxp 9 9
+macosx10 42 42
+linuxandroid 157 35
+win7 872 678
+macosx8 1 1
+win8 2 2
+linux 174 51
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 109
+chrome80.0.3987.0 69 6
+chrome84.0.4147.135 105 14
+firefox38.0 6 6
+firefox62.0 1 1
+opera12.17 1 1
+chrome26.0.1410.65 1 1
+chrome78.0.3904.108 8 8
+chrome71.0.3578.98 4 4
+chrome76.0.3809.132 3 3
+firefox41.0 1 1
+edge36 11 11
+msie6.0 1 1
+chrome39.0.2171.95 36 36
+firefox50.0 2 2
+chrome34.0.1847.131 1 1
+msie10.0 2 2
+firefox28.0 9 9
+firefox60.0.1 2 2
+chrome74.0.3729.131 1 1
+chrome77.0.3865.90 1 1
+chrome67.0.3396.62 2 2
+firefox60.0.2 2 2
+firefox65.0 2 2
+chrome84.0.4147.89 3 3
+firefox56.0 2 2
+chrome80.0.3987.149 23 23
+chrome53.6.1980.5618 1 1
+firefox63.0 4 4
+safari10.1 2 2
+chrome69.0.3359.154 1 1
+firefox72.0 50 50
+chrome56.0.2986.42 1 1
+chrome64.0.3282.167 2 2
+chrome70.0.3538.77 1 1
+chrome65.0.3325.181 2 2
+chrome65.0.3325.88 2 2
+mozilla 111 57
+chrome6.0 1 1
+chrome66.0.3359.66 2 2
+firefox36.0 2 2
+firefox57.0 4 4
+chrome5.0.375.99 4 4
+safari8.0 46 4
+android 1 1
+chrome67.0.3372.0 2 2
+firefox56.0.4 1 1
+chrome84.0.4147.125 2 2
+firefox59.0 3 3
+firefox73.0 1 1
+chrome58.0.1145.75 3 3
+firefox64.0 3 3
+opera12.14 1 1
+chrome76.0.3809.100 1 1
+chrome74.0.3729.169 4 4
+chrome78.0.3904.97 2 2
+chrome60.0.2924.87 1 1
+msie9.0 678 503
+firefox52.0 1 1
+firefox45.0 2 2
+netscape5.0 3 3
+chrome75.0.3770.142 23 5
+chrome30.0.1599.101 1 1
+chrome52.0.2777.35 1 1
+chrome74.0.3729.157 1 1
+chrome73.0.3683.90 16 16
+chrome53.0.2785.116 1 1
+chrome50.0.2661.102 1 1
+firefox43.0 21 2
+chrome59.0.3071.109 147 147
+chrome69.0.3475.157 1 1
+chrome63.0.3239.132 17 17
+chrome83.0.4103.61 1 1
+chrome71.0.3563.0 23 2
+chrome68.0.3440.75 8 8
+Unknown 621 621
+chrome58.0.3029.110 5 5
+chrome76.0.3809.71 69 6
+chrome79.0 6 6
+chrome83.0.4103.116 67 6
+firefox53.0 2 2
+chrome66.0.3359.181 2 2
+chrome66.0.3359.139 2 2
+chrome80.0.3987.132 23 2
+chrome80.0.3987.162 72 11
+msie8.0 4 4
+chrome80.0.3987.122 1 1
+safari13.1.2 23 2
+chrome46.0.2490.80 4 4
+firefox68.0 68 7
+chrome51.0.2704.84 2 2
+chrome75.0.3770.100 2 2
+chrome34.0.1847.137 1 1
+chrome79.0.3945.130 8 8
+netscape 22 22
+firefox4 2 2
+firefox70.0 1 1
+safari11.1 2 2
+chrome45.0.2454.94 1 1
+chrome84.0.4147.105 26 5
+chrome36.0.1985.125 1 1
+firefox67.0 3 3
+safari9.0 1 1
+chrome73.0.3683.103 1 1
+chrome66.0.3359.117 3 3
+opera53.0.2907.37 2 2
+firefox54.0 1 1
+firefox69.0 1 1
+chrome79.0.3945.88 1 1
+chrome69.0.3497.100 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+WordPress/4.9.15;_http://www.brynbailer.com 20200831205454
+Mozilla 20200824092958
+Python/3.8_aiohttp/3.6.2 20200817234706
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200811171927
+Go-http-client/1.1 20200828233735
+User-Agent\ 20200824173829
+Cpanel-HTTP-Client/1.0 20200811171922
+\ 20200825140739
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200827153721
+Mozilla/4.0_(compatible;_Synapse) 20200802181122
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+\ 20200825140739
+Go-http-client/1.1 20200828233735
+User-Agent\ 20200824173829
+Cpanel-HTTP-Client/1.0 20200811171922
+WordPress/4.9.15;_http://www.brynbailer.com 20200831205454
+Python/3.8_aiohttp/3.6.2 20200817234706
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 434 467
+From1 4 4
+From2 508 652
+From3 55 55
+From4 764 1379
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+baidu 1 1
+bing 2 2
+www_google_com 505 649
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://www.facebook.net 50 50
+http://site.ru 3 3
+http://mail.brynbailer.com 1 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+amazon 2
+alphabetspt 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+amazon 2
+alphabetspt 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+301 887 239
+206 1 6152
+406 1812 406348
+404 728 7536251
+403 282 36582
+500 13 33071
+405 41 1680
+302 58 0
+409 397 32951
+400 17 17
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 305
+/wp-content/plugins/uploader/uploadify/uploadify.css 1 http://www.google.com/
+/wp-content/plugins/advanced-access-manager/media/js/vendor.js 1 http://brynbailer.com/wp-content/plugins/advanced-access-manager/media/js/vendor.js
+/old-site/ 4 -
+/reset.php 2 -
+/sitemap.xml 1 -
+/ 91 -
+/ad.php 1 http://brynbailer.com/ad.php
+/wp-content/plugins/quiz-master-next/js/admin.js 1 http://brynbailer.com/wp-content/plugins/quiz-master-next/js/admin.js
+/wp-content/plugins/videowhisper-video-presentation/vp/translation.php 1 http://www.google.com/
+/wp-content/plugins/mm-forms/includes/doajaxfileupload.php 1 http://www.google.com/
+/sql.php 1 -
+/wp-config-old-old 1 -
+/wp-content/plugins/nmedia-user-file-uploader-pro-v7.4-HTML5/nm_fileuploader_style.css 1 http://www.google.com/
+/wp-content/plugins/videowhisper-video-conference-integration/vc/flash_detect_min.js 1 http://www.google.com/
+/wp-config-1.php-bak 2 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/themes/twentyfifteen/zooapplication.php 1 -
+/wp-content/plugins/ultimate-elementor/assets/js/js_cookie.js 1 -
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-content/plugins/modules/sid.php 1 -
+/ajax-index.php 4 www.brynbailer.com
+/wp-config.phpbk 1 -
+/wp-content/plugins/pica-photo-gallery/css/style.css 1 http://www.google.com/
+/wp/wp-admin/install.php 2 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/db.php 2 http://brynbailer.com/db.php
+/Gjssmnd.php 2 -
+/qw.php 3 http://site.ru
+/sites/all/stats.php 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/vb/ajax/render/widget_tabbedcontainer_tab_panel 1 www.google.com
+/2019/ 4 -
+/phpminiadmin.php 1 -
+/wp-content/plugins/trx_addons/js/trx_addons.debug.js 1 -
+/wp-content/plugins/elementor/assets/js/editor.js 1 -
+//wp-json/trx_addons/v2/get/sc_layout 2 -
+/1.txt 2 -
+/wp-config.temp 1 -
+/OLD/wp-admin/ 2 http://brynbailer.com/
+/public_html.zip 1 -
+/wp-content/plugins/simple-forum/resources/jscript/ajaxupload/ajaxupload.js 1 http://www.google.com/
+/portal/ 1 -
+/new-site/ 4 -
+/backup/wp-includes/wlwmanifest.xml 1 -
+/logo_img.php 1 -
+/wp-content/themes/divi/js/admin_post_settings.js 1 -
+/wp-content/plugins/wpstorecart/php/upload.php 1 http://www.google.com/
+/site/wp-includes/wlwmanifest.xml 1 -
+/oldsite/wp-admin/install.php 1 -
+/file.php 2 -
+/blogs/wp-includes/wlwmanifest.xml 1 -
+/v2/wp-includes/wlwmanifest.xml 1 -
+/blog/ 12 -
+/pass.php 1 -
+/wp-content/themes/distance-lite/languages/namespaces.php 3 http://site.ru
+/blog/wp-admin/install.php 1 -
+/Fcsdvb.php 1 -
+/sql/ 1 -
+/forum/f0x.php 1 www.google.com
+/wp-content/plugins/hd-webplayer/playlist.php 1 -
+/installer-backup.php 3 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 1 -
+/store/wp-includes/wlwmanifest.xml 1 -
+/wp-1ogin_bak.php 1 -
+/ads.txt 5 http://brynbailer.com/ads.txt
+/wp-config.php_rev 1 -
+/demo/wp-includes/wlwmanifest.xml 1 -
+/2018/ 4 -
+/staging/wp-includes/wlwmanifest.xml 1 -
+/thumbnail.php 2 -
+/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-mu-backend.js 2 -
+/admin/.env 3 -
+/mysql/print.css 1 -
+/wp-content/plugins/image-symlinks/uploadify/uploadify.css 2 http://www.google.com/
+/blog/wp-json/ 1 -
+/backup.zip 2 -
+/gasetui.php 1 -
+/wp-content/themes/wp-update.php 2 www.brynbailer.com
+/jm-ajax/upload_file/ 1 -
+/wp-config-3.php-bak 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js 1 -
+/wp-configphp 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/24-2%5C/%5C%22 1 http://www.google.com/url
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/22-2%5C/%5C%22 1 http://www.google.com/url
+/Fshjbs.php 2 -
+/klash.php 2 -
+/wp-content/plugins/omni-secure-files/plupload/examples/upload.php 1 http://www.google.com/
+/db/ 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/contact-2%5C/%5C%22 1 http://www.google.com/url
+/th1s_1s_a_4o4.html 31 http://www.google.com/url
+/siteindex.php 1 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/in-the-mass-transit-world-time-waits-for-no-man-even-for-the-head-of-pragues-public-transportation-kingdom%5C/%5C%22 1 http://www.google.com/url
+/vbulletin/ajax/render/widget_tabbedcontainer_tab_panel 1 www.google.com
+/wp-admin/vuln.php 1 -
+/temp/ 5 -
+/wordpress/wp-admin/ 5 http://brynbailer.com/
+/_adminer.php 2 http://brynbailer.com/_adminer.php
+/adminer 1 http://brynbailer.com/adminer
+/news/wp-includes/wlwmanifest.xml 1 -
+/wso.php 2 -
+/zoo.php 2 -
+/test/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/class.php 5 -
+/brynbailer.com.zip 2 -
+/phpmyadmin/ 3 -
+/admin/login.php 1 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/myadmin/print.css 1 -
+/wp-config.tmp 1 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/cleaning-up-reno-by-cracking-down-on-low-budget-motels%5C/%5C%22 1 http://www.google.com/url
+/wp-content/plugins/a/wp-add.php 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 3 -
+/tmp/ 5 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/test-page%5C/%5C%22 1 http://www.google.com/url
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/brush-with-the-law-when-inmates-say-i-was-framed-theyre-talking-about-artwork%5C/%5C%22 1 http://www.google.com/url
+/wp-includes/css/css.php 1 -
+/NFam.php 1 -
+/wp-content/plugins/category-page-icons/css/menu.css 1 -
+/dev/ 5 -
+/phpmyadmin/print.css 1 -
+/wp2/ 4 -
+/wp-content/plugins/divi-builder/js/admin.js 1 -
+/wp-content/plugins/adminer/inc/editor/ 2 http://brynbailer.com/wp-content/plugins/adminer/inc/editor/index.php
+/wordpress.zip 1 -
+/wp-config-0.php-bak 2 -
+/wp-admin.zip 2 -
+/old/wp-admin/ 3 http://brynbailer.com/
+/Mkutp.php 2 -
+/wp-config.php_bak 1 http://brynbailer.com/wp-config.php_bak
+/Nex.php 1 -
+/v2/ 4 -
+/igz.php 2 -
+/beta/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/quiz-master-next/js/qsm-admin-emails.js 1 brynbailer.com
+/wp-config-2.php-bak 2 -
+/wp-content/plugins/quiz-master-next/css/qmn_quiz.css 2 -
+/checkout 1 -
+/wp-content/plugins/html5avmanager/lib/uploadify/uploadify.css 1 http://www.google.com/
+/mysql.php 2 http://brynbailer.com/mysql.php
+/v1/ 4 -
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 1 -
+/laravel/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/plugins/hot-blocks/huh.php 1 -
+/stats.php 1 -
+/cms/ 5 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/26-2%5C/%5C%22 1 http://www.google.com/url
+/wp-json/wp/v2/posts/None 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/wp-content/uploads/404.php 1 http://site.ru
+/password.php 1 -
+/configbak.php 1 -
+/en/wp-includes/wlwmanifest.xml 1 -
+/.wp-config.php.sw 1 -
+/administrator/ 1 -
+/wp-content/plugins/new/404.php 1 -
+/wp-content/plugins/videowhisper-video-conference-integration/vc/vw_upload.php 2 http://www.google.com/
+/web/ 5 -
+/22.php 1 -
+/wp-content/wp-mini.php 1 -
+/dev/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/learnpress/assets/js/frontend/add-to-cart.js 1 -
+/wp-content/plugins/duplicator/assets/js/global-admin-script.js 1 -
+/install/ 4 -
+/phpMyAdmin/ 3 -
+/wp-info.php 1 -
+/changepassword.php 1 -
+/wp-content/plugins/videowhisper-video-presentation/vp/vw_upload.php 1 http://www.google.com/
+/cgi-bin.zip 2 -
+/0d4c..php 1 -
+/forum/ajax/render/widget_tabbedcontainer_tab_panel 1 www.google.com
+/wp-configfix 1 -
+/demo/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/mode.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/28-2%5C/%5C%22 1 http://www.google.com/url
+/wp-content/themes/extra/scripts/ext/html5.js 1 -
+/wp-content/plugins/gallery-plugin/upload/php.php 1 http://www.google.com/
+/wp-config-4.php-bak 1 -
+/wp-content/adminer.php 2 http://brynbailer.com/wp-content/adminer.php
+/a.php 1 http://brynbailer.com/a.php
+/wp-content/img.php 2 -
+/popcorn.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/humans.txt 5 http://brynbailer.com/humans.txt
+/assets/images/wp_wrong_datlib.php 1 -
+/backup/ 12 -
+/wp-includes/js/87/ 2 http://site.ru
+/wp-content/plugins/ioptimization/IOptimize.php 11 -
+/includesa.php 2 -
+/ww-te.php 1 -
+/Gshdva.php 2 -
+/wp-content/wp-muen.php 1 -
+/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css 1 http://www.google.com/
+/bak/ 4 -
+/forums/ 1 -
+/tMxg.php 2 -
+/wp-config_php 1 -
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 1 http://www.google.com/
+/wp-configold.txt 2 -
+/database/print.css 1 -
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 2 -
+/site.zip 1 -
+/1/wp-includes/wlwmanifest.xml 1 -
+/wp-config.php_old 1 http://brynbailer.com/wp-config.php_old
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 1 http://www.facebook.net/
+/old/wp-admin/install.php 2 -
+/wp-config 1 -
+/wp-content/wp-cons.php 1 -
+/wp-content/plugins/redirection/models/wp-contentt.php 3 http://site.ru
+/v1/wp-includes/wlwmanifest.xml 1 -
+/vbulletin/f0x.php 1 www.google.com
+/pma/print.css 1 -
+/connect.php 2 http://brynbailer.com/connect.php
+/new/wp-admin/install.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/34-2%5C/%5C%22 1 http://www.google.com/url
+/no.php 1 -
+/old-wp/ 4 -
+/wp-config.php_new 1 http://brynbailer.com/wp-config.php_new
+/wp-content/plugins/contus-video-galleryversion-10/upload1.php 1 http://www.google.com/
+/f0x.php 1 www.google.com
+/bbob.php 2 -
+/wp-content/plugins/woo-discount-rules/v1/assets/css/woo_discount_rules.css 2 http://brynbailer.com/wp-content/plugins/woo-discount-rules/v1/assets/css/woo_discount_rules.css
+/wordpress/wp-admin/install.php 4 -
+/admin/ 1 -
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 1 -
+/wp-web.php 1 -
+/.well-known.zip 1 -
+/sites/default/settings.php 1 -
+/adminer.php 3 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/32-2%5C/%5C%22 1 http://www.google.com/url
+/wp-admin/vuln.htm 1 -
+/ajax/render/widget_tabbedcontainer_tab_panel 1 www.google.com
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/%5C%22 1 http://www.google.com/url
+/phpMyAdmin/print.css 1 -
+/Bhsddf.php 1 -
+/wp-content/uploads/adminer.php 2 http://brynbailer.com/wp-content/uploads/adminer.php
+/vb/f0x.php 1 www.google.com
+/old/ 12 -
+/wp-content/_input_3_vuln.htm 1 -
+/304/ 22 http://www.brynbailer.com/
+/.git/HEAD 32 -
+/Tobeys.php 2 -
+/wp-content/plugins/angwp/assets/fonts/font-awesome/css/font-awesome.min.css 1 -
+/_adminer 1 http://brynbailer.com/_adminer
+/VBulletin/f0x.php 1 www.google.com
+/store.php 1 -
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php 4 http://www.google.com/
+/2020/ 4 -
+/site/ 5 -
+/back/ 7 -
+/wp-content/plugins/duplicator-pro/assets/js/global-admin-script.js 1 -
+/wp-content/plugins/nmedia-user-file-uploader/nm_fileuploader_style.css 1 http://www.google.com/
+/wp-config1 1 -
+/oldsite/ 7 -
+/wp-config.tpl 1 -
+/VBulletin/ajax/render/widget_tabbedcontainer_tab_panel 1 www.google.com
+/demo/ 5 -
+/pma/ 3 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.css 1 http://www.google.com/
+/change.php 1 -
+/bk/ 4 -
+/adm.php 1 http://brynbailer.com/adm.php
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 1 -
+/mysqladmin/ 1 -
+/wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.brynbailer.com%5C/a-feast-for-the-eyes-extraordinarily-beautiful-sinfully-delicious-indulge-in-these-decadent-desserts%5C/%5C%22 1 http://www.google.com/url
+/Archive.zip 2 -
+/coldshack.php 1 -
+/database/ 1 -
+/wp-content/themes/plaintext/includes/custom-header.php.suspected 1 http://site.ru
+/wp-content/plugins/downloads-manager/img/unlock.gif 1 -
+/wp-content/plugins/profile-builder/assets/js/script-front-end.js 1 -
+/wp-config.php_Old 1 http://brynbailer.com/wp-config.php_Old
+/wp-content/plugins/woo-discount-rules/assets/css/woo_discount_rules.css 2 http://brynbailer.com/wp-content/plugins/woo-discount-rules/assets/css/woo_discount_rules.css
+/wp-config.php2020 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/favicon.png 1 -
+/new/ 12 -
+/pma.php 2 http://brynbailer.com/pma.php
+/wp-content/uploads/wp-dba.php 2 www.brynbailer.com
+/mysql/ 1 -
+/wp-config2 1 -
+/wp-content/plugins/tc-custom-javascript/assets/bootstrap/js/npm.js 1 -
+/_input_3_vuln.htm 1 -
+/backup/wp-admin/ 2 http://brynbailer.com/
+/cache/wp_wrong_datlib.php 1 -
+/wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 1 -
+/myadmin/ 1 -
+/wp/ 12 -
+/main/wp-includes/wlwmanifest.xml 1 -
+/Hyugfes.php 2 -
+/wp/wp-admin/ 2 http://brynbailer.com/
+/wp-config_old_old 1 -
+/wp-config.php_org 2 -
+/wp-config.phpbkp 1 -
+/wp-content/themes/Divi/css/tinymce-skin/content.inline.min.css 2 -
+/wp1/ 4 -
+/installer.php 3 -
+/wp-content/plugins/zingiri-web-shop/fws/addons/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/ajaxfilemanager.php 1 http://www.google.com/
+/dev/wp-admin/ 1 http://brynbailer.com/
+/Bsgfru.php 2 -
+/main/ 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 240
+67.222.39.71 634 634 2664 20200831205454
+184.154.139.15 112 147 3415228 20200827073230
+184.154.139.14 112 147 3415230 20200831073847
+184.154.139.16 96 126 2927340 20200823073530
+184.154.139.26 80 105 2439448 20200830073657
+184.154.139.23 64 84 1951560 20200821074139
+51.83.216.204 50 50 44904 20200807224125
+184.154.36.170 37 67 1360484 20200826073852
+62.210.141.218 12 12 85940 20200809182957
+134.19.154.120 11 11 2266 20200830055308
+107.77.245.35 11 72 1389449 20200805134214
+79.191.165.64 11 11 2266 20200822212800
+177.42.37.162 11 11 2266 20200829122911
+69.160.160.54 11 32 412298 20200806231441
+103.154.160.58 11 11 2266 20200825031212
+118.96.110.23 11 11 2266 20200822212903
+154.237.200.54 11 11 2266 20200826161446
+36.79.54.143 11 11 2266 20200826161223
+179.100.127.174 11 11 2266 20200817123921
+75.80.103.185 10 80 2089437 20200819165658
+35.222.218.248 10 10 61072 20200827162838
+158.69.26.193 10 22 22645534 20200827143429
+91.186.255.2 9 9 1854 20200817123754
+5.62.60.57 9 9 220914 20200811144643
+46.101.112.213 9 9 64783 20200807082500
+40.85.144.117 8 8 25836 20200830230055
+35.196.135.155 3 24 343338 20200814072504
+5.135.138.188 1 1 18717 20200808231209
+3.113.215.140 1 1 307 20200811014530
+31.13.127.22 0 1 22244 
+5.62.35.132 2 2 171574 20200814195842
+64.137.74.231 1 1 6152 20200810234500
+103.143.126.166 1 1 206 20200826161236
+212.47.248.106 1 1 6152 20200806011051
+172.245.195.182 1 1 6152 20200827223808
+3.114.6.114 4 4 1966 20200811155620
+51.158.154.104 1 1 17688 20200825012019
+181.215.151.21 1 1 6152 20200823033344
+13.72.69.248 2 2 19762 20200815155305
+18.232.153.92 2 2 614 20200831172834
+185.10.68.230 1 1 6152 20200823133647
+35.227.127.76 2 23 337186 20200828152854
+180.176.93.143 3 3 618 20200830055759
+31.13.127.13 0 1 1625 
+104.196.216.71 2 2 12304 20200827033409
+52.186.140.165 2 2 12304 20200831154054
+31.13.127.18 0 5 67963 
+46.105.123.181 1 1 6152 20200831110001
+51.210.39.253 4 4 24381 20200831003931
+107.172.66.243 1 1 6152 20200823200340
+31.13.127.16 1 15 245352 20200801140612
+34.68.189.98 5 5 30535 20200828170235
+34.209.232.166 2 2 174 20200811171925
+45.14.74.205 2 2 11468 20200807052007
+23.94.150.153 1 1 6152 20200813181455
+78.46.190.137 4 4 9144 20200823092807
+104.197.160.61 5 5 30536 20200813192338
+20.48.98.247 5 5 3011 20200818175314
+178.213.185.34 1 1 18717 20200802181122
+37.186.43.155 7 7 1442 20200826161515
+181.122.114.210 5 5 1030 20200817123528
+36.110.199.20 0 5 26233 
+92.244.96.108 2 2 57592 20200819115614
+41.248.114.134 1 1 206 20200817123937
+43.225.44.190 2 2 7092 20200831121803
+51.116.238.84 3 3 921 20200819013740
+163.198.6.218 1 1 6152 20200826232614
+14.172.74.21 1 1 6152 20200825042557
+51.15.34.154 1 1 18168 20200811051053
+100.25.157.100 2 2 6459 20200816143524
+206.189.117.9 2 2 37434 20200828214053
+51.144.83.227 1 1 1045 20200804000527
+18.196.96.172 1 1 87 20200811171925
+178.208.83.57 1 1 18717 20200809035041
+185.232.65.140 1 1 1465 20200820040312
+176.240.81.0 6 6 1236 20200817123610
+51.158.153.222 1 1 5557 20200823135809
+51.91.48.92 2 23 337186 20200805180723
+50.125.93.16 1 1 6152 20200824182119
+88.99.168.252 2 2 7617 20200821025430
+51.77.128.212 1 22 337184 20200827153719
+192.71.23.211 1 1 6152 20200826223601
+193.203.11.162 1 1 6152 20200802031055
+45.89.173.198 2 2 19762 20200830214624
+192.71.42.108 1 1 6152 20200822131510
+1.20.184.238 3 3 21485 20200828134827
+93.142.169.143 4 4 824 20200830060406
+142.93.242.170 3 3 13769 20200822050950
+36.110.199.29 1 5 15872 20200813214946
+45.142.28.250 2 2 7668 20200829171041
+40.69.67.254 1 1 1045 20200802213404
+38.18.47.237 1 1 6152 20200808061249
+62.171.176.16 8 8 49216 20200808173205
+40.114.54.111 3 3 21485 20200817183207
+95.142.126.134 1 1 1045 20200811141816
+23.129.64.211 2 23 337186 20200826080450
+65.155.30.101 4 46 674372 20200831015115
+45.90.58.33 2 2 37434 20200811033919
+54.80.196.253 1 1 5130 20200817234706
+173.44.222.54 1 1 6152 20200824035238
+207.183.142.49 1 1 6152 20200824173829
+37.187.132.5 1 1 18717 20200807022800
+151.106.62.86 2 2 12304 20200815072612
+62.210.83.78 2 2 12304 20200824044957
+52.142.146.176 1 1 1045 20200807081622
+192.99.14.199 1 1 18717 20200819121606
+51.103.23.214 3 3 921 20200829002704
+65.154.226.109 2 23 337186 20200811172141
+192.186.143.120 2 2 7668 20200804085309
+103.214.21.124 1 1 6152 20200802093335
+109.252.138.104 1 1 18717 20200818142145
+107.6.169.250 1 1 6152 20200815044150
+23.254.30.45 1 1 6152 20200806184052
+93.100.132.97 3 3 63149 20200821150248
+3.128.26.105 3 3 261 20200811171925
+88.99.26.12 1 1 3497 20200831194518
+52.201.211.41 2 2 6459 20200814021033
+192.151.148.141 1 1 5557 20200801120646
+155.94.171.98 1 1 5316 20200827223809
+105.245.120.170 3 3 618 20200825030358
+198.27.69.130 1 1 18717 20200806013946
+35.237.67.39 2 2 12304 20200827035552
+192.252.220.53 1 1 307 20200818022848
+5.62.20.30 1 1 1045 20200818160528
+104.196.192.0 3 24 343338 20200814072441
+175.144.198.225 1 1 6152 20200827131544
+36.110.199.45 0 2 3336 
+68.110.1.199 4 25 342504 20200823191413
+34.233.170.90 1 1 6152 20200811234229
+158.69.38.243 6 6 42970 20200808040631
+196.245.219.239 2 2 7668 20200811084044
+222.182.58.163 1 1 6152 20200815123005
+176.100.189.4 2 2 57592 20200822061742
+173.230.158.167 1 1 18717 20200814063440
+77.74.177.114 1 1 6152 20200819210201
+42.83.147.202 1 1 18717 20200812213414
+5.165.210.247 8 8 94403 20200810224030
+47.26.52.235 6 67 1382068 20200801174954
+185.179.24.34 1 1 1045 20200823130621
+195.175.76.14 1 1 18717 20200822221721
+192.240.236.97 1 1 6538 20200807052006
+36.110.199.22 0 5 43883 
+138.91.155.91 6 6 42970 20200816000320
+52.250.120.105 2 2 6459 20200803160615
+142.112.102.77 2 2 12304 20200803200945
+107.6.183.226 1 1 6152 20200802135702
+69.4.234.41 3 3 7648 20200802090015
+51.178.66.51 2 2 12304 20200811172030
+35.158.227.252 1 1 307 20200825172337
+24.23.77.154 2 23 337572 20200820174833
+114.237.75.60 1 1 6152 20200822210526
+107.152.99.41 1 1 18717 20200809142339
+212.164.64.192 1 1 18717 20200820134238
+91.121.79.16 2 2 37434 20200825053752
+95.181.152.129 3 3 33428 20200811081116
+3.129.194.132 5 23 147646 20200831185212
+36.110.199.161 0 1 7114 
+185.117.149.56 6 67 1382900 20200808100822
+69.147.248.140 2 2 7668 20200801105241
+185.185.25.226 3 3 13769 20200822221404
+46.8.222.248 1 1 403 20200825122425
+95.178.166.169 2 2 412 20200825030045
+52.28.236.88 2 2 174 20200811171925
+144.168.162.250 1 1 18717 20200822020308
+198.12.108.109 2 2 11468 20200813131607
+51.158.163.159 1 1 6152 20200828122527
+188.93.56.216 1 1 6152 20200825124019
+51.158.104.218 1 1 6152 20200805154958
+94.140.116.118 1 1 18717 20200829011914
+168.151.208.225 1 1 6152 20200831041624
+185.220.101.137 1 1 16666 20200811190047
+206.41.174.33 1 1 5316 20200827200116
+46.248.167.158 1 1 18168 20200822233824
+64.246.165.170 1 1 6152 20200820012511
+185.157.105.2 1 1 206 20200830060412
+34.74.178.56 2 2 12304 20200821193729
+142.54.172.170 1 1 18717 20200804061618
+192.157.56.101 2 2 11468 20200807172136
+18.180.226.251 1 1 1045 20200807013416
+207.244.117.69 2 2 7668 20200824035243
+213.231.31.28 1 1 6152 20200805004906
+51.158.154.131 1 1 17688 20200826003723
+34.211.6.84 1 1 87 20200811171925
+20.51.233.2 1 1 307 20200802072543
+54.147.248.244 1 1 6152 20200828233735
+62.171.135.115 1 1 13320 20200823033648
+172.245.58.59 1 1 6152 20200827200110
+37.232.180.231 1 1 1522 20200817141226
+95.181.152.134 2 2 27276 20200804074933
+128.199.194.131 1 1 18717 20200827041505
+185.81.157.132 1 1 6152 20200815093103
+221.13.12.230 1 1 6152 20200812031055
+178.136.123.39 1 1 18717 20200814110317
+66.133.109.36 3 3 261 20200811171925
+103.21.58.28 1 1 3486 20200831205836
+34.223.82.26 1 1 6152 20200826102453
+94.130.215.235 2 2 7617 20200820090634
+3.81.245.94 1 1 18717 20200825140739
+157.230.118.247 1 1 307 20200829101745
+46.251.94.199 2 2 412 20200825030715
+34.74.236.243 2 23 337186 20200814084614
+191.101.77.222 2 2 12304 20200803184506
+31.13.127.6 1 1 2 20200801140618
+171.244.33.141 4 4 24608 20200805123538
+192.71.126.175 2 2 12304 20200815161629
+62.171.188.246 1 1 6156 20200824092958
+146.185.202.206 1 1 6152 20200810000044
+176.100.189.166 1 1 18717 20200803071518
+23.83.89.22 1 1 5316 20200813181458
+193.106.30.99 4 4 6152 20200830083205
+111.223.146.155 5 5 1030 20200822212948
+13.82.196.232 2 2 19762 20200809104928
+86.99.17.56 3 3 618 20200822212621
+36.110.199.172 0 2 44391 
+35.243.217.51 2 23 337186 20200828152340
+36.110.199.28 1 1 2 20200813214958
+209.127.173.89 1 1 5316 20200806184053
+185.234.187.48 1 1 5316 20200820114634
+51.159.30.87 1 1 6152 20200825004626
+178.246.124.134 1 1 206 20200830060148
+106.12.198.40 2 2 12304 20200820005634
+13.71.139.68 4 4 1966 20200824202823
+157.245.90.36 1 1 6152 20200808135922
+123.20.92.7 6 6 1236 20200829123023
+77.74.177.113 2 2 12304 20200819212444
+188.165.211.206 2 2 37434 20200827174317
+163.172.106.199 2 2 12304 20200802071951
+2.56.101.172 2 2 7668 20200824154823
+95.181.152.132 2 2 12304 20200814212818
+85.215.86.20 2 2 7617 20200821210611
+107.150.169.50 1 1 6152 20200812042555
+104.144.112.184 2 2 11468 20200801080245
+212.227.164.225 1 1 6152 20200823082521
+5.157.56.45 1 1 18717 20200831042011
+91.216.107.230 1 1 3486 20200825040919
+36.37.150.115 1 1 6152 20200817143139
+209.242.216.39 1 1 6152 20200823230618
+82.202.204.118 1 1 18717 20200820215857
+167.71.180.243 1 1 537 20200827220535
+54.185.140.95 1 1 6152 20200806090946
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200801 55 142 2277930 20
+20200802 48 53 577126 22
+20200803 42 47 570867 17
+20200804 49 54 582797 18
+20200805 54 141 2245285 15
+20200806 62 88 964162 17
+20200807 106 111 654010 20
+20200808 48 114 1935600 14
+20200809 47 72 951582 18
+20200810 44 49 595949 16
+20200811 116 163 1541848 33
+20200812 40 45 549447 17
+20200813 47 71 682193 18
+20200814 58 126 1739830 17
+20200815 40 45 538412 18
+20200816 41 46 517924 12
+20200817 83 88 535537 22
+20200818 41 46 508573 18
+20200819 50 125 2666247 18
+20200820 50 76 889598 20
+20200821 42 47 573020 15
+20200822 76 81 653258 23
+20200823 55 81 904490 20
+20200824 49 54 528452 21
+20200825 67 72 569372 25
+20200826 71 97 867400 20
+20200827 65 103 23611835 26
+20200828 50 97 1264326 17
+20200829 54 59 518391 16
+20200830 60 65 531149 20
+20200831 55 99 1054810 25
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 55
+5mn-15mn 11
+15mn-30mn 19
+30s-2mn 15
+2mn-5mn 4
+30mn-1h 63
+0s-30s 431
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 104
+/wp-cron.php 601 0 301 302
+/ 245 2492966 195 121
+/xmlrpc.php 150 202259 26 26
+/contact-2/ 48 673768 6 10
+/test-page/ 42 1402771 0 1
+/category/testimonials/ 37 679474 2 1
+/wp-includes/wlwmanifest.xml 37 38665 6 6
+/wp-admin/admin-ajax.php 37 74 2 19
+/wp-json/oembed/1.0/embed 36 76835 0 31
+/feed/ 36 1358086 2 5
+/wordpress/ 34 10438 22 26
+/in-the-mass-transit-world-time-waits-for-no-man-even-for-the-head-of-pragues-public-transportation-kingdom/ 33 809127 0 0
+/brush-with-the-law-when-inmates-say-i-was-framed-theyre-talking-about-artwork/ 33 805312 0 0
+/cleaning-up-reno-by-cracking-down-on-low-budget-motels/ 33 840831 0 0
+/category/writing-samples/ 33 694214 0 0
+/a-feast-for-the-eyes-extraordinarily-beautiful-sinfully-delicious-indulge-in-these-decadent-desserts/ 33 757992 0 0
+/wp-json/ 32 1714321 1 1
+/category/writing-samples/feed/ 31 993891 0 0
+/category/testimonials/feed/ 31 238576 0 0
+/34-2/ 31 560604 0 0
+/wp-login.php 20 39961 13 12
+//wp-includes/wlwmanifest.xml 19 19855 5 7
+//wp-json/wp/v2/users/ 10 17230 0 10
+/22-2/ 8 80849 5 8
+//xmlrpc.php 7 216379 0 1
+/.well-known/acme-challenge/5jCdPCilVw79Uckm0vY8iw0XjTkJZpBBCtVaNf0G97U 4 348 0 0
+/wp-content/uploads/2019/ 1 2707 0 0
+/wp-content/uploads/2018/ 1 2707 0 0
+/.well-known/acme-challenge/X-9gsdmxUv1b_TXgytpzFJyK0EcKFBpN__fM7UGmhoI 4 348 1 2
+/wp-json/wp/v2/posts/ 1 21719 0 0
+/wp-content/uploads/2020/ 1 2023 0 0
+/wp-content/uploads/2020/05/ 1 666 0 0
+/wp-content/uploads/2018/07/ 1 666 0 0
+/wp-content/uploads/2018/03/ 1 666 0 0
+/.well-known/acme-challenge/0d13imdpv29vBnrtEgjgYo-sXxcLGSYNYx01BrpBSVE 4 348 1 4
+/.well-known/acme-challenge/P-JBS5MJ-V0V5ELLC5DNDCXYBVO6JADF 1 64 0 0
+/author/admin/ 1 16666 1 1
+/wp-content/uploads/2020/04/ 1 666 0 0
+/wp-content/uploads/2019/05/ 1 666 0 0
+/wp-content/uploads/2018/09/ 1 666 0 0
+/.well-known/acme-challenge/BNL4P7HN-B34F1D84_79W9S10_A6Z8GI 1 64 1 0
+/index.php 1 6152 1 1
+/wp-content/uploads/2018/01/ 1 666 0 0
+/wp-content/uploads/ 2 5456 1 0
+/wp-content/uploads/2017/08/ 1 666 0 0
+/wp-content/uploads/2018/12/ 1 666 0 0
+/32-2/ 1 17834 0 0
+/wp-content/uploads/2020/06/ 1 666 0 0
+/wp-content/uploads/2019/12/ 1 666 0 0
+/wp-content/uploads/2018/10/ 1 666 0 0
+/wp-content/uploads/2017/04/ 1 666 0 0
+/wp-content/uploads/2018/11/ 1 666 0 0
+/wp-content/uploads/2020/01/ 1 666 0 0
+/wp-content/uploads/2018/06/ 1 666 0 0
+/wp-content/uploads/2018/05/ 1 666 0 0
+/26-2/ 1 17659 0 0
+/.well-known/acme-challenge/OADcO9tMgmYZ5D3kLRKf2ZDRrXocaurduPW76gLMEOY 4 348 0 0
+/wp-content/uploads/2017/05/ 1 666 0 0
+/.well-known/acme-challenge/RDND2D_CUEJOPBLJ-8_-OXSB4279KIJC 1 64 0 0
+/wp-admin/admin-post.php 1 0 0 0
+/wp-content/uploads/2017/ 1 2707 0 0
+/28-2/ 1 17753 0 0
+/wp-content/uploads/2019/01/ 1 666 0 0
+/.well-known/acme-challenge/NK3PP42nea3W9f6e-IDlApmhzJNnJwXRmSC2fcU7AF4 4 348 0 0
+/.well-known/acme-challenge/5YyIkTnvZjRto7J6hyb60tVmVFwIdzPYDVdHhT8reOU 4 348 4 0
+/.well-known/acme-challenge/1II6C6PKCSX0348ARNBACRWD3H53-T01 1 64 0 0
+/.well-known/acme-challenge/M0FBPSXVDA8W81R3KTCWVV4YM8KXCOYN 1 64 0 0
+/wp-content/uploads/2017/09/ 1 666 0 0
+/wp-content/uploads/2017/03/ 1 666 0 0
+/wp-content/uploads/2017/07/ 1 666 0 0
+/wp-config.php 1 0 0 1
+/wp-content/uploads/2019/10/ 1 666 0 0
+//wp-login.php 1 3490 0 0
+/wp-content/uploads/2018/02/ 1 666 0 0
+/wp-content/uploads/2019/03/ 1 666 0 0
+/wp-content/uploads/2019/04/ 1 666 0 0
+/24-2/ 1 17767 0 0
+/wp-content/uploads/2020/02/ 1 666 0 0
+/.well-known/acme-challenge/WN6AWO30OAAWP_PVF8B5H78MUHG0ZKPD 1 64 0 0
+/wp-content/uploads/2017/11/ 1 666 0 0
+//wp-admin/install.php 1 537 1 1
+/wp-content/uploads/2019/09/ 1 666 0 0
+/wp-content/uploads/2019/11/ 1 666 0 0
+/wp-content/uploads/2019/06/ 1 666 0 0
+/wp-json/wp/v2/posts 2 43438 1 0
+/wp-content/uploads/2020/03/ 1 666 0 0
+/wp-content/uploads/2019/08/ 1 666 0 0
+/wp-content/uploads/2017/10/ 1 666 0 0
+/.well-known/acme-challenge/I504UO95JBN0A9DIZJ20-OQ1XGMSEJ7F 1 64 0 0
+/.well-known/acme-challenge/QfPEtjoN8oiBvjfWxf1N7IPtlawPbyFnK1mmb-tRmFw 4 348 0 0
+/wp-content/uploads/2019/07/ 1 666 0 0
+/wp-content/uploads/2017/12/ 1 666 0 0
+/.well-known/acme-challenge/QZVS38-1OQY9QKY07U-5AC_--2W8Q-B5 1 64 0 0
+/wp-content/uploads/2018/04/ 1 666 0 0
+/wp-content/uploads/2017/06/ 1 666 0 0
+/.well-known/acme-challenge/_66A83P13R77RZ97Z0OXUM1EJCGLKD96 1 64 0 0
+/wp-content/uploads/2019/02/ 1 666 0 0
+/wp-content/uploads/2020/08/ 1 666 0 1
+/.well-known/acme-challenge/Qfdto13_Bcn7uGU_88wamhS0ykdYY22JPjRSpok_gHs 4 348 0 0
+/.well-known/acme-challenge/xYwMc2hASVdqn7Z-MsrEJEIj8CTaNe2ezj1rcfbHCy8 4 348 0 0
+/wp-content/uploads/2017/02/ 1 666 0 0
+/wp-content/uploads/2017/01/ 1 666 0 0
+/wp-content/uploads/2018/08/ 1 666 0 0
+/wp-content/uploads/2020/07/ 1 666 0 0
+END_SIDER
