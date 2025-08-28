@@ -6,4 +6,4 @@ layout: layout.njk
 
 Welcome to my website. This site is currently under development and will be updated with more information and content.
 
-Thank you for your patience. Please check back later for updates.
+Thank you for your patience. Please check back later.
