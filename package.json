@@ -19,7 +19,7 @@
 	"bugs": {
 		"url": "https://github.com/acatejr/brynbin/issues"
 	},
-	"homepage": "https://github.com/acatejr/brynbin#readme",
+	"homepage": "https://acatejr.github.io/brynbin",
 	"dependencies": {
 		"@11ty/eleventy": "^3.1.2"
 	}
