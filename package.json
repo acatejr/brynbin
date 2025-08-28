@@ -1,0 +1,26 @@
+{
+	"name": "brynbin",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "eleventy --serve",
+		"build": "eleventy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/acatejr/brynbin.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/acatejr/brynbin/issues"
+	},
+	"homepage": "https://github.com/acatejr/brynbin#readme",
+	"dependencies": {
+		"@11ty/eleventy": "^3.1.2"
+	}
+}
