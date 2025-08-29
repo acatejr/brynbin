@@ -1,0 +1,446 @@
+/*  
+Theme Name: letspanic
+Description: Perfect design for a bright web site with something like sudden news!
+Version: 0.1
+Author: Jehy
+Author URI: http://jehy.ru/
+Tags: business, corporate, xhtml, css, simple, clean, clear, white, grey, red, fixed width, banner, widget-ready, widgets, right sidebar, two columns, valid XHTML, valid CSS, blueprint, blueprintcss, news
+*/
+
+body
+{
+	font-size: 11px;
+	margin-top: 4px;
+	padding: 0;
+}
+
+h2, a
+{
+	color: #555555;
+}
+
+
+#top
+{
+
+	text-align: right;
+}
+
+#top .menu
+{
+}
+
+#top .menu li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#top .menu a
+{
+	text-decoration: none;
+	color: #000;
+}
+
+#top .menu a:hover
+{
+	color: #000;
+}
+
+#contenttop
+{
+}
+.commentcounttext
+{
+	text-decoration: none;
+	color: #000000;
+	text-align: left;
+	font-size: 1.2em;
+	padding-bottom: 16px;
+}
+#contentwrapper
+{
+	margin-top:0px;
+	width: 100em;
+}
+
+#header
+{
+}
+
+#header #title
+{
+	
+}
+
+#header #title .logo
+{
+	float: left;
+}
+
+#header #title #blogtitle
+{
+	margin-left: 3em;
+}
+
+#header #title h1
+{
+	font-size: 1.3em;
+	font-weight: bold;
+	color: #525252;
+	margin-bottom: 5px;
+}
+
+#header #title h2
+{
+	font-size: 1.2em;
+	color: #525252;
+}
+
+#header #searchbar
+{
+}
+
+#bannercontainer
+{
+}
+
+#banner
+{
+	height: 4em;
+	background: url('images/bannerbg.jpg') no-repeat 0 0;
+	margin-left: 1em;
+}
+
+
+#posts
+{
+	width: 65em;
+}
+
+.post
+{
+	width: 60em;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+#commentpic
+{
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin-bottom: 2em;
+
+}
+#commentcount
+{
+	position: relative;
+	left: -20px;
+	top: 2px;
+	text-align: left;
+	font-family: Georgia;
+}
+#commentcount a
+ {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 1.2em;
+ }
+.comms
+{
+	position: relative;
+	left: 3px;
+	font-size: 1.1em;
+	top: -20px;
+
+}
+blockquote
+{
+	border: solid 1px #eeeeee;
+	margin-left: 1em;
+	padding: 0.3em
+	width: 53em;
+	font-style: normal;
+}
+.post .postheader
+{
+	text-decoration: none;
+	color: #4884bc;
+}
+
+.post .postheader .posttitle
+{
+	
+	line-height: 20px;
+}
+
+.post .postheader .posttitle h2
+{
+	padding: 0;
+	margin: 0;
+}
+
+.post .postheader h2 a
+{
+	text-decoration: none;
+}
+.post #category, .post #category a
+{
+	text-decoration: none;
+	font-size: 1.2em;
+	text-align: left;
+	color: #d7d7d7;
+	font-weight: bold;
+	margin:0;
+	font-family: Times, "Times New Roman", serif;
+}
+
+#postheader, #posttitle, #posttitle h2,#posttitle h2 a
+{
+	
+	font-size: 1.1em;
+	font-family: tahoma,verdana,sans-serif;;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: none;
+	color: #fd1e1e;
+	font-weight: bold;
+	margin:0;
+}
+#postauthor
+{
+	font-family: Times, "Times New Roman", serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: none;
+	color: #fd1e1e;
+}
+#postmeta
+{
+	text-align:right;
+	color: #d7d7d7;
+	font-style: italic;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.post .postcontent
+{
+	margin-top: 2em;
+	line-height: 17px;
+	color: #474747;
+	font-size: 1.1em;	
+	text-align:left;
+}
+
+.post .postcontent p
+{
+	clear: both;
+	margin-bottom: 0;
+	color: #474747;
+	font-size: 1.1em;	
+	text-align:left;
+}
+
+.post .posttags, .post .posttags a
+{
+	color: #fd1e1e;
+	clear:both;
+	margin-top: 1em;
+	text-align: right;
+}
+
+.commentbox
+{
+	background: #fff;
+	border: solid 1px #eeeeee;
+	margin: 10px 5px 20px 5px;
+	padding: 15px;
+	color: #000000;
+}
+
+.commentmeta .avatar
+{
+	float: left;
+	padding-right: 6px;
+}
+
+.commenttext
+{
+	text-align:left;
+	clear: both;
+	margin-top: 10px;
+	color: #000000;
+}
+
+.commentform input
+{
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+}
+
+#commentform .text {
+	width: 300px;
+    margin: 0 0 15px 0;
+}
+
+#commentform textarea
+{
+    width:450px;
+    height:150px;
+    margin:0;
+    padding:5px;
+}
+
+.navlinks
+{
+	margin: 0px 5px 40px 5px;	
+}
+
+.navlinks a
+{
+	text-decoration: none;
+}
+
+.navlinks img
+{
+	margin-right: 5px;
+}
+
+#sidebar #wrapbox
+{
+	text-align: left;	
+	padding: 0;
+	margin-left: 1em;
+	width: 15em;
+}
+
+#sidebar .sidebarbox
+{
+	line-height: 20px;
+	margin-bottom: 40px;
+}
+
+#sidebar .sidebarbox h3
+{
+	font-size: 14px;
+	color: #d7d7d7;
+	margin-bottom: 10px;
+}
+
+#sidebar .sidebarbox a
+{
+	text-decoration: none;
+}
+
+#sidebar .sidebarbox ul
+{
+	font-size: 1.1em;
+	list-style-image: url('images/bullet.png');
+}
+
+#sidebar .sidebarbox .pages ul
+{
+	text-indent: -3em;
+	color: #474747;
+}
+
+#footer
+{
+	height: 52px;
+}
+
+.hr1
+{
+ width: 800px;
+ margin:0;
+ color: #000;
+ background-color: #000;
+ height: 1px;
+ text-align: center;
+ margin-left: 25px;
+}
+
+#fucken-comment
+{
+	background-color: #474747;
+	padding: 1em;
+	width: 50em;
+}
+#fucken-comment p
+{
+	color: #FFF;
+}
+.hr2
+{
+ margin-left: 15px;
+ width: 650px;
+ color: #000;
+ background-color: #000;
+ height: 1px;
+ text-align: center;
+}
+
+.searchform #searchbox
+{
+	float: left;
+	background: #f1f1f1;
+	border: solid 1px #e3e3e3;
+	width: 110px;
+	height: 14px;
+	font-size: 11px;
+}
+
+.searchform #searchbutton
+{
+	height: 18px;
+	width: 18px;
+	margin-left: 6px;
+	border: none;
+	cursor: pointer;
+	background: url('images/searchbutton.jpg') no-repeat 0 0;
+}
+
+/*** Wordpress ***/
+.aligncenter,
+div.aligncenter {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.alignleft {
+   float: left;
+   margin: 0 10px 10px 0;
+}
+
+.alignright {
+   float: right;
+   margin: 0 0 10px 10px;
+}
+
+.wp-caption {
+   background: #fafafa;
+   border: solid 1px #eeeeee;
+   text-align: center;
+   padding-top: 4px;
+}
+
+.wp-caption img {
+   float: none;
+   margin: 0;
+   padding: 0;
+   border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+   font-size: 11px;
+   line-height: 17px;
+   padding: 0px;
+   margin: 0px;
+}

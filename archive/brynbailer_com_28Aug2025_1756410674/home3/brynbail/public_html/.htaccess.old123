@@ -1,0 +1,38 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} brynbailer\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://brynbailer.com/$1 [R,L]
+
+# Use PHP5.4 Single php.ini as default
+# Changed PHP handler from application/x-httpd-php54s to application/x-httpd-phpbetas on Tue Jan 12 17:27:15 MST 2016.
+# AddHandler application/x-httpd-ea-php56 .php
+
+RewriteEngine on
+
+
+RewriteCond %{HTTP_HOST} ^brynbailer.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.brynbailer.com$
+RewriteRule ^brynbailer\.net$ "http\:\/\/www\.brynbailer\.com" [R=301,L]
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
